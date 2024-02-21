@@ -82,7 +82,6 @@ else:
     head, tail = os.path.split(filepath)
     name, ext = os.path.splitext(tail)
 
-
 with Image.open(filepath) as im:
     exif = im.getexif()
     print("n_frames", getattr(im, "n_frames", 1))
@@ -92,6 +91,9 @@ with Image.open(filepath) as im:
 
     #print(name)
     #print("im", im)
+    framename = args.name
+    if  framename == 'name':
+        framename = name
 
     frames = getattr(im, "n_frames", 1)
     i = 1
@@ -104,7 +106,7 @@ with Image.open(filepath) as im:
         stick.name = hashed_data.hexdigest()
         
         stick.dump()
-        storeFrame(args.category, args.name, stick.filename)    
+        storeFrame(args.category, framename, stick.filename)    
 
         if i < frames:
             im.seek(i)
