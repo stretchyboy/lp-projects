@@ -96,7 +96,6 @@ with Image.open(filepath) as im:
     frames = getattr(im, "n_frames", 1)
     i = 1
     while i <= frames:
-        print("i", i)
         stick = StickFrame(im)
 
         stick.compress()
@@ -112,5 +111,3 @@ with Image.open(filepath) as im:
         
         i += 1
         
-    
-
