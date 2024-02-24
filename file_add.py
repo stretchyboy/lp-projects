@@ -38,7 +38,7 @@ parser.add_argument('path')
 parser.add_argument('category', nargs='?', default="Default")           # positional argument     
 
 args = parser.parse_args()
-print(args)
+#print(args)
 
 import shutil
 import tempfile
@@ -46,6 +46,7 @@ import urllib.request
 from urllib.parse import urlparse
 import validators
 from validators import ValidationError
+from pathlib import Path
 
 
 def is_string_an_url(url_string: str) -> bool:
@@ -63,8 +64,20 @@ def storeFrame(category, name, filename):
         stickdata[category][name] = []
     stickdata[category][name].append(filename)
     framefile = open(framepath, 'w')
-
     json.dump(stickdata, framefile, sort_keys=True, indent=2)
+
+    path = Path('data/categories/'+category+'/anim')
+    path.mkdir(parents=True, exist_ok=True)
+
+    framefile2 = open('data/categories.json', 'w')
+    json.dump(stickdata.keys(), framefile2, sort_keys=True, indent=2)
+    
+    categoryfile = open('data/categories/'+category+'.json','w')
+    json.dump(stickdata[category].keys(), categoryfile, sort_keys=True, indent=2)
+    
+    animfile = open('data/categories/'+category+'/anim/'+name+'.json','w')
+    json.dump(stickdata[category][name], animfile, sort_keys=True, indent=2)
+
 
 filepath = None
 
