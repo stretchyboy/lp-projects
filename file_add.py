@@ -70,10 +70,10 @@ def storeFrame(category, name, filename):
     path.mkdir(parents=True, exist_ok=True)
 
     framefile2 = open('data/categories.json', 'w')
-    json.dump(stickdata.keys(), framefile2, sort_keys=True, indent=2)
+    json.dump(list(stickdata.keys()), framefile2, sort_keys=True, indent=2)
     
     categoryfile = open('data/categories/'+category+'.json','w')
-    json.dump(stickdata[category].keys(), categoryfile, sort_keys=True, indent=2)
+    json.dump(list(stickdata[category].keys()), categoryfile, sort_keys=True, indent=2)
     
     animfile = open('data/categories/'+category+'/anim/'+name+'.json','w')
     json.dump(stickdata[category][name], animfile, sort_keys=True, indent=2)
