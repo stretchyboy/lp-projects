@@ -1,7 +1,7 @@
 from functools import reduce as _reduce
 import json
 
-DATASTORE = "store/"
+DATASTORE = "data/"
 
 def rle_decode(values, counts):
     """
@@ -34,8 +34,13 @@ class StickFramePlayer():
     heightCM = 100
     ourPalette = None
     name="default"
+    category = "Default"
+    frame = 1
 
-    def __init__(self, height = 144):
+    def __init__(self, height = 144, category = "Default", name = "default", frame=1):
+        self.category = category
+        self.name = name
+        self.frame  = frame
         self.height = height
 
     def _loads(self, data):
@@ -59,9 +64,11 @@ class StickFramePlayer():
             return int(self.width * (self.heightCM / self.height))
         return 10
     
+    
     @property
     def filename(self):
-        return DATASTORE + self.name+".json"
+        return 'data/categories/'+self.category+'/anim/'+self.name+'/'+ str(self.frame) +'.json'
+    
     
     def load(self, name = None):
         if(name):

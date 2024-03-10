@@ -1,3 +1,6 @@
-[
-  "store/2e5cbe88a865cb69c18f38afe090b5fbdcc8313e714f4d5c22f5f9185eb09cb6.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "et",
+  "source": "../country-flags/png250px/et.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/4cfe248fec5894302f1b2ed1b63634b52025d049eefe1c79dc6cd992279af9a3.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "si",
+  "source": "../country-flags/png250px/si.png"
+}

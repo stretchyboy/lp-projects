@@ -1,3 +1,6 @@
-[
-  "store/3bc22bd129c03d9352bcca670d6904a57f20291dd971164e2c53b4f6efe687de.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "tc",
+  "source": "../country-flags/png250px/tc.png"
+}

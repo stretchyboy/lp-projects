@@ -1,3 +1,6 @@
-[
-  "store/f1bc87e836512adc4acbe35eaea4c6944d2be0b26b0e3a7521b010e91ce36aa8.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "bm",
+  "source": "../country-flags/png250px/bm.png"
+}

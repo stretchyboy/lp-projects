@@ -1,3 +1,6 @@
-[
-  "store/1b799022ad521c66fcea16265a4d8a1ac5319500a4a83743a49b7f27f3269c9b.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ky",
+  "source": "../country-flags/png250px/ky.png"
+}

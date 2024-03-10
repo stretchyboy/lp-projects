@@ -1,3 +1,6 @@
-[
-  "store/c7a0ba35e5c5d09ecfd164f027b7d6d6f58380b306aba191dd197f60c7bdf870.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "mz",
+  "source": "../country-flags/png250px/mz.png"
+}

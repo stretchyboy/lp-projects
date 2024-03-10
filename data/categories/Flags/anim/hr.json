@@ -1,3 +1,6 @@
-[
-  "store/95ed6bf4727f3ce043d3f1de82f6708f22ab2cd3965900bf0fcf35936041ec01.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "hr",
+  "source": "../country-flags/png250px/hr.png"
+}

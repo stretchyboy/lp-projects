@@ -1,3 +1,6 @@
-[
-  "store/eb8bf8f40c8de28f00152a26134f956d38f29cf3415c5bc06b2617af00ac9eb2.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "md",
+  "source": "../country-flags/png250px/md.png"
+}

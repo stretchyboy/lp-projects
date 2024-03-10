@@ -1,3 +1,6 @@
-[
-  "store/181f9c961841d266d4d433f4c868f3f29efdf20923fa54d210ffbfdcf33527d0.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "do",
+  "source": "../country-flags/png250px/do.png"
+}

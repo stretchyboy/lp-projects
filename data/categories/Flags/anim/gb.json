@@ -1,3 +1,6 @@
-[
-  "store/17ab415348c43a88b00d4c2e8f5a310647d7d4230314c0ae3ea5b9cd93e22662.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gb",
+  "source": "../country-flags/png250px/gb.png"
+}

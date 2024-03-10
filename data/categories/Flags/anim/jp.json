@@ -1,3 +1,6 @@
-[
-  "store/3e06c0288547f91a745a43f0f9f1c76b012c824b3c724bdb570692d405bece04.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "jp",
+  "source": "../country-flags/png250px/jp.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/16048cb39532662cbb522410db6c95f8baffaacffc234e668ec14cbbdcb6ad90.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "eu",
+  "source": "../country-flags/png250px/eu.png"
+}

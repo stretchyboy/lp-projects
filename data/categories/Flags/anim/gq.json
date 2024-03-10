@@ -1,3 +1,6 @@
-[
-  "store/a3131f15c61735bda04917978240f7fd539b8280b1777755fa61be95165777c1.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gq",
+  "source": "../country-flags/png250px/gq.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/4d6b4d1cb04c2f81ff906d435827f85c522d3c409a36658e26a00a7ec918b8aa.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "kh",
+  "source": "../country-flags/png250px/kh.png"
+}

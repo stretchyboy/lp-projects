@@ -1,3 +1,6 @@
-[
-  "store/20442585bca1ff9d22ed40e12bf64bc8f5b08e1e76c1dc91224f388b6d75e10a.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ba",
+  "source": "../country-flags/png250px/ba.png"
+}

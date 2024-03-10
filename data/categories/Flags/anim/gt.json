@@ -1,3 +1,6 @@
-[
-  "store/93e37c0b44bcdf675f3c97c9fdc5cf64b83ae69054c73a1709979150b2cb3bdb.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gt",
+  "source": "../country-flags/png250px/gt.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/4dbe12bd815666ce2eefd44040ef29fe2652aced2c350096a42d9797d0188253.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "br",
+  "source": "../country-flags/png250px/br.png"
+}

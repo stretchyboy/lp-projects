@@ -1,3 +1,6 @@
-[
-  "store/e4e652a395316b3f10a1f8261d40a36ea867a784c3093adf311ed49aeb7f5c38.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ly",
+  "source": "../country-flags/png250px/ly.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/d805bf836280224adf99c88b86dc2f3d2b2988026fe969722ad500d868e7cccc.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "fj",
+  "source": "../country-flags/png250px/fj.png"
+}

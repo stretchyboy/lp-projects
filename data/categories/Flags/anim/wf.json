@@ -1,3 +1,6 @@
-[
-  "store/1d9b22aaa0a21412d8e86922ea845321dce574817842a1cf664e5a235415bbbd.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "wf",
+  "source": "../country-flags/png250px/wf.png"
+}

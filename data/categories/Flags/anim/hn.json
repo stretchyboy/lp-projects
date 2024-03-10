@@ -1,3 +1,6 @@
-[
-  "store/49700b61f71cb960465e8327efce1b2e30da69f03849c2c91c343bba1e6229d7.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "hn",
+  "source": "../country-flags/png250px/hn.png"
+}

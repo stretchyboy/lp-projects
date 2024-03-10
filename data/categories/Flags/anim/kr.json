@@ -1,3 +1,6 @@
-[
-  "store/b3a490fc322d8d42d715fbe7f95f0f7ec9cec1766b488c1a3014d7dc3df82b95.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "kr",
+  "source": "../country-flags/png250px/kr.png"
+}

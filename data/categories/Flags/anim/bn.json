@@ -1,3 +1,6 @@
-[
-  "store/c773770ab2535ab4c72bb278c59de38e289cd3841af33ca6bd80df42cd2135a6.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "bn",
+  "source": "../country-flags/png250px/bn.png"
+}

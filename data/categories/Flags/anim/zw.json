@@ -1,3 +1,6 @@
-[
-  "store/4e5c6007f31da964da6b8182041f10fe7d0d6bca3a9c970bc28a1aba0430251a.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "zw",
+  "source": "../country-flags/png250px/zw.png"
+}

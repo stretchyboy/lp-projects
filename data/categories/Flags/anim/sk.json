@@ -1,3 +1,6 @@
-[
-  "store/54d1323251b15765362b8960c848a2050629d19799d3c0ca29b99b1fcc0201a7.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "sk",
+  "source": "../country-flags/png250px/sk.png"
+}

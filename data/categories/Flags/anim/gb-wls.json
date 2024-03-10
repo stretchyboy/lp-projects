@@ -1,3 +1,6 @@
-[
-  "store/bc2a1640916795180d05c026f3ea576285285a342ab32a6963f155a10acfbe00.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gb-wls",
+  "source": "../country-flags/png250px/gb-wls.png"
+}

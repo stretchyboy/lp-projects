@@ -1,3 +1,6 @@
-[
-  "store/1e11ff15239c6dd2455666e20cf6bae882da1a06a96076796257409f01b6f6ba.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ua",
+  "source": "../country-flags/png250px/ua.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "bl",
+  "source": "../country-flags/png250px/bl.png"
+}

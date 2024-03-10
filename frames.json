@@ -1,1214 +1,1562 @@
 {
   "Default": {
-    "Fox animation": [
-      "store/b6a8e71327c891b6f599252aecd5df03b97c43df30263b8f18f2366095f8b9ac.json",
-      "store/e83cee288771c457567a70e5594049f5ce34f52cbdf21e290e394789f0e9a9b3.json",
-      "store/e2759a22dc1db4da0fa790db71189167442e83c8706f6115755cf2bbb9492f7a.json",
-      "store/d0db80ad683d09a2f5b6e4c8d1e46d5ed1d5acaba9e4a440c66e0e5ef7b7e59d.json",
-      "store/f100aca3919e20f914a5b31c4a0d16f68db59513613714ce84869b62a02b1d7c.json",
-      "store/fedd69cb5ad8344ce8ae3adb1d06fb1ffdce735b1c17eebecb2b01e33b4f0f17.json",
-      "store/13efc931d819532785e7f84f0dd58ef819a0181d308668da347981006fda7dae.json",
-      "store/b6a8e71327c891b6f599252aecd5df03b97c43df30263b8f18f2366095f8b9ac.json"
-    ]
+    "Fox animation": {
+      "category": "Default",
+      "frames": 7,
+      "name": "Fox animation",
+      "source": "https://i.pinimg.com/originals/5b/19/d3/5b19d355d154388b45e4a8e3d01b16ae.gif"
+    }
   },
   "Flags": {
-    "ad": [
-      "store/0c2e9b95205feca0450a82623f8fb098c101a10d7e5f69a5304ba6db2f5dd79d.json"
-    ],
-    "ae": [
-      "store/73cc01551b545ab5ed589d1b369e9de5d4927852597d4c50e19687cd04a0ef16.json"
-    ],
-    "af": [
-      "store/0f597de7a282ed8e2de3f01ec128e1b28fad91493314dd89f85ba3f1c2acf210.json"
-    ],
-    "ag": [
-      "store/e76dfd9665b3f917bf3d1a30873088119525b5230e2101dc1e76962c3126281b.json"
-    ],
-    "ai": [
-      "store/4c6b7cb38696c0df7a952f77b27f07915d4344ef4ddd493537feef0132beb44e.json"
-    ],
-    "al": [
-      "store/1be2fd83ea2e40e7d2fd4b8b68520ced18f27f3f88a30e58eefe54dc5436eb4f.json"
-    ],
-    "am": [
-      "store/b1e0390e0d2b6193cb7cce31828e72a33eb9a21a1ca49b16baecdb2c071d5a75.json"
-    ],
-    "ao": [
-      "store/dd34c3149aaa351f18c0a7a8cc8b0502110476c8eeb2e76ee9da6c15fa527be1.json"
-    ],
-    "aq": [
-      "store/50760c1081a7a0e10f52c923a15a278d5d1214e819fb1a36b5738a4715665f78.json"
-    ],
-    "ar": [
-      "store/4afcede0f4e86f42fe29f48dc48d0938d3c44705d8d6022c600f1bc4dd7dbb69.json"
-    ],
-    "as": [
-      "store/515d26e32b706fac64c5835647c73a576a9f9f681ea27b1eca94975b3af72b4f.json"
-    ],
-    "at": [
-      "store/88725e049a8b7181a71ab7e4eae23ed697f0015d95acff6368151800eded61b1.json"
-    ],
-    "au": [
-      "store/f5631dfeedc2a842959b7ee6a7c52791ac381cc549178096fab0ebcfb059da7a.json"
-    ],
-    "aw": [
-      "store/df10690bc2bda0eae66eb316d0f80eb074a7e04fe8dc3d1df181771a63c5f519.json"
-    ],
-    "ax": [
-      "store/af955fdfa775eeb00a384caf76a81926080f9559235c24657fcdea43944df0b2.json"
-    ],
-    "az": [
-      "store/797d12be2c039b03de1b02d03a1a45ac5ab5087c386e8dfeca233985429969e0.json"
-    ],
-    "ba": [
-      "store/20442585bca1ff9d22ed40e12bf64bc8f5b08e1e76c1dc91224f388b6d75e10a.json"
-    ],
-    "bb": [
-      "store/8c7216f67f3b41ad27d44484f805be61f33a2b8c06dcd0ece0b21b30933c86c7.json"
-    ],
-    "bd": [
-      "store/b4958c0abb23e6e82622b62fdee1e20b2a9a5d14cf99dfb6faef3e08d1b5f706.json"
-    ],
-    "be": [
-      "store/1a2740faf5e132c1e41ec1430bd0ba2eb045e86fe98e59dcb35c9622a829bd63.json"
-    ],
-    "bf": [
-      "store/1adc5a51567deb87e91c16682e8d37a6642f4a079f2ef23a22793b08cfec9d7e.json"
-    ],
-    "bg": [
-      "store/040f862608293c203c08264f68af0404a6f625815d260240e7453e381fdf620e.json"
-    ],
-    "bh": [
-      "store/aadb389023028534d0768e3b89c80a1cc82a0c12b2a7dc2b87712a5ccb4ef38f.json"
-    ],
-    "bi": [
-      "store/8b9282a76516fee422e90b8da1b12cdfef4ea99fc4159ff196f32e9c2892ded5.json"
-    ],
-    "bj": [
-      "store/c46f63935f7037fe402e20573f219f04d28395a20229d0935c7def54a5935700.json"
-    ],
-    "bl": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "bm": [
-      "store/f1bc87e836512adc4acbe35eaea4c6944d2be0b26b0e3a7521b010e91ce36aa8.json"
-    ],
-    "bn": [
-      "store/c773770ab2535ab4c72bb278c59de38e289cd3841af33ca6bd80df42cd2135a6.json"
-    ],
-    "bo": [
-      "store/d602d85d3731dec29a14caa8ea3c600ad7a3e1390ee47520d223b60ac6f2b4f0.json"
-    ],
-    "bq": [
-      "store/b25592510603c22c59bbe832b7f3d57fc357861e09bd6af056f8178ac3a49c85.json"
-    ],
-    "br": [
-      "store/4dbe12bd815666ce2eefd44040ef29fe2652aced2c350096a42d9797d0188253.json"
-    ],
-    "bs": [
-      "store/aa48ccafdc3da4b3d2ee99ab252e1b0c4e1975623e4f40fb725e646619d06bab.json"
-    ],
-    "bt": [
-      "store/cc6a4cbfc6fd8bf8cb963cc991def3cf81f2060c0c383762a7ba785ded7540e5.json"
-    ],
-    "bv": [
-      "store/eb5e5f5d7ed6b67eb9b9db078648b3dd4321a35eee6d65c0c39713a249a19295.json"
-    ],
-    "bw": [
-      "store/ec2fa2da79d7abd284584966aea20c66bbcf590877adfa6092c93c36a3597f74.json"
-    ],
-    "by": [
-      "store/cd268ff7f3f7a857b1a58686f16347097a12c67f0f06504bcff4c7cf3e70c7bb.json"
-    ],
-    "bz": [
-      "store/f831c7f46a5ca217c0ff6d4902444704e23cd501e03ce50151230f5eb069f90a.json"
-    ],
-    "ca": [
-      "store/2bb9860622e1127a63055c9719183c2a834b1ccdad1c390d24134a5d5c8eaf07.json"
-    ],
-    "cc": [
-      "store/4b601faa378eea0a549278a74a312bbd9855c0f5cfe430b26ed741ad65432e76.json"
-    ],
-    "cd": [
-      "store/ed480a82d2d2e9e5133ea161b9c4650ae8785d6cddd7d6648538c4c8d7162970.json"
-    ],
-    "cf": [
-      "store/1f41d636dda6e2a40f986363dfb25f56add498e249b2359be1191b8a3dc7d274.json"
-    ],
-    "cg": [
-      "store/5489fb5192f5cb91bf9797f0cd342adcb33629022630d10e24437ec34e3f3c1f.json"
-    ],
-    "ch": [
-      "store/4f67c843ec42519367afc8cdce7e2e4c1248422fb029abc3f22898e6bf97c015.json"
-    ],
-    "ci": [
-      "store/25a950c465a054271a959f1751c7e14332e96a38d7e6c4de34fc41e7313a3c82.json"
-    ],
-    "ck": [
-      "store/5dc95f354c68c476920de24a027f96061ff3a98415b9bee89626a6b3f5a1aab0.json"
-    ],
-    "cl": [
-      "store/f9c7d9f33fa55090927da2dd2c3142f4c0da321c4fe61553499d6cc040336edb.json"
-    ],
-    "cm": [
-      "store/5459973885ac81305d1241828633b7c3d5dc3e4d4458bfd60b3837e25ee6974b.json"
-    ],
-    "cn": [
-      "store/e43b0eb02cc292cc22a5e2432b2f28bdd75fd443f32f137dd4cb55d8ac224c91.json"
-    ],
-    "co": [
-      "store/d2483386b47daf369b451d75b3ac0db9abfb9d86664b06e467c65d379cd77bcc.json"
-    ],
-    "cr": [
-      "store/a5597b1c7fa42dbb119df05c53ebc1af9846a4646cc9c8d833ff0bb64c33d40c.json"
-    ],
-    "cu": [
-      "store/7530a370c7daeac185f870043c0358610fd1688d56660e11da7c24640bf79017.json"
-    ],
-    "cv": [
-      "store/fbfaa37cb3e9101f5509aa433f24e282afc766d1a27a5f2dfb55f63d583d8586.json"
-    ],
-    "cw": [
-      "store/327255320128649956bb57931ef6df1a197e632e137b9dff72adec3b5039bec7.json"
-    ],
-    "cx": [
-      "store/f59efd4afc6f9ecf7e479d2e38f271754c5fe6e73d00e030b05a882db7808553.json"
-    ],
-    "cy": [
-      "store/8b8cc4d5d5eca5b01bb38019d49cb45cf36bf752a0ac27525966df05dba7199e.json"
-    ],
-    "cz": [
-      "store/810638afd6c0bca2f1a9c1cd6c48112aa3f9fad2cc0740a0de8cbe67c08d4250.json"
-    ],
-    "de": [
-      "store/4d4eda1b06a3c83c03ba4f78ae6cf5a5dee76a616505d72156386f49706d2d9b.json"
-    ],
-    "dj": [
-      "store/5fe5e46cd7525c2a1a1174c439e10f7d0e0b7456427682965333bbc0b481c03b.json"
-    ],
-    "dk": [
-      "store/fffce5dfc06ad85fc372c8deb711c70882b8a875bccc071172131bde8530c71e.json"
-    ],
-    "dm": [
-      "store/f1d04345476566b79e0b7d712a1b492851cca5283478c637c85c9971fc4d99a1.json"
-    ],
-    "do": [
-      "store/181f9c961841d266d4d433f4c868f3f29efdf20923fa54d210ffbfdcf33527d0.json"
-    ],
-    "dz": [
-      "store/9ca3aaf8b5001f25b3a094e921ddf2a09563809c8f46017dc1311dc4e1666746.json"
-    ],
-    "ec": [
-      "store/ef08eee50b1a71259aeccca4559f9d0cd4ba7c18def57270fdab355c21e9654a.json"
-    ],
-    "ee": [
-      "store/81be49aea59e6885774c8f343eafa13c0b64a27a90a0170916a55181ec3ebf64.json"
-    ],
-    "eg": [
-      "store/1dcb95a121943eb025acfd485832906081bd6fe630b1db08b1fb81d6fe4a2da1.json"
-    ],
-    "eh": [
-      "store/5c1394556539640906b4597074dc93e1270aabcd45bed27bd22a6bf0cafd1ec9.json"
-    ],
-    "er": [
-      "store/52a217aac7bb00e45885b9754b78cf1b3117b600ed0255d551910d0545384917.json"
-    ],
-    "es": [
-      "store/103c44974c3ec2103b89362b7d2dc5ca54e6c35b05978cbff83ebf309c2b66fc.json"
-    ],
-    "et": [
-      "store/2e5cbe88a865cb69c18f38afe090b5fbdcc8313e714f4d5c22f5f9185eb09cb6.json"
-    ],
-    "eu": [
-      "store/16048cb39532662cbb522410db6c95f8baffaacffc234e668ec14cbbdcb6ad90.json"
-    ],
-    "fi": [
-      "store/29310974da29eb9df7f0fee61ffa239227ebd8343a51ae4f626c8ad9a85d17d4.json"
-    ],
-    "fj": [
-      "store/d805bf836280224adf99c88b86dc2f3d2b2988026fe969722ad500d868e7cccc.json"
-    ],
-    "fk": [
-      "store/e6d1d1ac9f455699b896192504974ff5fc15fe4f5012dd91a628c4f8fde5d296.json"
-    ],
-    "fm": [
-      "store/9dc257a3ad88bacb4d8e2c77a1db52dfbab51724a3808dad245178bbe8e4cb74.json"
-    ],
-    "fo": [
-      "store/bacfd439ca8128e26c7a4996e660dae55c45496ff946e5d73b9aba4b783c421d.json"
-    ],
-    "fr": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "ga": [
-      "store/17430a103f4c11d849c0d7cbfa1f8bdbccd806a0201668c675dfa5b0c4320a7e.json"
-    ],
-    "gb": [
-      "store/17ab415348c43a88b00d4c2e8f5a310647d7d4230314c0ae3ea5b9cd93e22662.json"
-    ],
-    "gb-eng": [
-      "store/246bd279ddcdea3761d80f825a397751ff29f52cddaee1f050a3fba168c46fe5.json"
-    ],
-    "gb-nir": [
-      "store/17ab415348c43a88b00d4c2e8f5a310647d7d4230314c0ae3ea5b9cd93e22662.json"
-    ],
-    "gb-sct": [
-      "store/c8cec086be3ca871b4ce62b2008cae4b8023e707266e8d7061ac02e46c0b2a3a.json"
-    ],
-    "gb-wls": [
-      "store/bc2a1640916795180d05c026f3ea576285285a342ab32a6963f155a10acfbe00.json"
-    ],
-    "gd": [
-      "store/052a206bc08321aaa048e1de812637baed6bd6c1ed5aa1885609b679ea601b47.json"
-    ],
-    "ge": [
-      "store/c4f660b39dd937cfd72f54d374cd19386607be53c968532a79cf0233a23990b8.json"
-    ],
-    "gf": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "gg": [
-      "store/b853243ee007b9bc4d629584b466c0637e285cc430d29454df4ecd2bef1484e3.json"
-    ],
-    "gh": [
-      "store/693d70b426a23f4f6aa20ffc0c205c457da9e3225ff1838c4f3dbc9fdcbaaa6c.json"
-    ],
-    "gi": [
-      "store/ee8ba186e3256c3381cd16b6ef1e8af858321fd2827bac9944e1c277be7ae057.json"
-    ],
-    "gl": [
-      "store/8f3fbb3d40936aa2a32e42fa825121bfbd7290aca246e40169c94fd6edc4fdfb.json"
-    ],
-    "gm": [
-      "store/a7c8c74feb7edad83a42fec509082a2e37b6f4543c7e0c692989549de658a0eb.json"
-    ],
-    "gn": [
-      "store/d9c4a93820b5af3c37a8d24469af2b6145ddd7ff94334f1037cc131e744e73a2.json"
-    ],
-    "gp": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "gq": [
-      "store/a3131f15c61735bda04917978240f7fd539b8280b1777755fa61be95165777c1.json"
-    ],
-    "gr": [
-      "store/27c08a8eb1ee28b4fe12d3051aa5581724dc0ee3300669e85d10fb7bf9211fb9.json"
-    ],
-    "gs": [
-      "store/6eaaf941f2d95d18e6e086827c284f9d5bd3f717873f9ea83e0caf21958b3cd9.json"
-    ],
-    "gt": [
-      "store/93e37c0b44bcdf675f3c97c9fdc5cf64b83ae69054c73a1709979150b2cb3bdb.json"
-    ],
-    "gu": [
-      "store/bfb883c5e070fa7a42c8a7ba0c3c1440e7da9347c2bfa2092afab8c212e56aef.json"
-    ],
-    "gw": [
-      "store/e39e4c44cd42ee815aaf8c028613e0878e9aa8ed05b798a85aee059a3ecbe7e6.json"
-    ],
-    "gy": [
-      "store/81b69e9242c99a86c20bb0d20322900e11f4300a4a94827c4c303e3c2b511ef6.json"
-    ],
-    "hk": [
-      "store/70aee5a08d33e16eed575df7e9ff06bf4a5cd139778beed640036f94ddf3ec53.json"
-    ],
-    "hm": [
-      "store/f5631dfeedc2a842959b7ee6a7c52791ac381cc549178096fab0ebcfb059da7a.json"
-    ],
-    "hn": [
-      "store/49700b61f71cb960465e8327efce1b2e30da69f03849c2c91c343bba1e6229d7.json"
-    ],
-    "hr": [
-      "store/95ed6bf4727f3ce043d3f1de82f6708f22ab2cd3965900bf0fcf35936041ec01.json"
-    ],
-    "ht": [
-      "store/c5059d53312cf0ba2514744714769f5a22063c44b88a27d6f64433cb7814958d.json"
-    ],
-    "hu": [
-      "store/107fc73190d0c32c18ea559bdc789be693a3aa3206d2288f1330d5581a7e19ae.json"
-    ],
-    "id": [
-      "store/c89a9d7a2dbfa7adcdf7e1acb58e42b4d2747ffe7ae3ab041fb229a846092023.json"
-    ],
-    "ie": [
-      "store/7ec05697d7285b852fdc5e955578f104b887012df91525121edf4c4f55192201.json"
-    ],
-    "il": [
-      "store/89a37d997653abcadd97d9eeb47d4a444428a3927ded0a97db998e1b28052992.json"
-    ],
-    "im": [
-      "store/95db202d6b6c60fa501df5cb537345222ea2ac939a7f08c696048213016a9693.json"
-    ],
-    "in": [
-      "store/16b71bca597e976cf4acbfd9573fb859ca75203f9028b68b672ac4504b0b69ce.json"
-    ],
-    "io": [
-      "store/1f334653d93cd23f366f86090e25a5045c5017534488d4d2ca501cea06133258.json"
-    ],
-    "iq": [
-      "store/ab061c10eeb5d8ca2e4f46586a11363b0d3c07bc7c6d47be5cbd48e6d9dc91ed.json"
-    ],
-    "ir": [
-      "store/5b7789c7961b13d54e80b7733d169e2b1401433688483a831925907ab16523c6.json"
-    ],
-    "is": [
-      "store/078fe4879238ed03b43e68550e26c056971923fbfe39c17dd33e5589f02b5c18.json"
-    ],
-    "it": [
-      "store/cff41a5796c800e4a2fd4eb73dcf6a02fe08fe08dbf38fb2443077268bf5b860.json"
-    ],
-    "je": [
-      "store/9a1d98d96596e04e6f9478785123111c06dd7e8b5cad24f9eae9b2f6535cf616.json"
-    ],
-    "jm": [
-      "store/0eedd57663c534aecca6c9a59bc75de146cdd1ba76bff2c78fc63af5dc7f7cff.json"
-    ],
-    "jo": [
-      "store/f39d95abda62266e647124e67d5021aca461c01fdc3ecdcb79405107138def90.json"
-    ],
-    "jp": [
-      "store/3e06c0288547f91a745a43f0f9f1c76b012c824b3c724bdb570692d405bece04.json"
-    ],
-    "ke": [
-      "store/a6c4f4806924511a0b0f1170eb24b31ffd5c69f8bc6213a1bcc608c8b00fedb1.json"
-    ],
-    "kg": [
-      "store/be35e11f0d9b2bc35319977eea827ac94be792b3d484b5b9d41f5ae23a70da4a.json"
-    ],
-    "kh": [
-      "store/4d6b4d1cb04c2f81ff906d435827f85c522d3c409a36658e26a00a7ec918b8aa.json"
-    ],
-    "ki": [
-      "store/b45a9fadd2dab992ae3eab67af0ed47b2934a3e56f75565e2521cd414efbd9f1.json"
-    ],
-    "km": [
-      "store/bbe864913d7d8fe342493b7746e146274794697802eb56b36f0d8f095617684e.json"
-    ],
-    "kn": [
-      "store/8e29d1ac95eda74c0f3f591a8086cf224ca4c114a23b6c775eea57fbad2e57ec.json"
-    ],
-    "kp": [
-      "store/9e4b0228794f6815effdb1eb8939746e792705585ce693232cdf57c0cf246674.json"
-    ],
-    "kr": [
-      "store/b3a490fc322d8d42d715fbe7f95f0f7ec9cec1766b488c1a3014d7dc3df82b95.json"
-    ],
-    "kw": [
-      "store/71d18c3ed83fcefd49fc5eb98a90fdf481b00b74705a66871ac60e9ec5fac72a.json"
-    ],
-    "ky": [
-      "store/1b799022ad521c66fcea16265a4d8a1ac5319500a4a83743a49b7f27f3269c9b.json"
-    ],
-    "kz": [
-      "store/5c971abb649d24bebe499782b36fb86d16bf91838d161f215afcbb239379974a.json"
-    ],
-    "la": [
-      "store/5e962fd970c49d6054e231f3de4a8e41914a3b8c8a5d5eed4f60f8dc10a362ba.json"
-    ],
-    "lb": [
-      "store/67e8fc68289267ac3dd6dade8cc13efb0ed8c1b1ceca5e2b4e579e02b75b1bc8.json"
-    ],
-    "lc": [
-      "store/b63e9d9c73611628dd0f9fd22eef0bca3e1e53add9cb597677bb927cdf2d8d84.json"
-    ],
-    "li": [
-      "store/b93662b22509b9bd182c388288bc891616e09568010c3f9c23eebdc1c210a163.json"
-    ],
-    "lk": [
-      "store/ca95d6731fdc458fe8a9538c2367e3afbf8f4638c0f104c76252261ca4a54e36.json"
-    ],
-    "lr": [
-      "store/54d0c575c3e2e4d11465523ae3f122aca261266cc4f1ba66dbabacbb1d19ff0f.json"
-    ],
-    "ls": [
-      "store/d042efc303baba591896665a2dcf63f75254a9e5df977b13b5043d08a515f767.json"
-    ],
-    "lt": [
-      "store/397524bee0b3fc57bff03673450b64eb60c3a9cf64e7742e4fdbe1c4a81d9057.json"
-    ],
-    "lu": [
-      "store/5245516775b0b1747debc896403a43dd102b758ec3f59a2baf4a45998ee6b898.json"
-    ],
-    "lv": [
-      "store/ab868be08118c5b553a1224f557f3a89f63f6d722298f1a1c5909e38b18a47a1.json"
-    ],
-    "ly": [
-      "store/e4e652a395316b3f10a1f8261d40a36ea867a784c3093adf311ed49aeb7f5c38.json"
-    ],
-    "ma": [
-      "store/be94ac54cffcd7698cca57f59b360c31434c7416264a52452f5b17391595f8e5.json"
-    ],
-    "mc": [
-      "store/f848033186bb271b61c543e54773d7a5353c46fc7bd1254f293831377d31b452.json"
-    ],
-    "md": [
-      "store/eb8bf8f40c8de28f00152a26134f956d38f29cf3415c5bc06b2617af00ac9eb2.json"
-    ],
-    "me": [
-      "store/c79bea6b3f5f0aab741371d08c2db049ff0c2a432be0c5c12ca8a20c31eea305.json"
-    ],
-    "mf": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "mg": [
-      "store/7788f79d0f67c9b43aec2ae444bb44a73173ab20687307c217d8ab605be51b4f.json"
-    ],
-    "mh": [
-      "store/a0e8820722cf7bdd42ed9d64c1cbf5ab675a9e4e685d67231519c738f6196f53.json"
-    ],
-    "mk": [
-      "store/d7080e631db067b7557f67fb2b53d3c8a21d4c081df537dead3d10843570d7c8.json"
-    ],
-    "ml": [
-      "store/91aa0f46ab0dfa989feac79cbcf2bcd369404fe77d3d5959083a8eba146377db.json"
-    ],
-    "mm": [
-      "store/c09d83dd145f7032f43b204176810e7c44fa07b06f5da754d72aaa9d32c9d50a.json"
-    ],
-    "mn": [
-      "store/d57bacb66e685b773a79f4b4a4775bfaf3c9b8f5479455144af30f535b1270c9.json"
-    ],
-    "mo": [
-      "store/bc84ffa78df99ed438294e460bff94a37bdf6e601ac2c882cb0f3f2b726d8315.json"
-    ],
-    "mp": [
-      "store/697ba4c81504362436bb48629dd761ac04daa2ce2d86824a863c31bce0d93733.json"
-    ],
-    "mq": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "mr": [
-      "store/a1e74836fa9ce5a100ae3fa5f8f5042fe660d927020256bb2bd7f8df45bfaa34.json"
-    ],
-    "ms": [
-      "store/870a42b3ac204c2c5f7b55adf31559e4a0b9e9d7e1faa6143cd7306fd9ce4616.json"
-    ],
-    "mt": [
-      "store/a20e61b0fc88ec1aee0bf74b2154d92ec624476ccf8c05df1bd7cdf224622090.json"
-    ],
-    "mu": [
-      "store/b9c9ced07905351142ae9f6d01daea1eb2f62f408295bd979338f90eb2e39c9b.json"
-    ],
-    "mv": [
-      "store/405da2d7421e5d2ef98bcd7d25ca19db6a570311894d68d9e1f4d48966581937.json"
-    ],
-    "mw": [
-      "store/4ae3be076cff476ea1ea1dfc4d3d21283cf96d912d98bd71313bbab6bdfe291e.json"
-    ],
-    "mx": [
-      "store/6c0787c27aa8b142ef3c7ccc1ee13b8ae908f18f56536cc401ca18612f73061c.json"
-    ],
-    "my": [
-      "store/d8f54788fcfb9e497897b7d0fa4d6e600e3b80345f07aae533af3343c74c1da1.json"
-    ],
-    "mz": [
-      "store/c7a0ba35e5c5d09ecfd164f027b7d6d6f58380b306aba191dd197f60c7bdf870.json"
-    ],
-    "na": [
-      "store/a7e5c650fdbf189874bdc7def3dd1f844268f67b020d94b4b0ced2af5d2cbb3d.json"
-    ],
-    "nc": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "ne": [
-      "store/7dd539c1e81e6a6c44ec32be961be392632c7f5bffdd1bcaf75c77ba78b065f4.json"
-    ],
-    "nf": [
-      "store/a217b96e782c2a242c2edca89483fff7a2f3936205dd467db918dce4f0b40392.json"
-    ],
-    "ng": [
-      "store/131a1c36db658152c6e0d0776e5a9c67f75b8db01d65a6e8baf867d81e18759d.json"
-    ],
-    "ni": [
-      "store/88d792553dcc5149dc0db4b741af73cb46db590c351e5d12dc6092e4f9fc1c30.json"
-    ],
-    "nl": [
-      "store/b25592510603c22c59bbe832b7f3d57fc357861e09bd6af056f8178ac3a49c85.json"
-    ],
-    "no": [
-      "store/eb5e5f5d7ed6b67eb9b9db078648b3dd4321a35eee6d65c0c39713a249a19295.json"
-    ],
-    "np": [
-      "store/e80bf978f6e5112c03e01b234c363fe5e5e01074abf3c0ddcf7fa460424451a4.json"
-    ],
-    "nr": [
-      "store/9e2981b0a3357bcaecc794157f3cea954a3d5506aa24d1e10ebe06fd2408cf5e.json"
-    ],
-    "nu": [
-      "store/86d41e6df1c8efc78f44b69fe7526a01d437557ef0b85fc9add62a7e530e7f41.json"
-    ],
-    "nz": [
-      "store/5859d467e7c8b79390b145986198813f34e46ebb19f94174d0daba5a90c7fa69.json"
-    ],
-    "om": [
-      "store/29c46c0557f51727b0bc9f14a0ce9b8b5a5812a1923a3526676c0e9fbba5c540.json"
-    ],
-    "pa": [
-      "store/2fae3204452c8c07a1249ed76c6757c2b46db61a10288a250f04ea4561e7f6c3.json"
-    ],
-    "pe": [
-      "store/24462334d28d10f2246d0188b465b023ada0f4026820b0d0f051d48431303044.json"
-    ],
-    "pf": [
-      "store/ee582cf0723746ade54cc006a41517cfe9fe21c9f15ad24278f3014805d394f8.json"
-    ],
-    "pg": [
-      "store/a127378265dcd5edc396f01c2430c8632c6fe6650e4c0c47efe67c10bee02bb4.json"
-    ],
-    "ph": [
-      "store/7537c0e6930549b5d920fae93d140bac1331bec2959117794872dc5a3479a689.json"
-    ],
-    "pk": [
-      "store/011b87a7dc05b26f5e9470e6c1e0e1da7b90d3dcaa91a149f87391bedf96432d.json"
-    ],
-    "pl": [
-      "store/a3359c5e52dbe8195005c2734ae110a68ec8ba971660efb915e29af4c288091d.json"
-    ],
-    "pm": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "pn": [
-      "store/23d937ef8b9af02a0c9f5802b1ddf2b54ac61ebd32fd097676db7d12f045ad0c.json"
-    ],
-    "pr": [
-      "store/f1ad318a296e61b0e8514e93e3567afec0b60743a80c5f1e82bf2cd80bfd6496.json"
-    ],
-    "ps": [
-      "store/ffbac6306d77605aa09ecbf07d967bf62e01594336ab9446bbd5d947246d89ea.json"
-    ],
-    "pt": [
-      "store/826196437a2e2b40549f20f5af131342b613c8dcafbdbd8a20846b97e6c85aa7.json"
-    ],
-    "pw": [
-      "store/73864aebb193de2be8fd50fd479a0750742d451761868b437c4c6f82148535bb.json"
-    ],
-    "py": [
-      "store/0fd7acc8d4946a202aeeeab741b7df150049d9690a1faf518bfafff013a43df3.json"
-    ],
-    "qa": [
-      "store/6abc44b11e856171c7171018d81e384bc3b7b7a3cccc36f3c96b7e44bc84c47f.json"
-    ],
-    "re": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "ro": [
-      "store/8c23656e44497235884a967771310d2781b70ab2f2f1fa50b8dc1ace4a97e3d7.json"
-    ],
-    "rs": [
-      "store/04b556d7c3bd7d558c08a23c085a897ee560f8b9240b5b28538e22b611a20a29.json"
-    ],
-    "ru": [
-      "store/9c12ab927b91fc00f46c8d94f67b2c246b3a54ab72f548e571499588b5fbfa74.json"
-    ],
-    "rw": [
-      "store/15a94c212e9a68fe1e53cc7059fd95efedb51155e9408265c2766c3fd471dca9.json"
-    ],
-    "sa": [
-      "store/53bd2859ffea072381cf886d962a9975a2d5731edad403b45bdb576e9afbf0e3.json"
-    ],
-    "sb": [
-      "store/2aca62db9db4665c63b6398e9f54e8833a5ba285247583ae78dc98c484784491.json"
-    ],
-    "sc": [
-      "store/0f1f0970bbffeecc140f8c9d51748ee7e32e39f1680558ed560456315b478b1c.json"
-    ],
-    "sd": [
-      "store/e34b26d11bd45066695e5c44184c8460b9dafb9109948e92e7b19967762527c4.json"
-    ],
-    "se": [
-      "store/02811fcdef20a67f1fe8ae3514374ac5f81c24739cb93b41d9e322af81b818ab.json"
-    ],
-    "sg": [
-      "store/a433e952797a3eb9ad2c90a72e86610f4c14b7e6d6f19b8b1c57437a09bca9c0.json"
-    ],
-    "sh": [
-      "store/17ab415348c43a88b00d4c2e8f5a310647d7d4230314c0ae3ea5b9cd93e22662.json"
-    ],
-    "si": [
-      "store/4cfe248fec5894302f1b2ed1b63634b52025d049eefe1c79dc6cd992279af9a3.json"
-    ],
-    "sj": [
-      "store/eb5e5f5d7ed6b67eb9b9db078648b3dd4321a35eee6d65c0c39713a249a19295.json"
-    ],
-    "sk": [
-      "store/54d1323251b15765362b8960c848a2050629d19799d3c0ca29b99b1fcc0201a7.json"
-    ],
-    "sl": [
-      "store/13920e69911cfaaf7028ace7a9901465d1089d94fc7fc831139c9f6fad4075b5.json"
-    ],
-    "sm": [
-      "store/df533c12ec123193c901985d13b06b00465e6ba7281cae3bc3dca9270beb1ffa.json"
-    ],
-    "sn": [
-      "store/0359eb6e6d30153070e1e508c10b303884cea59f61847b6d758e593f92abf2e5.json"
-    ],
-    "so": [
-      "store/7a5bed0f43353eefb17a8fea2154ff3faa8588a490100bdf7ee66ab3191796d0.json"
-    ],
-    "sr": [
-      "store/f92166b81bab5639aee3a944f59e0ef52b8b28466b8ecc4654d6ead646402155.json"
-    ],
-    "ss": [
-      "store/635467807232a2ec6fb096e5585a2a006c52ccc457b078e68aba557ea76e51a9.json"
-    ],
-    "st": [
-      "store/ef17f8c3e3f8d36120a78908b310129ab95cc343f7a76db6cde335cca6da8c2b.json"
-    ],
-    "sv": [
-      "store/0754cf9b7cddf32076b9abd7fa9610634015e169046b3ea282a4c586a1d4f31a.json"
-    ],
-    "sx": [
-      "store/0ab119604f018b1f6cbab638c7d83bd2244d1bbd474f336e922c4e760aaa16b6.json"
-    ],
-    "sy": [
-      "store/f5a34895e81972a8417d5ef405434e52e37b1e714ca0f0580a73852a83d935a8.json"
-    ],
-    "sz": [
-      "store/4918d2c49cc320e4b29575a63ec3af45c5e5a9e73a0d1d19ab172460bd9d6244.json"
-    ],
-    "tc": [
-      "store/3bc22bd129c03d9352bcca670d6904a57f20291dd971164e2c53b4f6efe687de.json"
-    ],
-    "td": [
-      "store/9d551701cd02c90943e482afca03ff0564f8a94bcef473ece07ab188c82e0298.json"
-    ],
-    "tf": [
-      "store/1874dfdf69baaa0f8de9a15464906289eceed64865c35c99f7254dd71ffe2514.json"
-    ],
-    "tg": [
-      "store/b927c614d42fa94a8300370adb7f1667c15b23b406c0160d4d5d1a014e8835a6.json"
-    ],
-    "th": [
-      "store/e5fef45ac04f6e4ba8a16faaa96776132c01dc01f5b1e23018d0682cec35de60.json"
-    ],
-    "tj": [
-      "store/3468e52645ebdbc790eb4e0536a51315307fc9b43fa8cc3f8cf1c3289ece5d97.json"
-    ],
-    "tk": [
-      "store/7b1e320774cb72767ecb65810872aa20eec0d87b71308286f8aabfe36074e80b.json"
-    ],
-    "tl": [
-      "store/351a4e07679decc586383fff929b462792cd62beb4209f078d6ad79dfe782639.json"
-    ],
-    "tm": [
-      "store/31222ced3f1a881a7df12af2ee4164ba74499b6405a5497dc1f9967a152fdf35.json"
-    ],
-    "tn": [
-      "store/cd8ef8246ba9229745df7e411a839e7757103d2e12e12f0a4aa8d3facb2a68a7.json"
-    ],
-    "to": [
-      "store/3cc0c060d96aa059f644fa6824b062288506d2f8af5846e819cf7b2a0b27d980.json"
-    ],
-    "tr": [
-      "store/ae8b606ed8d80c02906a8799454b366213e4193e27829b1dae4cf389d9718285.json"
-    ],
-    "tt": [
-      "store/70ed70fff6db780619586cad2f217b506bf815834c5a65e7af5c96267c7cdccb.json"
-    ],
-    "tv": [
-      "store/4655744eefbea515eea419731227b7f67be6b4a2e78c0dbaffe04aa84e37d9b0.json"
-    ],
-    "tw": [
-      "store/f2e3a0e66c04e08172fe5a6fde4a37ca74a3dac3b4e2252817aa0ccd61145e11.json"
-    ],
-    "tz": [
-      "store/0f5fdd2c43c2ab8eaaf91af3287bc1b95a7047eb5dec50405f87ba5a9e9687d2.json"
-    ],
-    "ua": [
-      "store/1e11ff15239c6dd2455666e20cf6bae882da1a06a96076796257409f01b6f6ba.json"
-    ],
-    "ug": [
-      "store/c9474f6a0b1dd0a8dc3269ccdb152a183f0604b1ccf3c6da25dffdc3d74a0f3f.json"
-    ],
-    "um": [
-      "store/94dd2150d661852346f961521d31b38423e99c1a4a518340b42d3d9da2a42f90.json"
-    ],
-    "us": [
-      "store/94dd2150d661852346f961521d31b38423e99c1a4a518340b42d3d9da2a42f90.json"
-    ],
-    "uy": [
-      "store/47ac79fd641f711295fd6346d5aebc676380e50806a4ba170125d3c6a0288eba.json"
-    ],
-    "uz": [
-      "store/8f33df9a57c17496a7337bb6c928cb748e0901ae6f33e5d50b2b2c742d6f398f.json"
-    ],
-    "va": [
-      "store/3853956a7fa6d4577c71104507cb29ff66f702507768cd31c0b41812c12e7b55.json"
-    ],
-    "vc": [
-      "store/5a575b088d9bec0c8a823c08e10aea23a7ffb79301b70c03aff5b6649a58b46a.json"
-    ],
-    "ve": [
-      "store/7092d8ce90a7e0db5848c2ec04b68ec41f394170c80e223a273f7c477be9b6bb.json"
-    ],
-    "vg": [
-      "store/1b963e1cd28973f9571c0a5cd0c5e3870493edd3ee904ad5aa290a1a31ae8185.json"
-    ],
-    "vi": [
-      "store/c0fedf11941131cb22b4c8f2b2839f12e737c406e7473129e1b3516ee5b1c6d4.json"
-    ],
-    "vn": [
-      "store/c434871cb1ecc8c9712f6347be6c1bc42c2c0b2d3495d8bb3c3b80dc41396b42.json"
-    ],
-    "vu": [
-      "store/bbcd652bd2e559cc8d9f5e0d57e62e26e6008e446a314d9b24f0e6e9ab442c70.json"
-    ],
-    "wf": [
-      "store/1d9b22aaa0a21412d8e86922ea845321dce574817842a1cf664e5a235415bbbd.json"
-    ],
-    "ws": [
-      "store/1bf01efd72aec19b65c40d0239658596991b3dc9144c7115edb7649c892dd1f6.json"
-    ],
-    "xk": [
-      "store/55db211cec02c98af7dc6b8314f5cfb53c8062f2f7335dbbf19bea347ab37d16.json"
-    ],
-    "ye": [
-      "store/36083d6e0dcdebd72f1f3b72873e98b7f5ed906d3a58944dd094ce46efdb7b00.json"
-    ],
-    "yt": [
-      "store/cd32cde2240a5577de3a9447d5d09831690e4a46b748c58352d78eeaead00443.json"
-    ],
-    "za": [
-      "store/11d903efe81e1330a882353f1b15377912c39733b25ec995982d10ac1f44200f.json"
-    ],
-    "zm": [
-      "store/798f3c6cabad2398d7af1809569225c0478047607b30292ec1de0565dca01d0c.json"
-    ],
-    "zw": [
-      "store/4e5c6007f31da964da6b8182041f10fe7d0d6bca3a9c970bc28a1aba0430251a.json"
-    ]
+    "ad": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ad",
+      "source": "../country-flags/png250px/ad.png"
+    },
+    "ae": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ae",
+      "source": "../country-flags/png250px/ae.png"
+    },
+    "af": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "af",
+      "source": "../country-flags/png250px/af.png"
+    },
+    "ag": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ag",
+      "source": "../country-flags/png250px/ag.png"
+    },
+    "ai": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ai",
+      "source": "../country-flags/png250px/ai.png"
+    },
+    "al": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "al",
+      "source": "../country-flags/png250px/al.png"
+    },
+    "am": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "am",
+      "source": "../country-flags/png250px/am.png"
+    },
+    "ao": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ao",
+      "source": "../country-flags/png250px/ao.png"
+    },
+    "aq": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "aq",
+      "source": "../country-flags/png250px/aq.png"
+    },
+    "ar": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ar",
+      "source": "../country-flags/png250px/ar.png"
+    },
+    "as": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "as",
+      "source": "../country-flags/png250px/as.png"
+    },
+    "at": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "at",
+      "source": "../country-flags/png250px/at.png"
+    },
+    "au": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "au",
+      "source": "../country-flags/png250px/au.png"
+    },
+    "aw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "aw",
+      "source": "../country-flags/png250px/aw.png"
+    },
+    "ax": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ax",
+      "source": "../country-flags/png250px/ax.png"
+    },
+    "az": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "az",
+      "source": "../country-flags/png250px/az.png"
+    },
+    "ba": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ba",
+      "source": "../country-flags/png250px/ba.png"
+    },
+    "bb": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bb",
+      "source": "../country-flags/png250px/bb.png"
+    },
+    "bd": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bd",
+      "source": "../country-flags/png250px/bd.png"
+    },
+    "be": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "be",
+      "source": "../country-flags/png250px/be.png"
+    },
+    "bf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bf",
+      "source": "../country-flags/png250px/bf.png"
+    },
+    "bg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bg",
+      "source": "../country-flags/png250px/bg.png"
+    },
+    "bh": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bh",
+      "source": "../country-flags/png250px/bh.png"
+    },
+    "bi": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bi",
+      "source": "../country-flags/png250px/bi.png"
+    },
+    "bj": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bj",
+      "source": "../country-flags/png250px/bj.png"
+    },
+    "bl": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bl",
+      "source": "../country-flags/png250px/bl.png"
+    },
+    "bm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bm",
+      "source": "../country-flags/png250px/bm.png"
+    },
+    "bn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bn",
+      "source": "../country-flags/png250px/bn.png"
+    },
+    "bo": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bo",
+      "source": "../country-flags/png250px/bo.png"
+    },
+    "bq": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bq",
+      "source": "../country-flags/png250px/bq.png"
+    },
+    "br": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "br",
+      "source": "../country-flags/png250px/br.png"
+    },
+    "bs": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bs",
+      "source": "../country-flags/png250px/bs.png"
+    },
+    "bt": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bt",
+      "source": "../country-flags/png250px/bt.png"
+    },
+    "bv": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bv",
+      "source": "../country-flags/png250px/bv.png"
+    },
+    "bw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bw",
+      "source": "../country-flags/png250px/bw.png"
+    },
+    "by": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "by",
+      "source": "../country-flags/png250px/by.png"
+    },
+    "bz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "bz",
+      "source": "../country-flags/png250px/bz.png"
+    },
+    "ca": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ca",
+      "source": "../country-flags/png250px/ca.png"
+    },
+    "cc": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cc",
+      "source": "../country-flags/png250px/cc.png"
+    },
+    "cd": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cd",
+      "source": "../country-flags/png250px/cd.png"
+    },
+    "cf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cf",
+      "source": "../country-flags/png250px/cf.png"
+    },
+    "cg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cg",
+      "source": "../country-flags/png250px/cg.png"
+    },
+    "ch": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ch",
+      "source": "../country-flags/png250px/ch.png"
+    },
+    "ci": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ci",
+      "source": "../country-flags/png250px/ci.png"
+    },
+    "ck": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ck",
+      "source": "../country-flags/png250px/ck.png"
+    },
+    "cl": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cl",
+      "source": "../country-flags/png250px/cl.png"
+    },
+    "cm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cm",
+      "source": "../country-flags/png250px/cm.png"
+    },
+    "cn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cn",
+      "source": "../country-flags/png250px/cn.png"
+    },
+    "co": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "co",
+      "source": "../country-flags/png250px/co.png"
+    },
+    "cr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cr",
+      "source": "../country-flags/png250px/cr.png"
+    },
+    "cu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cu",
+      "source": "../country-flags/png250px/cu.png"
+    },
+    "cv": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cv",
+      "source": "../country-flags/png250px/cv.png"
+    },
+    "cw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cw",
+      "source": "../country-flags/png250px/cw.png"
+    },
+    "cx": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cx",
+      "source": "../country-flags/png250px/cx.png"
+    },
+    "cy": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cy",
+      "source": "../country-flags/png250px/cy.png"
+    },
+    "cz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "cz",
+      "source": "../country-flags/png250px/cz.png"
+    },
+    "de": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "de",
+      "source": "../country-flags/png250px/de.png"
+    },
+    "dj": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "dj",
+      "source": "../country-flags/png250px/dj.png"
+    },
+    "dk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "dk",
+      "source": "../country-flags/png250px/dk.png"
+    },
+    "dm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "dm",
+      "source": "../country-flags/png250px/dm.png"
+    },
+    "do": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "do",
+      "source": "../country-flags/png250px/do.png"
+    },
+    "dz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "dz",
+      "source": "../country-flags/png250px/dz.png"
+    },
+    "ec": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ec",
+      "source": "../country-flags/png250px/ec.png"
+    },
+    "ee": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ee",
+      "source": "../country-flags/png250px/ee.png"
+    },
+    "eg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "eg",
+      "source": "../country-flags/png250px/eg.png"
+    },
+    "eh": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "eh",
+      "source": "../country-flags/png250px/eh.png"
+    },
+    "er": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "er",
+      "source": "../country-flags/png250px/er.png"
+    },
+    "es": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "es",
+      "source": "../country-flags/png250px/es.png"
+    },
+    "et": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "et",
+      "source": "../country-flags/png250px/et.png"
+    },
+    "eu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "eu",
+      "source": "../country-flags/png250px/eu.png"
+    },
+    "fi": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "fi",
+      "source": "../country-flags/png250px/fi.png"
+    },
+    "fj": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "fj",
+      "source": "../country-flags/png250px/fj.png"
+    },
+    "fk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "fk",
+      "source": "../country-flags/png250px/fk.png"
+    },
+    "fm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "fm",
+      "source": "../country-flags/png250px/fm.png"
+    },
+    "fo": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "fo",
+      "source": "../country-flags/png250px/fo.png"
+    },
+    "fr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "fr",
+      "source": "../country-flags/png250px/fr.png"
+    },
+    "ga": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ga",
+      "source": "../country-flags/png250px/ga.png"
+    },
+    "gb": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gb",
+      "source": "../country-flags/png250px/gb.png"
+    },
+    "gb-eng": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gb-eng",
+      "source": "../country-flags/png250px/gb-eng.png"
+    },
+    "gb-nir": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gb-nir",
+      "source": "../country-flags/png250px/gb-nir.png"
+    },
+    "gb-sct": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gb-sct",
+      "source": "../country-flags/png250px/gb-sct.png"
+    },
+    "gb-wls": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gb-wls",
+      "source": "../country-flags/png250px/gb-wls.png"
+    },
+    "gd": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gd",
+      "source": "../country-flags/png250px/gd.png"
+    },
+    "ge": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ge",
+      "source": "../country-flags/png250px/ge.png"
+    },
+    "gf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gf",
+      "source": "../country-flags/png250px/gf.png"
+    },
+    "gg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gg",
+      "source": "../country-flags/png250px/gg.png"
+    },
+    "gh": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gh",
+      "source": "../country-flags/png250px/gh.png"
+    },
+    "gi": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gi",
+      "source": "../country-flags/png250px/gi.png"
+    },
+    "gl": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gl",
+      "source": "../country-flags/png250px/gl.png"
+    },
+    "gm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gm",
+      "source": "../country-flags/png250px/gm.png"
+    },
+    "gn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gn",
+      "source": "../country-flags/png250px/gn.png"
+    },
+    "gp": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gp",
+      "source": "../country-flags/png250px/gp.png"
+    },
+    "gq": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gq",
+      "source": "../country-flags/png250px/gq.png"
+    },
+    "gr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gr",
+      "source": "../country-flags/png250px/gr.png"
+    },
+    "gs": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gs",
+      "source": "../country-flags/png250px/gs.png"
+    },
+    "gt": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gt",
+      "source": "../country-flags/png250px/gt.png"
+    },
+    "gu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gu",
+      "source": "../country-flags/png250px/gu.png"
+    },
+    "gw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gw",
+      "source": "../country-flags/png250px/gw.png"
+    },
+    "gy": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "gy",
+      "source": "../country-flags/png250px/gy.png"
+    },
+    "hk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "hk",
+      "source": "../country-flags/png250px/hk.png"
+    },
+    "hm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "hm",
+      "source": "../country-flags/png250px/hm.png"
+    },
+    "hn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "hn",
+      "source": "../country-flags/png250px/hn.png"
+    },
+    "hr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "hr",
+      "source": "../country-flags/png250px/hr.png"
+    },
+    "ht": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ht",
+      "source": "../country-flags/png250px/ht.png"
+    },
+    "hu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "hu",
+      "source": "../country-flags/png250px/hu.png"
+    },
+    "id": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "id",
+      "source": "../country-flags/png250px/id.png"
+    },
+    "ie": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ie",
+      "source": "../country-flags/png250px/ie.png"
+    },
+    "il": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "il",
+      "source": "../country-flags/png250px/il.png"
+    },
+    "im": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "im",
+      "source": "../country-flags/png250px/im.png"
+    },
+    "in": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "in",
+      "source": "../country-flags/png250px/in.png"
+    },
+    "io": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "io",
+      "source": "../country-flags/png250px/io.png"
+    },
+    "iq": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "iq",
+      "source": "../country-flags/png250px/iq.png"
+    },
+    "ir": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ir",
+      "source": "../country-flags/png250px/ir.png"
+    },
+    "is": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "is",
+      "source": "../country-flags/png250px/is.png"
+    },
+    "it": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "it",
+      "source": "../country-flags/png250px/it.png"
+    },
+    "je": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "je",
+      "source": "../country-flags/png250px/je.png"
+    },
+    "jm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "jm",
+      "source": "../country-flags/png250px/jm.png"
+    },
+    "jo": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "jo",
+      "source": "../country-flags/png250px/jo.png"
+    },
+    "jp": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "jp",
+      "source": "../country-flags/png250px/jp.png"
+    },
+    "ke": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ke",
+      "source": "../country-flags/png250px/ke.png"
+    },
+    "kg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "kg",
+      "source": "../country-flags/png250px/kg.png"
+    },
+    "kh": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "kh",
+      "source": "../country-flags/png250px/kh.png"
+    },
+    "ki": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ki",
+      "source": "../country-flags/png250px/ki.png"
+    },
+    "km": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "km",
+      "source": "../country-flags/png250px/km.png"
+    },
+    "kn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "kn",
+      "source": "../country-flags/png250px/kn.png"
+    },
+    "kp": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "kp",
+      "source": "../country-flags/png250px/kp.png"
+    },
+    "kr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "kr",
+      "source": "../country-flags/png250px/kr.png"
+    },
+    "kw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "kw",
+      "source": "../country-flags/png250px/kw.png"
+    },
+    "ky": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ky",
+      "source": "../country-flags/png250px/ky.png"
+    },
+    "kz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "kz",
+      "source": "../country-flags/png250px/kz.png"
+    },
+    "la": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "la",
+      "source": "../country-flags/png250px/la.png"
+    },
+    "lb": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "lb",
+      "source": "../country-flags/png250px/lb.png"
+    },
+    "lc": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "lc",
+      "source": "../country-flags/png250px/lc.png"
+    },
+    "li": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "li",
+      "source": "../country-flags/png250px/li.png"
+    },
+    "lk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "lk",
+      "source": "../country-flags/png250px/lk.png"
+    },
+    "lr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "lr",
+      "source": "../country-flags/png250px/lr.png"
+    },
+    "ls": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ls",
+      "source": "../country-flags/png250px/ls.png"
+    },
+    "lt": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "lt",
+      "source": "../country-flags/png250px/lt.png"
+    },
+    "lu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "lu",
+      "source": "../country-flags/png250px/lu.png"
+    },
+    "lv": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "lv",
+      "source": "../country-flags/png250px/lv.png"
+    },
+    "ly": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ly",
+      "source": "../country-flags/png250px/ly.png"
+    },
+    "ma": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ma",
+      "source": "../country-flags/png250px/ma.png"
+    },
+    "mc": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mc",
+      "source": "../country-flags/png250px/mc.png"
+    },
+    "md": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "md",
+      "source": "../country-flags/png250px/md.png"
+    },
+    "me": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "me",
+      "source": "../country-flags/png250px/me.png"
+    },
+    "mf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mf",
+      "source": "../country-flags/png250px/mf.png"
+    },
+    "mg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mg",
+      "source": "../country-flags/png250px/mg.png"
+    },
+    "mh": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mh",
+      "source": "../country-flags/png250px/mh.png"
+    },
+    "mk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mk",
+      "source": "../country-flags/png250px/mk.png"
+    },
+    "ml": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ml",
+      "source": "../country-flags/png250px/ml.png"
+    },
+    "mm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mm",
+      "source": "../country-flags/png250px/mm.png"
+    },
+    "mn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mn",
+      "source": "../country-flags/png250px/mn.png"
+    },
+    "mo": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mo",
+      "source": "../country-flags/png250px/mo.png"
+    },
+    "mp": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mp",
+      "source": "../country-flags/png250px/mp.png"
+    },
+    "mq": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mq",
+      "source": "../country-flags/png250px/mq.png"
+    },
+    "mr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mr",
+      "source": "../country-flags/png250px/mr.png"
+    },
+    "ms": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ms",
+      "source": "../country-flags/png250px/ms.png"
+    },
+    "mt": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mt",
+      "source": "../country-flags/png250px/mt.png"
+    },
+    "mu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mu",
+      "source": "../country-flags/png250px/mu.png"
+    },
+    "mv": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mv",
+      "source": "../country-flags/png250px/mv.png"
+    },
+    "mw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mw",
+      "source": "../country-flags/png250px/mw.png"
+    },
+    "mx": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mx",
+      "source": "../country-flags/png250px/mx.png"
+    },
+    "my": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "my",
+      "source": "../country-flags/png250px/my.png"
+    },
+    "mz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "mz",
+      "source": "../country-flags/png250px/mz.png"
+    },
+    "na": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "na",
+      "source": "../country-flags/png250px/na.png"
+    },
+    "nc": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "nc",
+      "source": "../country-flags/png250px/nc.png"
+    },
+    "ne": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ne",
+      "source": "../country-flags/png250px/ne.png"
+    },
+    "nf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "nf",
+      "source": "../country-flags/png250px/nf.png"
+    },
+    "ng": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ng",
+      "source": "../country-flags/png250px/ng.png"
+    },
+    "ni": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ni",
+      "source": "../country-flags/png250px/ni.png"
+    },
+    "nl": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "nl",
+      "source": "../country-flags/png250px/nl.png"
+    },
+    "no": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "no",
+      "source": "../country-flags/png250px/no.png"
+    },
+    "np": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "np",
+      "source": "../country-flags/png250px/np.png"
+    },
+    "nr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "nr",
+      "source": "../country-flags/png250px/nr.png"
+    },
+    "nu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "nu",
+      "source": "../country-flags/png250px/nu.png"
+    },
+    "nz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "nz",
+      "source": "../country-flags/png250px/nz.png"
+    },
+    "om": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "om",
+      "source": "../country-flags/png250px/om.png"
+    },
+    "pa": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pa",
+      "source": "../country-flags/png250px/pa.png"
+    },
+    "pe": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pe",
+      "source": "../country-flags/png250px/pe.png"
+    },
+    "pf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pf",
+      "source": "../country-flags/png250px/pf.png"
+    },
+    "pg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pg",
+      "source": "../country-flags/png250px/pg.png"
+    },
+    "ph": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ph",
+      "source": "../country-flags/png250px/ph.png"
+    },
+    "pk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pk",
+      "source": "../country-flags/png250px/pk.png"
+    },
+    "pl": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pl",
+      "source": "../country-flags/png250px/pl.png"
+    },
+    "pm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pm",
+      "source": "../country-flags/png250px/pm.png"
+    },
+    "pn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pn",
+      "source": "../country-flags/png250px/pn.png"
+    },
+    "pr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pr",
+      "source": "../country-flags/png250px/pr.png"
+    },
+    "ps": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ps",
+      "source": "../country-flags/png250px/ps.png"
+    },
+    "pt": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pt",
+      "source": "../country-flags/png250px/pt.png"
+    },
+    "pw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "pw",
+      "source": "../country-flags/png250px/pw.png"
+    },
+    "py": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "py",
+      "source": "../country-flags/png250px/py.png"
+    },
+    "qa": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "qa",
+      "source": "../country-flags/png250px/qa.png"
+    },
+    "re": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "re",
+      "source": "../country-flags/png250px/re.png"
+    },
+    "ro": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ro",
+      "source": "../country-flags/png250px/ro.png"
+    },
+    "rs": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "rs",
+      "source": "../country-flags/png250px/rs.png"
+    },
+    "ru": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ru",
+      "source": "../country-flags/png250px/ru.png"
+    },
+    "rw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "rw",
+      "source": "../country-flags/png250px/rw.png"
+    },
+    "sa": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sa",
+      "source": "../country-flags/png250px/sa.png"
+    },
+    "sb": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sb",
+      "source": "../country-flags/png250px/sb.png"
+    },
+    "sc": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sc",
+      "source": "../country-flags/png250px/sc.png"
+    },
+    "sd": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sd",
+      "source": "../country-flags/png250px/sd.png"
+    },
+    "se": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "se",
+      "source": "../country-flags/png250px/se.png"
+    },
+    "sg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sg",
+      "source": "../country-flags/png250px/sg.png"
+    },
+    "sh": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sh",
+      "source": "../country-flags/png250px/sh.png"
+    },
+    "si": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "si",
+      "source": "../country-flags/png250px/si.png"
+    },
+    "sj": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sj",
+      "source": "../country-flags/png250px/sj.png"
+    },
+    "sk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sk",
+      "source": "../country-flags/png250px/sk.png"
+    },
+    "sl": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sl",
+      "source": "../country-flags/png250px/sl.png"
+    },
+    "sm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sm",
+      "source": "../country-flags/png250px/sm.png"
+    },
+    "sn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sn",
+      "source": "../country-flags/png250px/sn.png"
+    },
+    "so": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "so",
+      "source": "../country-flags/png250px/so.png"
+    },
+    "sr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sr",
+      "source": "../country-flags/png250px/sr.png"
+    },
+    "ss": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ss",
+      "source": "../country-flags/png250px/ss.png"
+    },
+    "st": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "st",
+      "source": "../country-flags/png250px/st.png"
+    },
+    "sv": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sv",
+      "source": "../country-flags/png250px/sv.png"
+    },
+    "sx": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sx",
+      "source": "../country-flags/png250px/sx.png"
+    },
+    "sy": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sy",
+      "source": "../country-flags/png250px/sy.png"
+    },
+    "sz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "sz",
+      "source": "../country-flags/png250px/sz.png"
+    },
+    "tc": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tc",
+      "source": "../country-flags/png250px/tc.png"
+    },
+    "td": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "td",
+      "source": "../country-flags/png250px/td.png"
+    },
+    "tf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tf",
+      "source": "../country-flags/png250px/tf.png"
+    },
+    "tg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tg",
+      "source": "../country-flags/png250px/tg.png"
+    },
+    "th": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "th",
+      "source": "../country-flags/png250px/th.png"
+    },
+    "tj": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tj",
+      "source": "../country-flags/png250px/tj.png"
+    },
+    "tk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tk",
+      "source": "../country-flags/png250px/tk.png"
+    },
+    "tl": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tl",
+      "source": "../country-flags/png250px/tl.png"
+    },
+    "tm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tm",
+      "source": "../country-flags/png250px/tm.png"
+    },
+    "tn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tn",
+      "source": "../country-flags/png250px/tn.png"
+    },
+    "to": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "to",
+      "source": "../country-flags/png250px/to.png"
+    },
+    "tr": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tr",
+      "source": "../country-flags/png250px/tr.png"
+    },
+    "tt": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tt",
+      "source": "../country-flags/png250px/tt.png"
+    },
+    "tv": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tv",
+      "source": "../country-flags/png250px/tv.png"
+    },
+    "tw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tw",
+      "source": "../country-flags/png250px/tw.png"
+    },
+    "tz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "tz",
+      "source": "../country-flags/png250px/tz.png"
+    },
+    "ua": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ua",
+      "source": "../country-flags/png250px/ua.png"
+    },
+    "ug": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ug",
+      "source": "../country-flags/png250px/ug.png"
+    },
+    "um": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "um",
+      "source": "../country-flags/png250px/um.png"
+    },
+    "us": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "us",
+      "source": "../country-flags/png250px/us.png"
+    },
+    "uy": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "uy",
+      "source": "../country-flags/png250px/uy.png"
+    },
+    "uz": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "uz",
+      "source": "../country-flags/png250px/uz.png"
+    },
+    "va": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "va",
+      "source": "../country-flags/png250px/va.png"
+    },
+    "vc": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "vc",
+      "source": "../country-flags/png250px/vc.png"
+    },
+    "ve": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ve",
+      "source": "../country-flags/png250px/ve.png"
+    },
+    "vg": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "vg",
+      "source": "../country-flags/png250px/vg.png"
+    },
+    "vi": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "vi",
+      "source": "../country-flags/png250px/vi.png"
+    },
+    "vn": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "vn",
+      "source": "../country-flags/png250px/vn.png"
+    },
+    "vu": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "vu",
+      "source": "../country-flags/png250px/vu.png"
+    },
+    "wf": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "wf",
+      "source": "../country-flags/png250px/wf.png"
+    },
+    "ws": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ws",
+      "source": "../country-flags/png250px/ws.png"
+    },
+    "xk": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "xk",
+      "source": "../country-flags/png250px/xk.png"
+    },
+    "ye": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "ye",
+      "source": "../country-flags/png250px/ye.png"
+    },
+    "yt": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "yt",
+      "source": "../country-flags/png250px/yt.png"
+    },
+    "za": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "za",
+      "source": "../country-flags/png250px/za.png"
+    },
+    "zm": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "zm",
+      "source": "../country-flags/png250px/zm.png"
+    },
+    "zw": {
+      "category": "Flags",
+      "frames": 1,
+      "name": "zw",
+      "source": "../country-flags/png250px/zw.png"
+    }
   },
   "Ghosts": {
-    "Cute Ghost with stars": [
-      "store/e3c41d4af27bdfc306ed32aedd8c5407cfb1a4788eb1a00c4cfb4135bc74d8e4.json",
-      "store/e3c41d4af27bdfc306ed32aedd8c5407cfb1a4788eb1a00c4cfb4135bc74d8e4.json",
-      "store/e3c41d4af27bdfc306ed32aedd8c5407cfb1a4788eb1a00c4cfb4135bc74d8e4.json",
-      "store/3bb28acf9fd0b066964a308b42adc4a775bd1b92dce3e7fa88e50d706cf3d1c4.json",
-      "store/ced9cd9c3a42530b5b0e717b7eb109abe6442e802ae304cdc7ebb69455f59b64.json",
-      "store/08597caaf0df13ef0f74c9c81fe12ba4ef8bd781587c29ad42dd307f8ce44fbc.json",
-      "store/27209f1dace37d7368aa70f471140cecbf1eac4bddc4a39527ddac36246874f2.json",
-      "store/6f96d72d1e565aa64d867f2b21ba01b44efd279c2acfc95f177b5eb3307c4bb7.json",
-      "store/9f36cb12b62f5b7d06b35a23d632804d5de90ed611e1e8d2cd7b7a6667dbfe7e.json",
-      "store/99757cbf3f1f343853a60e50f0f06a69a46655bd91143669aa661543a8df717f.json",
-      "store/c55cd61ab1374e5fba6de769bd9e3f72732e5a5a739618114aba7829e16e1995.json",
-      "store/7d5c1e370e1c8e7aabe14add4885c4d6920ecb515381e3e4238560ef28f41997.json",
-      "store/b2637c41afbb2d0a3ce44c5d17e2b7a2bda4cff270927e8f106cccb9cad0d253.json",
-      "store/4f4ba530474b47e82b3cb2fa2394275fef39f202b3c5058fe826495ce28b6507.json",
-      "store/c07eef1856bb054efafea0b1860bdcac50e923589b6cf624ffbcfb955163396d.json",
-      "store/c1c0beb2121c23dc71b99c2056ed03fd65be703028adc27d9b6b7a519be5360e.json",
-      "store/0814eda3f7fa0ab2343de583064908c9f4115abbbe161ab1387fcb745a0fb092.json",
-      "store/f7c7559c37a72de024cef084059d72b348381810cdc29541f265e85671fb326b.json",
-      "store/42185ef1bb57ae98f550a2450f909f3bb5656eb85bd34ce4791a683d99806682.json",
-      "store/185027ea10d3d802162511de61105c43f79e0e149eea32a905d841a583587360.json",
-      "store/829ddab737a923fec0cc45ee7e3f4dbf90879e5a8a82f343b4cee6f2c5a76df1.json",
-      "store/6d98952fc48a454c81061963ef9523fbe6913b7744cb4e0b6c973847e3bcf61d.json",
-      "store/14e4313b3e3c5bec16c3fcad6f87054e9ad19f48f047f0e3a1aaab8ecddec215.json",
-      "store/ad6c5bd1dc98cd560598f39de2fdb70ca5e0dc466f85875f9feb403a5e1c928a.json",
-      "store/861c338d775b1cf15b7c07e791100b875a551636076521022618fdbf37bd5258.json",
-      "store/51c619e10e0e4901ba52baed2f9fc9e29a0bea142bcfa64d39919485203ad4b5.json",
-      "store/4e2a15d45e44a8e01f787d0e4c1908d1ee57e607a12d1044580a9d0b35a59ecd.json",
-      "store/9b3230f7d48ccd049ed0538a076be7f9d5663c70be39d922b9fe49b50562c376.json",
-      "store/7d2665131be5fe2a0682d2f39794e84583d6bd3ef1c188e407edd6e30947a4d8.json",
-      "store/fcfba014c30a76a804ec846017ddcdac86a9e3867fb7cb7863af99268320d378.json",
-      "store/96eafca76b043eceae4df4e5d9ef4f8dc13ce81278a30caa6c45d685bb91de08.json",
-      "store/543259fd8c3bf7a6c7d7974ec2c2eea96045c0934cac3ba2a434394e8beccbc8.json",
-      "store/dac72a8073c25142a17f13b051ad0b2b5a42b863b08e0ee7b0bc6751ba56aa7b.json",
-      "store/9293aefc417623bb72a1336ff03be4d3300185bd03b3642f1546ae01a9d169da.json",
-      "store/456859537d457ecc75fc8c2367595f5a4edf034a04f4f6eca7f25e723fa7dc54.json",
-      "store/ac9bc756b018168feb2f80214eecd23a3293a741d54b7d16fabc5917b06ce086.json",
-      "store/39ec05ec8d212c269cd8efd06751f04d2a556594753f35cf85d665cee7f83e9e.json",
-      "store/afdb4221c465844f0034b84bf4b0de6df62f36ad977fe82024f947a11b1e2985.json",
-      "store/6312cdfe4e035b3b796aa6c331898c7b58c085362ff1ad8d42befedd58f7a1d5.json",
-      "store/e622f3d1f3eb7dc3cda004f93ceb654366b85aa302527d13780160364727df11.json",
-      "store/084f617c6da576556a942ce9d719581d5a163dd0d7a84072c2f97421f452e670.json",
-      "store/cf576fb96586873810e17764d4a85c900150f0bf0f954d421af83c131198224d.json",
-      "store/74e54dc2ebb589db3900bbfd45b1a144edaa6f4c0d462474b853132c8d1461bb.json",
-      "store/b1b26940986cd1832f1eb32d8f5f617119c45ab8fbf40179ca7fcb1cc007ceed.json",
-      "store/2888caee8d3d7bba3b7ba05a5bd249ae948a5e07a4aaa3ae4085e4ed0842cc29.json",
-      "store/70e466b93a45a7742e436a58d7fbb1d4fa04da7f03921f183b9e5eb149560776.json",
-      "store/a83d693aa87b6571aa7aa489249fc29760b0149d4582913620ec436036269975.json",
-      "store/e3c41d4af27bdfc306ed32aedd8c5407cfb1a4788eb1a00c4cfb4135bc74d8e4.json",
-      "store/3bb28acf9fd0b066964a308b42adc4a775bd1b92dce3e7fa88e50d706cf3d1c4.json",
-      "store/ced9cd9c3a42530b5b0e717b7eb109abe6442e802ae304cdc7ebb69455f59b64.json",
-      "store/08597caaf0df13ef0f74c9c81fe12ba4ef8bd781587c29ad42dd307f8ce44fbc.json",
-      "store/27209f1dace37d7368aa70f471140cecbf1eac4bddc4a39527ddac36246874f2.json",
-      "store/6f96d72d1e565aa64d867f2b21ba01b44efd279c2acfc95f177b5eb3307c4bb7.json",
-      "store/9f36cb12b62f5b7d06b35a23d632804d5de90ed611e1e8d2cd7b7a6667dbfe7e.json",
-      "store/99757cbf3f1f343853a60e50f0f06a69a46655bd91143669aa661543a8df717f.json",
-      "store/c55cd61ab1374e5fba6de769bd9e3f72732e5a5a739618114aba7829e16e1995.json",
-      "store/7d5c1e370e1c8e7aabe14add4885c4d6920ecb515381e3e4238560ef28f41997.json",
-      "store/b2637c41afbb2d0a3ce44c5d17e2b7a2bda4cff270927e8f106cccb9cad0d253.json",
-      "store/4f4ba530474b47e82b3cb2fa2394275fef39f202b3c5058fe826495ce28b6507.json",
-      "store/c07eef1856bb054efafea0b1860bdcac50e923589b6cf624ffbcfb955163396d.json",
-      "store/c1c0beb2121c23dc71b99c2056ed03fd65be703028adc27d9b6b7a519be5360e.json",
-      "store/0814eda3f7fa0ab2343de583064908c9f4115abbbe161ab1387fcb745a0fb092.json",
-      "store/f7c7559c37a72de024cef084059d72b348381810cdc29541f265e85671fb326b.json",
-      "store/42185ef1bb57ae98f550a2450f909f3bb5656eb85bd34ce4791a683d99806682.json",
-      "store/185027ea10d3d802162511de61105c43f79e0e149eea32a905d841a583587360.json",
-      "store/829ddab737a923fec0cc45ee7e3f4dbf90879e5a8a82f343b4cee6f2c5a76df1.json",
-      "store/6d98952fc48a454c81061963ef9523fbe6913b7744cb4e0b6c973847e3bcf61d.json",
-      "store/14e4313b3e3c5bec16c3fcad6f87054e9ad19f48f047f0e3a1aaab8ecddec215.json",
-      "store/ad6c5bd1dc98cd560598f39de2fdb70ca5e0dc466f85875f9feb403a5e1c928a.json",
-      "store/861c338d775b1cf15b7c07e791100b875a551636076521022618fdbf37bd5258.json",
-      "store/51c619e10e0e4901ba52baed2f9fc9e29a0bea142bcfa64d39919485203ad4b5.json",
-      "store/4e2a15d45e44a8e01f787d0e4c1908d1ee57e607a12d1044580a9d0b35a59ecd.json",
-      "store/9b3230f7d48ccd049ed0538a076be7f9d5663c70be39d922b9fe49b50562c376.json",
-      "store/7d2665131be5fe2a0682d2f39794e84583d6bd3ef1c188e407edd6e30947a4d8.json",
-      "store/fcfba014c30a76a804ec846017ddcdac86a9e3867fb7cb7863af99268320d378.json",
-      "store/96eafca76b043eceae4df4e5d9ef4f8dc13ce81278a30caa6c45d685bb91de08.json",
-      "store/543259fd8c3bf7a6c7d7974ec2c2eea96045c0934cac3ba2a434394e8beccbc8.json",
-      "store/dac72a8073c25142a17f13b051ad0b2b5a42b863b08e0ee7b0bc6751ba56aa7b.json",
-      "store/9293aefc417623bb72a1336ff03be4d3300185bd03b3642f1546ae01a9d169da.json",
-      "store/456859537d457ecc75fc8c2367595f5a4edf034a04f4f6eca7f25e723fa7dc54.json",
-      "store/ac9bc756b018168feb2f80214eecd23a3293a741d54b7d16fabc5917b06ce086.json",
-      "store/39ec05ec8d212c269cd8efd06751f04d2a556594753f35cf85d665cee7f83e9e.json",
-      "store/afdb4221c465844f0034b84bf4b0de6df62f36ad977fe82024f947a11b1e2985.json",
-      "store/6312cdfe4e035b3b796aa6c331898c7b58c085362ff1ad8d42befedd58f7a1d5.json",
-      "store/e622f3d1f3eb7dc3cda004f93ceb654366b85aa302527d13780160364727df11.json",
-      "store/084f617c6da576556a942ce9d719581d5a163dd0d7a84072c2f97421f452e670.json",
-      "store/cf576fb96586873810e17764d4a85c900150f0bf0f954d421af83c131198224d.json",
-      "store/74e54dc2ebb589db3900bbfd45b1a144edaa6f4c0d462474b853132c8d1461bb.json",
-      "store/b1b26940986cd1832f1eb32d8f5f617119c45ab8fbf40179ca7fcb1cc007ceed.json",
-      "store/2888caee8d3d7bba3b7ba05a5bd249ae948a5e07a4aaa3ae4085e4ed0842cc29.json",
-      "store/70e466b93a45a7742e436a58d7fbb1d4fa04da7f03921f183b9e5eb149560776.json",
-      "store/a83d693aa87b6571aa7aa489249fc29760b0149d4582913620ec436036269975.json"
-    ],
-    "Mad Flying Ghost": [
-      "store/2860e1f85f65be5781b5d56ccb4a24034dc12e16a29c1089af32f5544f87e7a0.json",
-      "store/e3d8a530a71b356216a6528a7d8bc9d4ec71d54876c03bf35bfccf4de7404a1c.json",
-      "store/e3d8a530a71b356216a6528a7d8bc9d4ec71d54876c03bf35bfccf4de7404a1c.json",
-      "store/e4c7b69e31c365830b463045e720469ba449bb761b5fdf9e75583e02f8b079cb.json",
-      "store/e3cb23ee1b527c9954b4d617b2bd290b244aca2e2b11572b9f90a0ae85bea0f6.json",
-      "store/1e97cd73b1ee5542a54e4307cb3a7c27e69c1e2639df2d67321c69acbf583ef7.json",
-      "store/f3ba4133a6864dfdd52af2d870b28d6d6686c8e2b059d6d80086c03f408c647d.json",
-      "store/87112ca9ac46934b38b2cafa02f3b563af2157864338cd91d4aeab6d981a143a.json",
-      "store/6d364f7f90520f297b66b6adeecc30808cbac3648e6949bbbe1824ba09eb8099.json",
-      "store/d588266d32e9d3935b8f58f6618e8e0f4cc57601358530ef5afc5f9f875afeb7.json",
-      "store/2e2a00fb09cf33b2a80e8c463d6a6110de55865bae8f82e5cf40bafa420f10f8.json",
-      "store/3cd9ef18033cd80213dc2b79883f20063ff0ee52aee5740e8d4b8ca3948bf3ad.json",
-      "store/bb101da66f3756ce38689527ea431fc733940c079cc61652a9f6b8aae1655106.json",
-      "store/6dc82860943ffbc4babc15512714374c718ac096025c05b3f9ee24ee1da0c3bb.json",
-      "store/8016b959f7bb3c32cc52ff521de02488811573fbf7e44fbe001b47b466973beb.json",
-      "store/40204610edbd41cfe3119a95b8178a0ea4540eca59da9b42501a042904fcc005.json",
-      "store/f9b1ce9ddad72c00d9018ab300724fc58b1be3581d94a0796699f6f6507393db.json",
-      "store/8e6ee538ed9b930c078e18f700f73aff99ff4d81ef2b0231fd6c34f7ec2d4a66.json",
-      "store/4fb983b391cbede29a93794182063cdafd0d1ffaeadaa931eb44e2e902bb7bb0.json",
-      "store/46d82e2b834b72ad2a949a40a29917c8de074cb7d4cf3f681e6ebe4a5d3cec50.json",
-      "store/08680c0d8b497a23358c96d43023a248a536f8e1dedefbf4e9d3cfe9878f2da8.json",
-      "store/9308f67b8834547bbc45f6291c95e6489b5bf44414ba39f3e494e86f9603fa3e.json",
-      "store/d6800b4bbbd6769c093e6f3deb14be84b554f1e855fc5297a69ccd4e8c32bd6f.json",
-      "store/825b9bbb75089b1b37bcd2f63976e9112b96ef042ef861d801e0f5523beab3e2.json",
-      "store/5d6f0d8e224cb01a7a14e05a58373ebbdb263ba79821a3358d7ef1a404723307.json",
-      "store/eae2fb764a829ac6e5e7b2e933b9a83c50fdf0fbe433554ba0939f0f996b2b0b.json",
-      "store/2c9874932f3096cb94f20b55d5c7b9b99504172105d2ccae7a93d05aa1bec589.json",
-      "store/6954c602f01bf52e84d72d7a9d857d065c076227273ebb2da88b539f574d35c8.json",
-      "store/f9415b7cffb1e00d12d93aa1404fddd4a6145a146e0beba6dc3aa658fa4cccee.json",
-      "store/c0a1e6395d574c687da8455d2a9727e7ee202220dea047d61cab910c08681350.json",
-      "store/9164f6752dccb6d0d612d134a22f755a3dbb68b3bc47d63020e732a4e59436cf.json",
-      "store/14005a398507382c5830deede4ac802dc0cfbeffcc727663cbc2fe2711eaecb1.json",
-      "store/9c4d8bef38159ca595c3f1b7e4259e20bb4d8f77c3a8163ed1211b1bba8a6d90.json",
-      "store/97f76a3210042cb9b2f9f80d1124b29915229db4ab5234f64fedcfd7fd29412d.json",
-      "store/4779f9dcd1e5cafc5d7f5a59a1d12086f7e2671861e1b81f8f485af2f256acef.json",
-      "store/3e69265e676b9f667f05952cde866253b1b7b6700bf29c8d4af33de2dafa62bc.json",
-      "store/de60713da94bcf736e97490d2eb94d097d39d74625ca484d33ab7ef6f2f64916.json",
-      "store/af6a6208bd89c286912fb73516d7cd3735e185ef1b7f765ac7074e09c326b88d.json",
-      "store/6d28fda3dd9ed2e2ead0850c26aa6f45cf64278f655ad26fc4b1b81ad9697833.json",
-      "store/d91daf2174a55b1da91bdfde6fc118805947e6b065b87aa6a3f45cd8fc244674.json",
-      "store/e741f9bf420ec403233f24059f2bffc569025e8234b4fb004fc76eaa720b3e60.json",
-      "store/6a2d6272c222edd646f42d37a6495d88b75b458aded994ef9519bcfd93184c5e.json",
-      "store/74214824326fa1f93d96c89118a1ffa36dbd073fe05ecec953e1cf3da5824ba5.json",
-      "store/049042cad450efee5620c2fdd1f08d4540506d994f6a707bb7a2aab5a898def2.json",
-      "store/ca3704bd1b43bf1cbc377d54c49b70001d6052a0056c0596356b889d972c15e9.json",
-      "store/b96c678bf2b97eee2eb2ce2a3ad7b11d0d2628ec2953955fb47577a05a13d484.json",
-      "store/ab0a724cf3814f333ea43a8dd5e148afc6337a1dcd7526877da7b90e6e190628.json",
-      "store/01d1d0bd9e10627372e79f013ad3d805c065fba16ea8229fcbe90e9c7ee5e72e.json",
-      "store/3e869dd9f2f0874a63249daa439f0758af87a2d4865ed84cb8c2df056978c31d.json",
-      "store/47a0705e19f4cfa03ea6a38e49faf75cfaa9d1519f435ef4fead5630c22a9682.json",
-      "store/52920a2f4c0bfe0f2b6691220617e366a4c66583f10cc924ebf0964d64d036ad.json",
-      "store/3971a35891c5c60d8509e3ca24056eeaf58d7645fb3737b0828942a71fec03ff.json",
-      "store/4a968ce870bf52f5afeac79de0747ecc1a85b94bfb2c80492d75c8773ef5d855.json",
-      "store/86c273bd58430dafd1f87da1ef655e77346ac00274c47897e5c9eea91b439d82.json",
-      "store/8277962e5a488a67bb3418ee54cc079ea3c40ab0e48cc020a23a682ece20f9ae.json",
-      "store/f7bced868c5852f5c16acbc428ed232ceb90e50fbc2e77a9db2a800cc484617f.json",
-      "store/a5cc61c24aaa8211ad3af30afa5360bce7e989a80ac4803b1fb1cf819875ab8b.json",
-      "store/d4127d2d7495ea04681a94f87de7eb83f6a7cf512d7c3e3f06138adf4524c576.json",
-      "store/8335c66768998a6da45ee91a18fb3ed73371146e98e24d9b3dd31b59b298f850.json",
-      "store/bca4901c02daadfd8bdb4cd9216993b34d57ec2086748c997bebb94aebf16e1a.json",
-      "store/e7842bce1eecb1153b61ee22034fd6079145fe5fa6de72c3ce7ba5f398015533.json",
-      "store/f5e3873e3cb59c02aa1c3bafad1a04a2beec24eeb572e2322517c516c62b5ae1.json",
-      "store/873498d9a3dc031c6e4cba04ee3871951781d178a74f3438a18cc9d3f11942c3.json",
-      "store/a6afb4a178067b801f2d7fcf69f43d2cc82b6fc157bd4cfb501ffc31c7e5c775.json",
-      "store/72fd49f8ce3a11f90b356d4c30ac90b87e7de6d932a56dea043d5db025e40b20.json",
-      "store/b4b702b2d6532c380147442de6170c0261d9e7ee8368af171eb391a24ea118bd.json",
-      "store/98b94c48f57e46423bc3a5c2b90c7e39c2e0cab0cc7f72be952c5411757134ec.json",
-      "store/0289fb7bca7a57106cf78d63b56ccc77287cb9a1b0fe42653e6de62765ba64b8.json",
-      "store/802b40549ece384af4ac44dd35c579d9a5867f48a829d33c53731dedfbd2ebc9.json",
-      "store/c6c2cedbaa4e8c7955c55d37ce2c5b64745cc269a97a2abbce9f9becddf7e928.json",
-      "store/53a2fe10eb5fde6c4f57612daddf85362ed3b074b1f08add6dee6c91b165d4a3.json",
-      "store/36dd72b3eb17667c0c2f3767d3dcd3fddd61a3f77b3b58a28eca364cfb1a9b6c.json",
-      "store/5f4afd0d8ea33e189eebefe7c463793e07409e47cb1a68c847b458cb658117a9.json",
-      "store/2806a9d3d50f15a6ba0d0949190391ab66376df10420aa6a6ccdd6bfe9035e42.json",
-      "store/1d171f480517efa097b83e532a6a6118c3de73cc5ba4fc820f7c227db8ec5eda.json",
-      "store/e0b6f547553353b44688940b08a5efc423f9a65194a7fa91f7a6918c5811c663.json",
-      "store/8d0b0d77d725d2b0df1a71adf9a82c2bd5199889c8337f60500e161e50f78d83.json",
-      "store/8ea97f572cfdc5da918913683269af7654043183893f20971bc54d4109db9529.json",
-      "store/4f5619ec6414f34746de4616dee0221d3ecd7d02073e9ad14cbbabcc8aae5ed3.json",
-      "store/d1f4ed979e810457e03aeae1d862bd80ae35ce6b867bd1e2c21471af3634a6fe.json",
-      "store/92c6a7501047d9c3340b7d26f2f76153d7a8b4aaa21658076de72bdb6cf3d9dc.json",
-      "store/86e7e75d62bb6256a19947775ccdd2576341cfd402e10faf51bc6c209674b1a0.json",
-      "store/4c349b8b2b855389acae62b838960c3a5d50ac81ea6ef404c36912d3730246e3.json",
-      "store/9acfb8003071fe26a507058c9dd5de319009001f983d08967e9c3d3cc0e9f8d7.json",
-      "store/b76be29095792880c58c2ffbea45810dfcade71378750706c8ba2f053620e4eb.json",
-      "store/ea0760f00b03019df5a0b8a15d85e0a06e58a1c84c516186143631953cbc588c.json",
-      "store/a68719a94a8022cda7187ffaf82a09427af6a255ce23de2d1de7bf275d2f12b5.json",
-      "store/4eb924a85d427dbb2836ab6ff690f685a25b9d0264e69d3caf84f96cef925999.json",
-      "store/3f76a6013a4b14df6a2910158c7dce66abf0e7f74f60eb279e0d9ca770d4c68e.json",
-      "store/4d69775e024ad71ce7fb302c514d9e2803902e7e658e7fae3825a8db0d1eb610.json",
-      "store/e6dbf8faa6e8d9ac2b2ffda1c5bdacb845286bdc0b2f310ac179c53dab980e34.json",
-      "store/3950a07922f6b3ad66715e81d3ed97f7c6d87044015e6170ba1024a041b12a93.json",
-      "store/f2ec7189003f4dbd3559751b8fb4592c66ec0aa9cfdea47658913fb594eac58c.json",
-      "store/89df7f07a903fba8af12e011d800e5305544c5e68e36c4206ec044e7592d92f8.json",
-      "store/595f98a90aec85a5f3dc4fb8dd7e5609ae4909ecedee8d862c5709bb133d4bf7.json",
-      "store/48b89fde7c653d5179fdb7e8c0a989e4d582a17f86199a69bbeb809ba1d22a16.json",
-      "store/b97f69e1ac789ccd805ed3491e7ba033482956ecd5ec4ba187d5ca5139dbb5a3.json",
-      "store/ec2ee0c9330e3c751fc8ed026982dd62ffdf35dc9828ef87b5834425ddfb2f28.json",
-      "store/6492c819acb5305e18a37c70d00ce2802b6efd88814251bf2186356093c171e3.json",
-      "store/9b967e4e2f9725bf9818b2fa9e260c13f1be28055021a972fd3e917ae421ab42.json",
-      "store/20d8f29c9eae77c79fdd1efc3e0639f5dfd456e06702ea0b36444d43d9356a73.json",
-      "store/14cae7486b46f90cce67f8403b2505cca98c3f6da8285a992b7ffa50e81dca35.json",
-      "store/3f2f78967a997ad7c4193913568879d26f8111e48ec05d53511e3f0b4fc33b96.json",
-      "store/271c58548013eb3260a9fd216e6ab1d1f4a1888ba66145275ae96b17fc973bf9.json",
-      "store/e7793731685ece0d7eb9cf5532fa4c3f7dd801b36a43660d6af5cfa0bb3d5e84.json",
-      "store/0aef519e4cd8151c856747f6ee3dbde80e78780bc7bba870a3bee56bceb79800.json",
-      "store/8fde054a03597e5fc00ccba287d96817fa13dbffb316ca51c4e38ee8f85f8798.json",
-      "store/beec8be677dee6bf668abd06f5841aa186a9261f8fe4e322d476189d86aa8225.json",
-      "store/58aa9457b6541676f30458c48844c4d15296d9facb0846b5a9d5d30cca71d383.json",
-      "store/8971b8748679b51e9b2ab54f1c6546a5da6e6331194e81e6c64f232c5d9f3326.json",
-      "store/d6e72a98ce537316483890c93703a0c5f66c3a63294b4bc1c47e62ddc1b18862.json",
-      "store/038471ac80f3f729f2e04719ce12988557f62dae35d0faffa60318a0b753d649.json",
-      "store/31f5633d52132bd4ca7aa29097c4432b61b36e657452229750a3cf3e0c31735b.json",
-      "store/2a6dd0b01135436c5e8eed8481c0870c64e3c22a464a9da0c3b8589cfb4b5f46.json",
-      "store/95ca0d428c19dc5453aadd169a899c5832d88ce1f5e3e9758e51d792bae4bf54.json",
-      "store/026eb9586e201769e299c4cb1ed742e64518645aa82df4fed542c463a939f0d9.json",
-      "store/7d0990f1d6ff410a99a68b5c43984f795bef28d9dfd31c9b71b51680e5eefb79.json",
-      "store/b870ab3e52dc982b342f84380aa259e566e697e4633a095a738a7508b6506561.json",
-      "store/76ec8d20ddaa3e8d7f074b196c6245bb639cd7079bb17bac7beb94d737bd0e6c.json",
-      "store/098d72eec02f2f793ba42e54327dbbc9051e581a87b2e74ee1180a5b06ae61af.json",
-      "store/3aca69db7d7f03cd2a26d147bae90b0b59747c759d16d7ac713c810f13031c0d.json",
-      "store/1042d629b4363a28f8a73617e843f09e309024b36e94d2e62257ac84a0f4da10.json",
-      "store/81978f4262d6ef39459829388c3f54eed09a4400d1b9e1953fc422627819bcda.json",
-      "store/94d16e809c20851b5f26ea049e19e2b2ea56bf6aebad74d82caa2246743823cf.json",
-      "store/e7c61ead5898d625a0c8368a5f16ff928ef5f452f064ce637bb2fb66b9572192.json",
-      "store/bbe6017ba38830cadeaec1fc661e530624634fba1f864161d4808a2e1976a7ee.json",
-      "store/67d0f5c6723a58ffc91c35d27f5faaeaf4552b8b8d08839a5f7ce4666d4fffdf.json",
-      "store/0884db12bb668fd93f9e6d0a22b9d4604973dc8ba72f205c0c7279ab498bc051.json",
-      "store/c746dc0dd0580fd541eb3c5cbd1d589ed19ec4309a7d778a3f4b76f9d4651aa1.json",
-      "store/7837ab6ff46db23a4c1e6422884620ba03432dc63944874ec92670e528862f34.json",
-      "store/7d65dc8dbf6b1906adb91b338b18016e4cc4e8824f825d39cb29440284238f4a.json",
-      "store/ee121cf3a8cca2d415f29e06b8e81e27fa21b5926974d2fd05b6fc2e4023782c.json",
-      "store/69f53d35e348af9f1fdaa34167664388020f1ff0d3fad910eff5f50c3ffc0dce.json",
-      "store/4170b543b5725fa4c02fcca93214b39b6565b8bd4bdc250849c7fb499f8816e8.json",
-      "store/92bd06583fa80a86d928c7adde0447b80c0b8d6522227e272c1b40acb4b97b1b.json",
-      "store/6175f47360af9b8c61496efbef1871e6afb628aac73fe2e70d0324ce5170ee72.json",
-      "store/6c6375dfefa8f960495cb0d84e45bc70f4e0d2524dfdc01fc6e03e3effe1a4a6.json",
-      "store/bf488e4b82e859d7c28372a3ee3d67001ad97b6102f89810b0aed5e790cef8a7.json",
-      "store/0f1fe35fd5fedaee4f5f30f0866394faf24bf1c1ca062041943f7ef36c867518.json",
-      "store/6c65f0d5f9040cde63e34d8dbce0b3fc4400a0d2edad49cc93847f10c5968ac7.json",
-      "store/8e5985f5e51aa8357fbff3ff12cc8a2d6e553ff17dea9a8bc5ac430405e239cf.json",
-      "store/b564bf45b10946e0f210cebccf34000a55a1939a46bc4af260c291c81b5c043c.json",
-      "store/57459c1047140c4dc762d6c81279146b4bd698d8b1d1cc653cac6bf4b1d4216a.json",
-      "store/81765c4645ac08c51ab103e27c3513f282e9261e3d7033b3e0c69887cb067d24.json",
-      "store/4b2a7589479f3672819e8c6cf60736692438db896b5f9d7ab6fb350901850237.json",
-      "store/10e3f1dd420a1c16ad28b721f78e16379951f5557dba068b099b363d1f8aa440.json",
-      "store/2a31280316027304058b3e9bd5811e89a1313b42a71aa581604acea917eaae3c.json",
-      "store/74737ba1ce72394b54f1e46a76e6f5be5b04e61d18b04fae7e11dbfe58a8f7c3.json",
-      "store/f4c4f2949f6e843bc1e284a9d1b48b08dea9445b70a30af940eeabb9dc03f5db.json",
-      "store/8f17fe22012d6ad8c9ed1332d6d03c14af81985460a4b9057b7e4e1885ce0cc5.json",
-      "store/ea39e023685149aebad9a6aa2a5534c7785ab42808ea758cf0663ca8269ba944.json",
-      "store/ab7f0bd9b71ea4c6af72423a22973ca0ca8ba03047e1111cdeef3d898ae85e4b.json",
-      "store/45d2d129d4670e153a5ba7987f2b4a0d54c46ffdba7106f59588fa9420bf2d3c.json",
-      "store/c915904557f35867909fb4bd7a316c705a14c1d101e24ebdea0f27f93d7acc00.json",
-      "store/6263df75e968ee55c084ba9f7bea9a52be03e4fface159d53c30095e51a53a83.json",
-      "store/ea6bb488140acbcb6859b3b56158979bc3b56cef8aab9bd1aee19a8c1980e99b.json",
-      "store/32526b30e4d1f3a5a107ddfce7b3afbf82e78e222233e11ed7590dd2776d7fa6.json",
-      "store/2c836571695d8074b93d4f02540cb417a789e3abf161f7acba9b274050db40ba.json",
-      "store/bcccc12d2ee3aa3abf53da859e21b72b06fe8f4e1e2ea11d10ddec22bf2116cf.json",
-      "store/253814250d0fd8238656e04957e2eabe85b8f682b791322dbff0de831e595890.json",
-      "store/1b02e980063eccbffe1a4cc2c221a03cb98fcf839eaf16792c0d2c6f36e69f49.json",
-      "store/9a9de54ea43e226319d93e95b2bfc42473d757d580113fe336f1f134b5dbbaee.json",
-      "store/90883a8882ebe7a30b8f44bbe4e45fb56eaf6d9c1e21633dc7095f3a030210d2.json",
-      "store/8bf2837206c7854cab735c80b1c710029424cc4dc4d8c5f86051469d109fd469.json",
-      "store/c38c1d887228d71a4c0a88af009928307398efe07f9e6ad29532e457ee4159ab.json",
-      "store/273f191e181d96c892d2d45f24cb66c9625b19e7f4485ef51bac81d1e5f95d6f.json",
-      "store/ce944e7143ce8ce7a43bbb2a90a016152516f7977b582cdd1b4688f768b39ba6.json",
-      "store/d337a4526f2ebbddf450ed86d65b8f7ae3b8e38c8cd72a29dc0dd63fc82cf2d7.json",
-      "store/1f00c39bcdeaafa6c39fd0e8510101a15c83bd0077fcbc4cf29b9bc170de7158.json"
-    ],
-    "Spinning Ghost": [
-      "store/4b79f6eff1cf56e670da16637c72f19c22fc8c23e2cbb2fe5c08115517c4ca92.json",
-      "store/968b3e7f8fa7d424b5d538f520128e674fdced270f6e2a3fce3c4a46b2e1f4ae.json",
-      "store/476103f92143ab9bf68d63932f61ad2c4a6d900e4ac0fa51a7862ad995708ee9.json",
-      "store/9c7c3c4c770c26eb7f15e27368b5e9c3c56df3dfd6e23c863a1f007837989e30.json",
-      "store/54c96b49dc09cb89c7fea8a0dc54c845931a3847f32c6f699bc5a1190203468e.json",
-      "store/a47d62fe60f678e29cd6c2f59347cfe19eab116bf1ec210a12460c50878ad392.json",
-      "store/87aaf63ec2fd919373e33f2fbb923ea86d0a4b24e15b5fec1e95d2fb211e5237.json",
-      "store/4b26f65348658ec3dbca8af92437c0aaf31220fd2b43b6a5c02eaf93adcaccc8.json",
-      "store/41b4e9adb01e1ceb3f7eb9f1977e84a4dc26983ac209a5406cebd889c6924f8b.json",
-      "store/02e58e17fdcaa507767f726dc9bd6855298e8147f05fc483928ee488acdcb976.json",
-      "store/163338ff83ccae08b9dbf7c467db3349d65ee1244c70f501c95ee4a0f81c33e9.json",
-      "store/f7c9df2ebf62ad1634062366f3ebcfd41cdab96a893e97dcf4a9b6a47090f4e4.json",
-      "store/aff949cec3a359228cf7fc6e326dee7c0bc41c055ed8ab05e484d26d0428502f.json",
-      "store/705cafb764d63f48612549c80d4815a7631ca78edab683a203ccfb45498cb516.json",
-      "store/e705aba36cc2e3254b562fb27902ce488959efc825183816982711870b924f8e.json",
-      "store/507c94c561474e67f34d0b60355dd00932b198a780f2a0056269d86fdc0afa89.json",
-      "store/a8799de5ca73a158509e7957b05994377ef9e78061877309e01fed7f611b4ba8.json",
-      "store/4c4fb3aec25c8f05ec8958d56af6810cb22a9e2733a39882ddaffbb68ce6124b.json",
-      "store/80237f36f5d95bb9e403e341a18f52b382f99a113194e085f5df708318c2e9ba.json",
-      "store/9c2ca2607fdb3ebbaa881c7bb3ac8893a1990eee3400cc6ee794d60f2e2cbcbf.json",
-      "store/b85ddfbe8443cf23f7d25f6a0550ee5732a07c72e8b478854e4f74e02bd537ab.json",
-      "store/3d03ad6f48e9d86fb47cd9ab8ec3b7574d3af812bc88140086b0f0b3a75fecad.json",
-      "store/57d97ca29e24f8b71bab4986deb73b9682670bcb95357e9418b6c79e13ba4649.json",
-      "store/56dc9d1df0b1ac50cc8be032648d185c272b7c2be3e8cc59191209c8a00c8919.json",
-      "store/e06e9c30b2754f62f0defd1f23adc4fee7ae92aa5c8fb168823e843122e28e56.json",
-      "store/60643323ec4848bb29d875732b7a3ac5461f2efeda3b85e0aff983ddfd4c6dc8.json",
-      "store/eae652f321cd1f3d2ae180459d649a9163d8cbaec597973f3584128ac23f4fbb.json",
-      "store/1a85915c2fc65f621e1a9d9e16241651ed60c582b5965eb3bbe91a442deaaf78.json",
-      "store/635e1aa82bb478d119769cb601aae63653d0ff2d0047fcefe867b557bf1eab97.json",
-      "store/900b7ce16a0bd2147dc35d31f523ccf6ecae9798ae45b84b8ee210c92c9d2c2e.json",
-      "store/581ca49b7f5be70c8a7b9d5ec26aa9f506b99c70db4530ccbda1772df2208237.json",
-      "store/aa2b699ddb1dc97476650f27cfba8cb5d48b138a5077c5fd29d6cb2886b1b891.json",
-      "store/837daa1defe6d7621afd47e91f3fc7201de65589fb46849f374eadc4dab5cc97.json",
-      "store/52e28c32c883317933244b31216e2a485dfba0b2a8ec8cf0021f581a637d189e.json",
-      "store/52e28c32c883317933244b31216e2a485dfba0b2a8ec8cf0021f581a637d189e.json",
-      "store/d8299d8b718ff43ee3899dc6ebe79d20bb1ef429c9bff1b00648811af78b3d9a.json",
-      "store/e07b13298f367a7a7fc116d167ac11c990522f82392ec9740519ce4e874603ff.json",
-      "store/f1b814b9f4fe0738e3d24e7396d9f2a30d4cb8de9af3c43e6840ef708a814908.json",
-      "store/8bc79e1ea6b6e11a08573c81b81047b0901d7f3f45dfff77b4e9651b9d339ee3.json",
-      "store/bf1c8f12a92464de537fe53ff0d10eb362978e0523074c28cb04f54b0bfc86d3.json",
-      "store/fa06ad3fa53820540cac970cd6f22861aed6210ea2da971dc586b7e8262dc3fe.json",
-      "store/b0e6b1a6191c054236c551ed124179d7e9d664bfb601107f3b6169341c6454e6.json",
-      "store/b5ac9cc155d07bb2da6394fc635f54b7c96e64a1331afd2bedb9e2c2f1fc27e6.json",
-      "store/b18d6eeb848981527209c7d71c84abba2ab312057edb3264a9126edac074b11c.json",
-      "store/6c8d95328c1d85bcad7254944aaaebea3843d8270b455016020fd3db238e98c3.json",
-      "store/732aeec63dcf78f2eb5ba743f6103aac93cceebd306c956a0e89f7169963802a.json",
-      "store/760956a6f6f2883c35a1571e3e7d8b4ab4d2c65afe70701672faf28663771f3d.json",
-      "store/5592484061f9cb6ff75466d715b6b466f05296ebbf3c7d2f1d031f4eb98ec5ef.json",
-      "store/5d2a09aec298cadd345a1ed7d873e01a0b4d4fbd5f3fe76a645363e881b5acc7.json",
-      "store/d825165c5de57eaa751a7824117bb5a45c74a082fdbaa2306e24633cfdff2cbd.json",
-      "store/f6d1f37e270886354122c342c1f322a5a1f221f210c060fd5fdc046e3a824d0c.json",
-      "store/646f58b86b488c8c9c32ff4ddb36b2d046995d389c56887b639b7398435cfe00.json",
-      "store/8e2e8aa37cc3fefb53044756333e4dc2eca5a0bd43c38442c06c8b46e2c238e7.json",
-      "store/a55e581350709be8981f850e8b5e1cf134f8018145c6f6bc04f67349eeaae8a3.json",
-      "store/427026f821d9dc05f9a8053db427420d73bbebd0f4960015d726fbb6db664e57.json",
-      "store/dfd1c91b237a2b6b9417935119ed5e7cf0bc65297779286068d0c654a1709503.json",
-      "store/919ba46cbe633f80b46062dc3b60cc3025aef26327977fe10d34c63e5a0950e9.json",
-      "store/24b3dec8a3703f514bc021728565f4daefe4d2f75a8e9cd6bbfd9671ca918135.json",
-      "store/1434102df46a1829bc95bc1b1556fd31ff742b0917c7ae00d2266eb3ef037c64.json",
-      "store/1e7861b866db01248760fffac1553ed270f681fdfb9805af8c08aa7ef579292b.json",
-      "store/aaa8d047bde0cf390a401d5f2b5ee1342300d61f33c87453b537ee62c4b22e1e.json",
-      "store/8224af9fb196b963a42f7b45316d09c02b9792bda5aedbc7240e8488f20118be.json",
-      "store/be27b26fabb6ba9edbed5e7587ad5dffb2d61366ab96782cd1fb0147be4692fa.json",
-      "store/91c83b8e027f53273f2ba60e01c07ac0184a6a9062beb7461a194e73dba6799f.json",
-      "store/a8c12b1bd38e923118ece5212a33cc162a11bf9ad91da07003aad6fb152e3d87.json",
-      "store/a21db2ed47fa963d0d7bdb64bb63f726d40f64584b2ccc32b78812c8fa217f7e.json",
-      "store/368f6bdca488852ef5975099b3752662972f20e8773a304fdb980322452b03b8.json",
-      "store/a1f80d5ed9193a0b7b0808b05b0f7317ad264e54d455249571d050426620e93a.json",
-      "store/34a9693b88649f76b2ed17a212528f15e184bf8020572a2b3a71ff8cc9a8f3e7.json",
-      "store/0b4938fe66030018666a7cdac26266959158e7afb31957cecb7c082fa1075111.json",
-      "store/98f1bb634040d2d265c3a0b4869dc48374fd0dca4993b759c9dac7eb8e8e8d78.json",
-      "store/49e1f9a5d0009c2f5f47ce28c204502e2dbc262bbe6170797736ade0ba20f8f6.json",
-      "store/6ce764291f0db31377df284db7da33bdc34fdae3c37a2c0f04f5dbc346cca953.json",
-      "store/a3eec50c7e44b992d877fb893727679537b9e127ada4e2884f53a1190bd66917.json",
-      "store/dd11b018a24747c0a7d5277a12c4e8d15231f2eb3dce811543eee585d60d5505.json",
-      "store/37da5d8c4d0cdadec4ba97d4292099cf250b965ea4ba55e69f0cdb84942f30af.json",
-      "store/b30dd7b3136d14abdb416be328c3c3e6f85fe9c5e3e3b029baa4d022e06b742c.json",
-      "store/6c4fb8137ffe2fa9e56b9ac8fa49cc361dd34c9b5bad544d207ae9818b84c70c.json",
-      "store/33ec5c67c6b01d666ecbc57b9b25f08808248a9b563a454da9805d13e13fdd38.json",
-      "store/eb19bdb8f476b73b60ff4afcca2b3df6f336ae2eb5ce9f2800f46fd790657cd9.json",
-      "store/95f9d4091fc8d48cca0aed7e6abc7761e3713e98b3b172aea661342c7d322fdf.json",
-      "store/1d40ad3c2521f322e76deac3a349833ed046be9fd0e09346e3f970ea0c8ddf6e.json",
-      "store/a9802e52634603b8e9413ee1ff5ec835dde9e0199c56133e85b694e011aa1ff1.json",
-      "store/e71fb5f485df6e9d56bdc4c4bea7ee31247b6020d844394b9cc3e0604e1eee0f.json",
-      "store/09631dd73e076c9e4c0f8432086b3e054bec25e86479f1f50dab5eab2784cd70.json",
-      "store/f4b87be143269f83a115937d5823d137dc220231a7e8dce7f8e0eec7a83c8cde.json",
-      "store/7e43aca5a83014702cda583ef7d1cf8a4a66b24dbf2c94ba78ce50f3ea88d12f.json",
-      "store/87504e2892e402dad7ccf15ea6e3d9346f2ff3e96aa8818171d1a53d58d939f6.json",
-      "store/540bb732a3d450b8711bd486b261396a071734a6e13d7f9578cb23de97658338.json",
-      "store/9629753f5884303ce1482af46eb8c9822a4a20839fcea9125ede590a1a745770.json",
-      "store/d807bc9e6bd1aa9b8bb0aa2afe5aaf13d8ebcccd6bce7fb293fa0449d2c5de68.json",
-      "store/f5b7da33902eac0c9d6b3290b9382019c83dc7882b9ccbfba8dae9feae28177b.json",
-      "store/d833d7aec1ad646232e253b4e81a4d4f20cdaacea3c0ff1f6391b564ac75c08c.json",
-      "store/11c392bb34e70424b8bdf2e4ad0b06420c22ec16d7117b4ffe9a9bff7c833f40.json",
-      "store/f2a0e12c8c5a9b91deca9729ef65524fcb7990ecce752e2cf17fea5832301ec4.json",
-      "store/a87fdd589cfbdba6bc31952c61535b721ed5020e86f6b0987491af934d5d6ef2.json",
-      "store/87901b4a2ce520ef525f0aae4dec2ac1e18195e97d7895278a1bebbf2a475452.json",
-      "store/03cb65d0d759c9618a848a746341be97d74df862f4e7fb093dee72bc33308308.json",
-      "store/957347caf6b560d2b0329457abd2382af95c1be7aff6622838696a005b709470.json",
-      "store/8de4ca9229e5d307801ee44955f2a751ef171c74ff8244e4fd3cd6d0e8fdd491.json",
-      "store/9ac6205d9eb43c80a515bb35f855e5684c451f0fa969617e505bdf962e6369bc.json",
-      "store/238e367525faae4d59a368314becdb82192f45aa3ca9441931ac4d949070f42a.json",
-      "store/98323f0c1d8fca5593206e0ea9aca6447953fd3ead0e42b1798cb665e46bf006.json",
-      "store/351234ae9733eca2882dd9b8639b135119afe0120f8bf2e7a4dd94f2046f0ecf.json",
-      "store/6b0f0149345539de44b20dd196d445d16e4ff447e5e0bb7687277fce0110a5e7.json",
-      "store/db2565ddfafe35284884f963cfe716ef75b248857f9eb1c367dfc404a76a45dc.json",
-      "store/eed07ac8c9d65dbbcb4f1ed0ee5937f183a631c8966c93028ddeb6350378cecb.json",
-      "store/49dfb46c16dfca8a2bbdbb52d41ef63c90054f60f899cd380f7c570577a3ab91.json",
-      "store/cfb27bfaf06deff3b1090488aa6820de1f84b5b0cabf35624853e045d73050f6.json",
-      "store/c15bd3c555b3df2c650c6e637c8fc74647c1b7e7cab800dbf392b24d51ef8b1f.json",
-      "store/98ff28e2b988158d695c4f8ae26528a3a82902248e190cd10973ccbf08c10967.json",
-      "store/cce8231c6e453acd64c85adc52e218a2258f8df75c236008615b1f49a5863b9c.json",
-      "store/fc1b6d621887093c210f0a79192dda1320367cfa15c66a452ef95f608f6683d9.json",
-      "store/382507b9600fb12df121e43d024fba935d765c1a0af2d7796d005478ddea2f3a.json",
-      "store/4a71931f89fa2fde5e4534dd5d8ab27ba589b354a5dcb09cc285de8fd664a005.json",
-      "store/0ad612e489d8186c4439f458f9e53555d363c54d5cd710996d05e71d343550b8.json",
-      "store/a782fc845e540afa50abe0102f3d1026f8f96e97b814606b5f03ff8573251c56.json",
-      "store/4ed642c4a921a9d3c7d3ce99aebf90694dc0049cbf86a70ce5e790a67ecf7996.json",
-      "store/724599bfbd3786ddd00b512148b7664dcedc95790a561fed1b9785d97dce343d.json",
-      "store/2d1af80b374b4715fcb6184084b95691789287b2b159a65e94869727200934a8.json",
-      "store/f92b857ac5b477dd0d426234c1c11dc833ca9b16583045ff3a92aacedf9a6225.json",
-      "store/c3bf00760540205aaf9c6ba6170877f6845305463636cdedc7fa81182696e1e3.json",
-      "store/963c9678a5fad957eccb0390fd333fccd8b016c886dc03f4a30827b98f03089b.json",
-      "store/14a364bde2de7b2e81293b7ecb1509c4c52fbbb8df5c37503e109971a9b613d3.json",
-      "store/3161dbdcdb9659109941bdd234561b5e7508803dfe33f8ad8593a5b5c0811495.json",
-      "store/2f4afe2c33bbf4e0b565a694e7aa502a84b96af1a69145f722ba1c5ff0499146.json",
-      "store/7753048d4198f98897c496439a37f4ec5430facc510639b188d72b4d68fcd0e6.json",
-      "store/5e7f172fc0dbc944cf5c2a7b22237d934d66ca6f9461732ec9acee58d29bec6d.json",
-      "store/c124def975e9c546127604e6be62457a7d7a7a5f1f1aaafb3ffb378a31f1ac47.json",
-      "store/c80a6df1c6b8ab28d0d38aad0e7a029896f0dfe1bbabdd691a60faf7e33431cf.json",
-      "store/4eb664218d7bef5ea684ccfb33c3fb201645847b3efa855125ebc582cf7258d3.json",
-      "store/c51238f059444f56b28204a6844d13ce94def4d50c79dcebd4d2951d4a408c51.json",
-      "store/a3f3cce851386e48be383b81b3cb5178d8ab4930ef53d763aadf89b4fc5f1b00.json",
-      "store/4848da67a3d438896b2c8612da0d2497c09b4167bd3ead9263d4fc24be9f8e07.json",
-      "store/4173f01f4e994d4fa783ad215479ff3f2545a86bf17a2eb3ab5cfdc02245124e.json",
-      "store/0967fe2c6b609aacc193564c74870bfa9fc8368511a2a582183a681867b5a9b0.json",
-      "store/eececa9f47ad66fab5ce7e69e22ef560dea4264a5f67b200dca424b23b845a6c.json",
-      "store/4eee0a81c683ab03d24e3d5535e78ac445c84cd23c01271093df4b8779197f9f.json",
-      "store/7afb68fa945c9ee923a3539b405000902b722e74e85445f2aac67f6d606eef71.json",
-      "store/87a97c8d5404d598f5fbdc4ee40b2d4ea202559bf472d64b93099f7313b057e8.json",
-      "store/7a9d25f05adc90a88d0e7cd0d1c81be3ab743af341bb10d7b66ef0069070fd32.json",
-      "store/cb782af28c311094835a058ccd2e15985a6dd73da3bab5bb1ee239fcd8882642.json",
-      "store/6431a5c167e4bf0283032c68646e6b017feefa1db8c73b7a7857b75e6400d17a.json",
-      "store/79bf9a98f6d30f8e499ad44ba0fa4a31f5b5d8471d3252144e35ebc18ef280ac.json",
-      "store/d9004d7fb7085de4a18c6797797e976209f7484ffb3d64aa39cea59e8c665dd6.json",
-      "store/a4d972f63a4d15c5ba7ff61f0e7d98a8d97e0a07076ddd3806323ba76041ce82.json",
-      "store/17e22a1cbcc2066c27088b4659ba8f8e612ac6868a81bdefdd41f196e4af9319.json",
-      "store/56efecd08b5d3d4a1cbe91a339723b21a01c06f7f43c2d4d55ac61ed24146a37.json",
-      "store/27ce9f12ced853d9993b88cbd8516d05d6cc0f588723c323be1645f1a25317c3.json",
-      "store/ea30a85c36ab9d02aae62f917c17e48a75f9a0ab25515f5318e16e51abe5f2ff.json",
-      "store/a85e37d7ad16c4ce7374959891c10466ec1f7c3b9521bee344eef588ebd9adf2.json",
-      "store/441f5079ffa6e3557454fbce2fb94363fd0cbc082a382e04ed826c9cb88b6c13.json",
-      "store/c032f7b3add4d777782c8f1180c5cde96f12b0ecaab897d6aec4d00248435893.json",
-      "store/264e89513e0906b85c8cf837368821e2aa56b7386c1fd66cf52d37af4a695b26.json",
-      "store/eef2dcb6972e40956848e29ca55d1586031275f7cf048ec1382f7a1c681a47be.json",
-      "store/db94733d1bcb25fe1f8a331668d820d668dc9c1cd9791af46e09dfa9e0b2d782.json",
-      "store/4b97f94c3c25c82c6acb7621882784318d282577f37fdd637eeb0d33e88e53c4.json",
-      "store/78af4e0ecb01f5ca1b046f4bf33616b374fcce56960681381128a3b9da8ab6fe.json",
-      "store/2d8359078f4bf109ab9a8cdcf7f9baff1753ddc7c1b8a6a1f73ef75a682dba00.json",
-      "store/13ef9580fa612440cf7b79d0f0c5ac3054950801bdf34fdcaccaf81fa7086284.json",
-      "store/cf893b970537704dceea7f4c301c309ef39fc2ffa1dbbefdb4a943173860a47e.json",
-      "store/a223c7ac4029e29e6ebd0be958f88f5feffd6facd1757ccb96c28c05e992cb0b.json",
-      "store/d935d4e2b28841d18b9822a123ef362359c22658d32b462913b58f408b2177b9.json",
-      "store/1a99ec5f77c964153bde44e61c9871064647bea98855d7c8164045e08c1b3b1b.json"
-    ]
+    "Cute Ghost with stars": {
+      "category": "Ghosts",
+      "frames": 45,
+      "name": "Cute Ghost with stars",
+      "source": "https://i.pinimg.com/originals/59/7b/4e/597b4ed0683df1d67c8182776d15a016.gif"
+    },
+    "Mad Flying Ghost": {
+      "category": "Ghosts",
+      "frames": 169,
+      "name": "Mad Flying Ghost",
+      "source": "https://media.tenor.com/pNdGUDkcHo4AAAAC/ghost.gif"
+    },
+    "Spinning Ghost": {
+      "category": "Ghosts",
+      "frames": 164,
+      "name": "Spinning Ghost",
+      "source": "https://gifdb.com/images/high/scary-cute-animated-ghost-mr5e5e60n59lhn7a.gif"
+    }
   }
 }

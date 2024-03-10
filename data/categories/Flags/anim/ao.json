@@ -1,3 +1,6 @@
-[
-  "store/dd34c3149aaa351f18c0a7a8cc8b0502110476c8eeb2e76ee9da6c15fa527be1.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ao",
+  "source": "../country-flags/png250px/ao.png"
+}

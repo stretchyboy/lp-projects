@@ -1,3 +1,6 @@
-[
-  "store/0f1f0970bbffeecc140f8c9d51748ee7e32e39f1680558ed560456315b478b1c.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "sc",
+  "source": "../country-flags/png250px/sc.png"
+}

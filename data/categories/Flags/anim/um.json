@@ -1,3 +1,6 @@
-[
-  "store/94dd2150d661852346f961521d31b38423e99c1a4a518340b42d3d9da2a42f90.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "um",
+  "source": "../country-flags/png250px/um.png"
+}

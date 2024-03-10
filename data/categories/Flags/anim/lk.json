@@ -1,3 +1,6 @@
-[
-  "store/ca95d6731fdc458fe8a9538c2367e3afbf8f4638c0f104c76252261ca4a54e36.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "lk",
+  "source": "../country-flags/png250px/lk.png"
+}

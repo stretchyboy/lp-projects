@@ -1,3 +1,6 @@
-[
-  "store/405da2d7421e5d2ef98bcd7d25ca19db6a570311894d68d9e1f4d48966581937.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "mv",
+  "source": "../country-flags/png250px/mv.png"
+}

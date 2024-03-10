@@ -1,3 +1,6 @@
-[
-  "store/16b71bca597e976cf4acbfd9573fb859ca75203f9028b68b672ac4504b0b69ce.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "in",
+  "source": "../country-flags/png250px/in.png"
+}

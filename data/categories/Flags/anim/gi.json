@@ -1,3 +1,6 @@
-[
-  "store/ee8ba186e3256c3381cd16b6ef1e8af858321fd2827bac9944e1c277be7ae057.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gi",
+  "source": "../country-flags/png250px/gi.png"
+}

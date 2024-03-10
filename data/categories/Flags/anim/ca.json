@@ -1,3 +1,6 @@
-[
-  "store/2bb9860622e1127a63055c9719183c2a834b1ccdad1c390d24134a5d5c8eaf07.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ca",
+  "source": "../country-flags/png250px/ca.png"
+}

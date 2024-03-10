@@ -1,3 +1,6 @@
-[
-  "store/9ca3aaf8b5001f25b3a094e921ddf2a09563809c8f46017dc1311dc4e1666746.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "dz",
+  "source": "../country-flags/png250px/dz.png"
+}

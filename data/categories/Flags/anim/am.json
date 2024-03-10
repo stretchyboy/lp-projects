@@ -1,3 +1,6 @@
-[
-  "store/b1e0390e0d2b6193cb7cce31828e72a33eb9a21a1ca49b16baecdb2c071d5a75.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "am",
+  "source": "../country-flags/png250px/am.png"
+}

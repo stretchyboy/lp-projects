@@ -1,3 +1,6 @@
-[
-  "store/b45a9fadd2dab992ae3eab67af0ed47b2934a3e56f75565e2521cd414efbd9f1.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ki",
+  "source": "../country-flags/png250px/ki.png"
+}

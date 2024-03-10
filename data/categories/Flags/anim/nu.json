@@ -1,3 +1,6 @@
-[
-  "store/86d41e6df1c8efc78f44b69fe7526a01d437557ef0b85fc9add62a7e530e7f41.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "nu",
+  "source": "../country-flags/png250px/nu.png"
+}

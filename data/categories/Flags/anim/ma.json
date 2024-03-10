@@ -1,3 +1,6 @@
-[
-  "store/be94ac54cffcd7698cca57f59b360c31434c7416264a52452f5b17391595f8e5.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ma",
+  "source": "../country-flags/png250px/ma.png"
+}

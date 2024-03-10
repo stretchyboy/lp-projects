@@ -1,3 +1,6 @@
-[
-  "store/81b69e9242c99a86c20bb0d20322900e11f4300a4a94827c4c303e3c2b511ef6.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gy",
+  "source": "../country-flags/png250px/gy.png"
+}

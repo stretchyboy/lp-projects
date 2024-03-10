@@ -1,3 +1,6 @@
-[
-  "store/5245516775b0b1747debc896403a43dd102b758ec3f59a2baf4a45998ee6b898.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "lu",
+  "source": "../country-flags/png250px/lu.png"
+}

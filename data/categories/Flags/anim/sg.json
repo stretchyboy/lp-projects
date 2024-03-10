@@ -1,3 +1,6 @@
-[
-  "store/a433e952797a3eb9ad2c90a72e86610f4c14b7e6d6f19b8b1c57437a09bca9c0.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "sg",
+  "source": "../country-flags/png250px/sg.png"
+}

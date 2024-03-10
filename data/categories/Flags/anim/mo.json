@@ -1,3 +1,6 @@
-[
-  "store/bc84ffa78df99ed438294e460bff94a37bdf6e601ac2c882cb0f3f2b726d8315.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "mo",
+  "source": "../country-flags/png250px/mo.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/d2483386b47daf369b451d75b3ac0db9abfb9d86664b06e467c65d379cd77bcc.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "co",
+  "source": "../country-flags/png250px/co.png"
+}

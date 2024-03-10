@@ -1,3 +1,6 @@
-[
-  "store/bbe864913d7d8fe342493b7746e146274794697802eb56b36f0d8f095617684e.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "km",
+  "source": "../country-flags/png250px/km.png"
+}

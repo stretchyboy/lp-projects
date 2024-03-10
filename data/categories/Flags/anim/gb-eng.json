@@ -1,3 +1,6 @@
-[
-  "store/246bd279ddcdea3761d80f825a397751ff29f52cddaee1f050a3fba168c46fe5.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gb-eng",
+  "source": "../country-flags/png250px/gb-eng.png"
+}

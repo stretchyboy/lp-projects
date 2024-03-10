@@ -1,3 +1,6 @@
-[
-  "store/50760c1081a7a0e10f52c923a15a278d5d1214e819fb1a36b5738a4715665f78.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "aq",
+  "source": "../country-flags/png250px/aq.png"
+}

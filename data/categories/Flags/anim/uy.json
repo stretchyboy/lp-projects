@@ -1,3 +1,6 @@
-[
-  "store/47ac79fd641f711295fd6346d5aebc676380e50806a4ba170125d3c6a0288eba.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "uy",
+  "source": "../country-flags/png250px/uy.png"
+}

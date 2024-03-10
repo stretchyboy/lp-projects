@@ -1,3 +1,6 @@
-[
-  "store/bacfd439ca8128e26c7a4996e660dae55c45496ff946e5d73b9aba4b783c421d.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "fo",
+  "source": "../country-flags/png250px/fo.png"
+}

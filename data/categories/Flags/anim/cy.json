@@ -1,3 +1,6 @@
-[
-  "store/8b8cc4d5d5eca5b01bb38019d49cb45cf36bf752a0ac27525966df05dba7199e.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "cy",
+  "source": "../country-flags/png250px/cy.png"
+}

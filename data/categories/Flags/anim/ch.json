@@ -1,3 +1,6 @@
-[
-  "store/4f67c843ec42519367afc8cdce7e2e4c1248422fb029abc3f22898e6bf97c015.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ch",
+  "source": "../country-flags/png250px/ch.png"
+}

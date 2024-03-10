@@ -1,3 +1,6 @@
-[
-  "store/c4f660b39dd937cfd72f54d374cd19386607be53c968532a79cf0233a23990b8.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ge",
+  "source": "../country-flags/png250px/ge.png"
+}

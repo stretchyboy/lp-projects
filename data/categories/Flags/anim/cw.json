@@ -1,3 +1,6 @@
-[
-  "store/327255320128649956bb57931ef6df1a197e632e137b9dff72adec3b5039bec7.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "cw",
+  "source": "../country-flags/png250px/cw.png"
+}

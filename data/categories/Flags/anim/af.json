@@ -1,3 +1,6 @@
-[
-  "store/0f597de7a282ed8e2de3f01ec128e1b28fad91493314dd89f85ba3f1c2acf210.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "af",
+  "source": "../country-flags/png250px/af.png"
+}

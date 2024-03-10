@@ -1,3 +1,6 @@
-[
-  "store/c8cec086be3ca871b4ce62b2008cae4b8023e707266e8d7061ac02e46c0b2a3a.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gb-sct",
+  "source": "../country-flags/png250px/gb-sct.png"
+}

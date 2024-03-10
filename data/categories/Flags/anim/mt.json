@@ -1,3 +1,6 @@
-[
-  "store/a20e61b0fc88ec1aee0bf74b2154d92ec624476ccf8c05df1bd7cdf224622090.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "mt",
+  "source": "../country-flags/png250px/mt.png"
+}

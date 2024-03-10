@@ -1,3 +1,6 @@
-[
-  "store/d57bacb66e685b773a79f4b4a4775bfaf3c9b8f5479455144af30f535b1270c9.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "mn",
+  "source": "../country-flags/png250px/mn.png"
+}

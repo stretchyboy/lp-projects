@@ -1,3 +1,6 @@
-[
-  "store/bbcd652bd2e559cc8d9f5e0d57e62e26e6008e446a314d9b24f0e6e9ab442c70.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "vu",
+  "source": "../country-flags/png250px/vu.png"
+}

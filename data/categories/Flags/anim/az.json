@@ -1,3 +1,6 @@
-[
-  "store/797d12be2c039b03de1b02d03a1a45ac5ab5087c386e8dfeca233985429969e0.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "az",
+  "source": "../country-flags/png250px/az.png"
+}

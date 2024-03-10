@@ -1,3 +1,6 @@
-[
-  "store/5b7789c7961b13d54e80b7733d169e2b1401433688483a831925907ab16523c6.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ir",
+  "source": "../country-flags/png250px/ir.png"
+}

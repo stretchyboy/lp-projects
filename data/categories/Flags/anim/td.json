@@ -1,3 +1,6 @@
-[
-  "store/9d551701cd02c90943e482afca03ff0564f8a94bcef473ece07ab188c82e0298.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "td",
+  "source": "../country-flags/png250px/td.png"
+}

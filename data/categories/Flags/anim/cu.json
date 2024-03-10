@@ -1,3 +1,6 @@
-[
-  "store/7530a370c7daeac185f870043c0358610fd1688d56660e11da7c24640bf79017.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "cu",
+  "source": "../country-flags/png250px/cu.png"
+}

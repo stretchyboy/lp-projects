@@ -1,3 +1,6 @@
-[
-  "store/f848033186bb271b61c543e54773d7a5353c46fc7bd1254f293831377d31b452.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "mc",
+  "source": "../country-flags/png250px/mc.png"
+}

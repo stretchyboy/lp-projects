@@ -1,3 +1,6 @@
-[
-  "store/a5597b1c7fa42dbb119df05c53ebc1af9846a4646cc9c8d833ff0bb64c33d40c.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "cr",
+  "source": "../country-flags/png250px/cr.png"
+}

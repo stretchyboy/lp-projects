@@ -1,3 +1,6 @@
-[
-  "store/ec2fa2da79d7abd284584966aea20c66bbcf590877adfa6092c93c36a3597f74.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "bw",
+  "source": "../country-flags/png250px/bw.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/11d903efe81e1330a882353f1b15377912c39733b25ec995982d10ac1f44200f.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "za",
+  "source": "../country-flags/png250px/za.png"
+}

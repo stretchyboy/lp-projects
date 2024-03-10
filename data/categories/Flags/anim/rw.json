@@ -1,3 +1,6 @@
-[
-  "store/15a94c212e9a68fe1e53cc7059fd95efedb51155e9408265c2766c3fd471dca9.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "rw",
+  "source": "../country-flags/png250px/rw.png"
+}

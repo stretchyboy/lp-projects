@@ -57,12 +57,20 @@ def is_string_an_url(url_string: str) -> bool:
 
     return result
 
-def storeFrame(category, name, filename):
+def storeFrame(source, category, name, frames):
     if category not in stickdata:
         stickdata[category] = {}
     if name not in stickdata[category]:
         stickdata[category][name] = []
-    stickdata[category][name].append(filename)
+    stickdata[category][name] = {
+        "name":name,
+        "category": category,
+        "source": source,
+        "frames": frames
+    }
+    
+    #print("stickdata", stickdata)
+
     framefile = open(framepath, 'w')
     json.dump(stickdata, framefile, sort_keys=True, indent=2)
 
@@ -97,29 +105,23 @@ else:
 
 with Image.open(filepath) as im:
     exif = im.getexif()
-    print("n_frames", getattr(im, "n_frames", 1))
+    #print("n_frames", getattr(im, "n_frames", 1))
 
     for k, v in exif.items():
         print("Tag", k, "Value", v)  
 
     #print(name)
     #print("im", im)
-    framename = args.name
-    if  framename == 'name':
-        framename = name
+    image_name = args.name
+    if  image_name == 'name':
+        image_name = name
 
     frames = getattr(im, "n_frames", 1)
+    storeFrame(args.path, args.category, image_name, frames)    
+
     i = 1
     while i <= frames:
-        stick = StickFrame(im)
-
-        stick.compress()
-
-        hashed_data = hashlib.sha256(stick.dumps().encode())
-        stick.name = hashed_data.hexdigest()
-        
-        stick.dump()
-        storeFrame(args.category, framename, stick.filename)    
+        stick = StickFrame(im, category = args.category, name = image_name, frame=i)
 
         if i < frames:
             im.seek(i)

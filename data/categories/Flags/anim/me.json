@@ -1,3 +1,6 @@
-[
-  "store/c79bea6b3f5f0aab741371d08c2db049ff0c2a432be0c5c12ca8a20c31eea305.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "me",
+  "source": "../country-flags/png250px/me.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/71d18c3ed83fcefd49fc5eb98a90fdf481b00b74705a66871ac60e9ec5fac72a.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "kw",
+  "source": "../country-flags/png250px/kw.png"
+}

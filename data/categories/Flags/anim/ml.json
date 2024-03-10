@@ -1,3 +1,6 @@
-[
-  "store/91aa0f46ab0dfa989feac79cbcf2bcd369404fe77d3d5959083a8eba146377db.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ml",
+  "source": "../country-flags/png250px/ml.png"
+}

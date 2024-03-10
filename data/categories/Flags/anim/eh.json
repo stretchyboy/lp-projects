@@ -1,3 +1,6 @@
-[
-  "store/5c1394556539640906b4597074dc93e1270aabcd45bed27bd22a6bf0cafd1ec9.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "eh",
+  "source": "../country-flags/png250px/eh.png"
+}

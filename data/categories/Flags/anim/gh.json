@@ -1,3 +1,6 @@
-[
-  "store/693d70b426a23f4f6aa20ffc0c205c457da9e3225ff1838c4f3dbc9fdcbaaa6c.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gh",
+  "source": "../country-flags/png250px/gh.png"
+}

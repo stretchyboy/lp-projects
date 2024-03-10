@@ -1,3 +1,6 @@
-[
-  "store/4afcede0f4e86f42fe29f48dc48d0938d3c44705d8d6022c600f1bc4dd7dbb69.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ar",
+  "source": "../country-flags/png250px/ar.png"
+}

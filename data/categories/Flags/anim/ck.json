@@ -1,3 +1,6 @@
-[
-  "store/5dc95f354c68c476920de24a027f96061ff3a98415b9bee89626a6b3f5a1aab0.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ck",
+  "source": "../country-flags/png250px/ck.png"
+}

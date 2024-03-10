@@ -1,3 +1,6 @@
-[
-  "store/9c12ab927b91fc00f46c8d94f67b2c246b3a54ab72f548e571499588b5fbfa74.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ru",
+  "source": "../country-flags/png250px/ru.png"
+}

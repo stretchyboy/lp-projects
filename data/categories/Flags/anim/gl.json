@@ -1,3 +1,6 @@
-[
-  "store/8f3fbb3d40936aa2a32e42fa825121bfbd7290aca246e40169c94fd6edc4fdfb.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gl",
+  "source": "../country-flags/png250px/gl.png"
+}

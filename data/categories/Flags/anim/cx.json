@@ -1,3 +1,6 @@
-[
-  "store/f59efd4afc6f9ecf7e479d2e38f271754c5fe6e73d00e030b05a882db7808553.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "cx",
+  "source": "../country-flags/png250px/cx.png"
+}

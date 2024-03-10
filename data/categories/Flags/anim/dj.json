@@ -1,3 +1,6 @@
-[
-  "store/5fe5e46cd7525c2a1a1174c439e10f7d0e0b7456427682965333bbc0b481c03b.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "dj",
+  "source": "../country-flags/png250px/dj.png"
+}

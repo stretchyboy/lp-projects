@@ -1,3 +1,6 @@
-[
-  "store/73864aebb193de2be8fd50fd479a0750742d451761868b437c4c6f82148535bb.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "pw",
+  "source": "../country-flags/png250px/pw.png"
+}

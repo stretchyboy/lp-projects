@@ -1,3 +1,6 @@
-[
-  "store/ab061c10eeb5d8ca2e4f46586a11363b0d3c07bc7c6d47be5cbd48e6d9dc91ed.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "iq",
+  "source": "../country-flags/png250px/iq.png"
+}

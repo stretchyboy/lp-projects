@@ -1,3 +1,6 @@
-[
-  "store/24462334d28d10f2246d0188b465b023ada0f4026820b0d0f051d48431303044.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "pe",
+  "source": "../country-flags/png250px/pe.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/9e4b0228794f6815effdb1eb8939746e792705585ce693232cdf57c0cf246674.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "kp",
+  "source": "../country-flags/png250px/kp.png"
+}

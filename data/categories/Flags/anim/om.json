@@ -1,3 +1,6 @@
-[
-  "store/29c46c0557f51727b0bc9f14a0ce9b8b5a5812a1923a3526676c0e9fbba5c540.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "om",
+  "source": "../country-flags/png250px/om.png"
+}

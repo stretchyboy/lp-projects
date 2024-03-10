@@ -1,3 +1,6 @@
-[
-  "store/4ae3be076cff476ea1ea1dfc4d3d21283cf96d912d98bd71313bbab6bdfe291e.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "mw",
+  "source": "../country-flags/png250px/mw.png"
+}

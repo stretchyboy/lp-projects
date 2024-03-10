@@ -1,3 +1,6 @@
-[
-  "store/c434871cb1ecc8c9712f6347be6c1bc42c2c0b2d3495d8bb3c3b80dc41396b42.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "vn",
+  "source": "../country-flags/png250px/vn.png"
+}

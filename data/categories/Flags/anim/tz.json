@@ -1,3 +1,6 @@
-[
-  "store/0f5fdd2c43c2ab8eaaf91af3287bc1b95a7047eb5dec50405f87ba5a9e9687d2.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "tz",
+  "source": "../country-flags/png250px/tz.png"
+}

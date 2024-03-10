@@ -1,3 +1,6 @@
-[
-  "store/cd8ef8246ba9229745df7e411a839e7757103d2e12e12f0a4aa8d3facb2a68a7.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "tn",
+  "source": "../country-flags/png250px/tn.png"
+}

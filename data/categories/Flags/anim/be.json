@@ -1,3 +1,6 @@
-[
-  "store/1a2740faf5e132c1e41ec1430bd0ba2eb045e86fe98e59dcb35c9622a829bd63.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "be",
+  "source": "../country-flags/png250px/be.png"
+}

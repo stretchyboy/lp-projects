@@ -1,3 +1,6 @@
-[
-  "store/88725e049a8b7181a71ab7e4eae23ed697f0015d95acff6368151800eded61b1.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "at",
+  "source": "../country-flags/png250px/at.png"
+}

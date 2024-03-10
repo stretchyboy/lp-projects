@@ -1,3 +1,6 @@
-[
-  "store/a3359c5e52dbe8195005c2734ae110a68ec8ba971660efb915e29af4c288091d.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "pl",
+  "source": "../country-flags/png250px/pl.png"
+}

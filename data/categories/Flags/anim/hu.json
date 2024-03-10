@@ -1,3 +1,6 @@
-[
-  "store/107fc73190d0c32c18ea559bdc789be693a3aa3206d2288f1330d5581a7e19ae.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "hu",
+  "source": "../country-flags/png250px/hu.png"
+}

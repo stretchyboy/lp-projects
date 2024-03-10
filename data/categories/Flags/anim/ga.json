@@ -1,3 +1,6 @@
-[
-  "store/17430a103f4c11d849c0d7cbfa1f8bdbccd806a0201668c675dfa5b0c4320a7e.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ga",
+  "source": "../country-flags/png250px/ga.png"
+}

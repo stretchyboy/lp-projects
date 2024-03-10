@@ -1,3 +1,6 @@
-[
-  "store/88d792553dcc5149dc0db4b741af73cb46db590c351e5d12dc6092e4f9fc1c30.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ni",
+  "source": "../country-flags/png250px/ni.png"
+}

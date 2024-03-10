@@ -1,3 +1,6 @@
-[
-  "store/df10690bc2bda0eae66eb316d0f80eb074a7e04fe8dc3d1df181771a63c5f519.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "aw",
+  "source": "../country-flags/png250px/aw.png"
+}

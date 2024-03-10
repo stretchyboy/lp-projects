@@ -42,14 +42,16 @@ class StickFrame(StickFramePlayer):
     PILmode = None
     debug = False
     
-    def __init__(self, im = None, height = 144):
-        self.height = height
+    def __init__(self, im = None, height = 144, category = "Default", name = "Default", frame=1):
+        super().__init__(height = 144, category = category, name = name, frame=frame)
         if im:
             self.setImage(im)
+            self.compress()
+            self.dump()
             
     def setImage(self, im):
         #self.im = im.quantize(dither = Image.NONE)
-        self.im = im.convert('P', palette=Image.ADAPTIVE, dither = Image.NONE, colors=5)
+        self.im = im.convert('P', palette=Image.ADAPTIVE, dither = Image.NONE, colors=10)
         self.bitDepth = int(round(math.log2(len(self.im.getcolors())),0))
         self.ourPalette = self.im.getpalette()[:3*pow(2,self.bitDepth)]
         self.resizeImage()
@@ -197,6 +199,12 @@ class StickFrame(StickFramePlayer):
             "ourPalette": self.ourPalette
         }
         return json.dumps(data, cls=NpEncoder)
+    
+    @property
+    def filename(self):
+        path = Path('data/categories/'+self.category+'/anim/'+self.name)
+        path.mkdir(parents=True, exist_ok=True)
+        return 'data/categories/'+self.category+'/anim/'+self.name+'/'+ str(self.frame) +'.json'
         
     def dump(self):
         

@@ -1,3 +1,6 @@
-[
-  "store/2fae3204452c8c07a1249ed76c6757c2b46db61a10288a250f04ea4561e7f6c3.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "pa",
+  "source": "../country-flags/png250px/pa.png"
+}

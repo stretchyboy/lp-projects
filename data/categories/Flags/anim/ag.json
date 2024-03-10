@@ -1,3 +1,6 @@
-[
-  "store/e76dfd9665b3f917bf3d1a30873088119525b5230e2101dc1e76962c3126281b.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ag",
+  "source": "../country-flags/png250px/ag.png"
+}

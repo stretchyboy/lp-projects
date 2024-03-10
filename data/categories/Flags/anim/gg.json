@@ -1,3 +1,6 @@
-[
-  "store/b853243ee007b9bc4d629584b466c0637e285cc430d29454df4ecd2bef1484e3.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "gg",
+  "source": "../country-flags/png250px/gg.png"
+}

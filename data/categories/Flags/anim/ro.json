@@ -1,3 +1,6 @@
-[
-  "store/8c23656e44497235884a967771310d2781b70ab2f2f1fa50b8dc1ace4a97e3d7.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ro",
+  "source": "../country-flags/png250px/ro.png"
+}

@@ -1,3 +1,6 @@
-[
-  "store/fbfaa37cb3e9101f5509aa433f24e282afc766d1a27a5f2dfb55f63d583d8586.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "cv",
+  "source": "../country-flags/png250px/cv.png"
+}

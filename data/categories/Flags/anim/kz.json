@@ -1,3 +1,6 @@
-[
-  "store/5c971abb649d24bebe499782b36fb86d16bf91838d161f215afcbb239379974a.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "kz",
+  "source": "../country-flags/png250px/kz.png"
+}

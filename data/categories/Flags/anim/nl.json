@@ -1,3 +1,6 @@
-[
-  "store/b25592510603c22c59bbe832b7f3d57fc357861e09bd6af056f8178ac3a49c85.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "nl",
+  "source": "../country-flags/png250px/nl.png"
+}

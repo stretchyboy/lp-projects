@@ -1,3 +1,6 @@
-[
-  "store/7ec05697d7285b852fdc5e955578f104b887012df91525121edf4c4f55192201.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "ie",
+  "source": "../country-flags/png250px/ie.png"
+}

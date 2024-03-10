@@ -1,3 +1,6 @@
-[
-  "store/f5a34895e81972a8417d5ef405434e52e37b1e714ca0f0580a73852a83d935a8.json"
-]
+{
+  "category": "Flags",
+  "frames": 1,
+  "name": "sy",
+  "source": "../country-flags/png250px/sy.png"
+}
