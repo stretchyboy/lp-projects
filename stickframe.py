@@ -50,11 +50,11 @@ class StickFrame(StickFramePlayer):
             self.dump()
             
     def setImage(self, im):
-        #self.im = im.quantize(dither = Image.NONE)
-        self.im = im.convert('P', palette=Image.ADAPTIVE, dither = Image.NONE, colors=10)
+        self.im = im.quantize(dither = Image.NONE)
+        #self.im = im.convert('P', palette=Image.ADAPTIVE, dither = Image.NONE, colors=10)
         self.resizeImage()
         self.bitDepth = int(math.ceil(math.log2(len(self.im.getcolors()))))
-        self.ourPalette = self.im.getpalette()[:3*pow(2,self.bitDepth)]
+        self.ourPalette = self.im.getpalette()#[:3*pow(2,self.bitDepth)]
         if(self.debug):
             print("Total", self.width * self.height)
             print(self.__class__.__name__, "Palette", self.ourPalette)#self.im.getpalette())
