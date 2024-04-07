@@ -1,10 +1,40 @@
 {
   "Default": {
+    "Fish 1": {
+      "category": "Default",
+      "frames": 1,
+      "name": "Fish 1",
+      "source": "/home/meggleton/Projects/mote_light_painting/images/fish1.gif"
+    },
+    "Fish 3": {
+      "category": "Default",
+      "frames": 4,
+      "name": "Fish 3",
+      "source": "/home/meggleton/Projects/mote_light_painting/images/fish3.gif"
+    },
     "Fox animation": {
       "category": "Default",
       "frames": 7,
       "name": "Fox animation",
       "source": "/home/meggleton/Downloads/fox.gif"
+    },
+    "Running": {
+      "category": "Default",
+      "frames": 4,
+      "name": "Running",
+      "source": "/home/meggleton/Projects/mote_light_painting/images/running.gif"
+    },
+    "Spectrum Horizontal": {
+      "category": "Default",
+      "frames": 1,
+      "name": "Spectrum Horizontal",
+      "source": "/home/meggleton/Projects/mote_light_painting/images/Spectrum Horizontal.png"
+    },
+    "Spectrum Vertical": {
+      "category": "Default",
+      "frames": 1,
+      "name": "Spectrum Vertical",
+      "source": "/home/meggleton/Projects/mote_light_painting/images/Spectrum Vertical.png"
     }
   },
   "Flags": {
