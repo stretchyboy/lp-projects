@@ -2,5 +2,5 @@
   "category": "Default",
   "frames": 4,
   "name": "Running",
-  "source": "/home/meggleton/Projects/mote_light_painting/images/running.gif"
+  "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/running.gif"
 }

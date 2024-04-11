@@ -12,17 +12,29 @@
       "name": "Fish 3",
       "source": "/home/meggleton/Projects/mote_light_painting/images/fish3.gif"
     },
+    "Fox": {
+      "category": "Default",
+      "frames": 10,
+      "name": "Fox",
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
+    },
     "Fox animation": {
       "category": "Default",
       "frames": 7,
       "name": "Fox animation",
       "source": "/home/meggleton/Downloads/fox.gif"
     },
+    "Rabbit": {
+      "category": "Default",
+      "frames": 9,
+      "name": "Rabbit",
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/rabbit.gif"
+    },
     "Running": {
       "category": "Default",
       "frames": 4,
       "name": "Running",
-      "source": "/home/meggleton/Projects/mote_light_painting/images/running.gif"
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/running.gif"
     },
     "Spectrum Horizontal": {
       "category": "Default",
