@@ -36,9 +36,11 @@ parser = argparse.ArgumentParser(
 parser.add_argument('name')
 parser.add_argument('path')
 parser.add_argument('category', nargs='?', default="Default")           # positional argument     
+parser.add_argument('height', nargs='?', default=100)  
+parser.add_argument('direction', nargs='?', default="right")  
 
 args = parser.parse_args()
-#print(args)
+print(args)
 
 import shutil
 import tempfile
