@@ -2,7 +2,7 @@ import numpy as np
 import sys
 import math
 from copy import deepcopy
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageOps
 #import rle as RLE
 from rle import encode as rle_encode
 from functools import reduce as _reduce
@@ -68,8 +68,8 @@ class StickFrame(StickFramePlayer):
         self.width = int(self.im.width * ratio)
         if(self.debug):
             print(self.__class__.__name__, "im.width", self.im.width, "im.height", self.im.height, "ratio", ratio, "width", self.width, "height", self.height)
-        self.im = self.im.resize((self.width, self.height))
-        
+        ##self.im = self.im.resize((self.width, self.height))
+        self.im = ImageOps.pad(self.im, (self.width, 144), centering = (1, 0))
         
         #self.size = self.im.size
         self.dat = np.asarray(self.im)
