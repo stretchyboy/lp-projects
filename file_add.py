@@ -6,13 +6,16 @@ from copy import deepcopy
 import argparse
 import hashlib
 import json
+import shutil
+import tempfile
+import urllib.request
+from urllib.parse import urlparse
+import validators
+from validators import ValidationError
+from pathlib import Path
+
 
 framepath = "frames.json"
-
-# TODO : Add image by url
-# TODO : Separate animated gifs
-# TODO : Build index json  /frames.json
-# TODO : Store on server /store/{hash}.json
 
 framefile = open(framepath, 'r')
 stickdata = json.load(framefile)
@@ -35,20 +38,13 @@ parser = argparse.ArgumentParser(
 
 parser.add_argument('name')
 parser.add_argument('path')
-parser.add_argument('category', nargs='?', default="Default")           # positional argument     
-parser.add_argument('height', nargs='?', default=100)  
-parser.add_argument('direction', nargs='?', default="right")  
+parser.add_argument('--category', default="Default", type=str)           # positional argument     
+parser.add_argument('--height', default=100, type=int)  
+parser.add_argument('--direction', default="right", type=str)  
 
 args = parser.parse_args()
 print(args)
 
-import shutil
-import tempfile
-import urllib.request
-from urllib.parse import urlparse
-import validators
-from validators import ValidationError
-from pathlib import Path
 
 
 def is_string_an_url(url_string: str) -> bool:
@@ -59,7 +55,7 @@ def is_string_an_url(url_string: str) -> bool:
 
     return result
 
-def storeFrame(source, category, name, frames):
+def storeFrame(source, category, name, frames, height, direction):
     if category not in stickdata:
         stickdata[category] = {}
     if name not in stickdata[category]:
@@ -68,7 +64,9 @@ def storeFrame(source, category, name, frames):
         "name":name,
         "category": category,
         "source": source,
-        "frames": frames
+        "frames": frames,
+        "heightCM": height,
+        "direction":direction,
     }
     
     #print("stickdata", stickdata)
@@ -119,12 +117,15 @@ with Image.open(filepath) as im:
         image_name = name
 
     frames = getattr(im, "n_frames", 1)
-    storeFrame(args.path, args.category, image_name, frames)    
+    storeFrame(args.path, args.category, image_name, frames, args.height, args.direction)    
 
+    heightCM = args.height
+    height = int(StickFrame.height * (heightCM/100))
+    print("height", height, "heightCM", heightCM)
     i = 1
     while i <= frames:
-        stick = StickFrame(im, category = args.category, name = image_name, frame=i)
-
+        stick = StickFrame(im, category = args.category, name = image_name, frame=i, height=height, heightCM=heightCM)
+        
         if i < frames:
             im.seek(i)
         
