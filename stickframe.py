@@ -43,8 +43,9 @@ class StickFrame(StickFramePlayer):
     debug = False
     
     def __init__(self, im = None, height = 144, category = "Default", name = "Default", frame=1, heightCM=100):
-        super().__init__(height = 144, category = category, name = name, frame=frame)
+        super().__init__(height = height, category = category, name = name, frame=frame)
         self.heightCM = heightCM
+        print("self.height", self.height)
         if im:
             self.setImage(im)
             self.compress()
