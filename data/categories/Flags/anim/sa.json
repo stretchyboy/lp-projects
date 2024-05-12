@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "sa",
-  "source": "../country-flags/png250px/sa.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sa.png"
 }

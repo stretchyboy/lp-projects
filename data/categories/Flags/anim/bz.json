@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "bz",
-  "source": "../country-flags/png250px/bz.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bz.png"
 }

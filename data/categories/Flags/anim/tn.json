@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "tn",
-  "source": "../country-flags/png250px/tn.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tn.png"
 }

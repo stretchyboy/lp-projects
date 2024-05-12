@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "ma",
-  "source": "../country-flags/png250px/ma.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ma.png"
 }

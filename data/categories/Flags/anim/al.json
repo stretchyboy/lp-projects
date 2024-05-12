@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "al",
-  "source": "../country-flags/png250px/al.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/al.png"
 }

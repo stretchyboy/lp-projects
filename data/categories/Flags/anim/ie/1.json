@@ -1,1 +1,1 @@
-{"compressionType": "VertRleOfHoriRle", "compressed": [[[[1, 3, 2, 4, 0], [96, 1, 94, 1, 96]]], [144]], "height": 144, "width": 288, "heightCM": 100, "widthCM": 200, "ourPalette": [255, 130, 0, 0, 154, 68, 255, 255, 255, 176, 224, 197, 255, 208, 159, 5, 5, 5, 6, 6, 6, 7, 7, 7]}
+{"compressionType": "VertRleOfHoriRle", "compressed": [[[[4, 3, 0, 1, 2], [96, 1, 94, 1, 96]]], [144]], "height": 144, "width": 288, "heightCM": 100, "widthCM": 200, "ourPalette": [255, 255, 255, 255, 208, 159, 255, 130, 0, 176, 224, 197, 0, 154, 68]}

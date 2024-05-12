@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "ky",
-  "source": "../country-flags/png250px/ky.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ky.png"
 }

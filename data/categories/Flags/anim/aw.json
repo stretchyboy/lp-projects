@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "aw",
-  "source": "../country-flags/png250px/aw.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/aw.png"
 }

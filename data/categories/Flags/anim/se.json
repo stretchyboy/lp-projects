@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "se",
-  "source": "../country-flags/png250px/se.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/se.png"
 }

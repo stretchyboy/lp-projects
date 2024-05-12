@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "ki",
-  "source": "../country-flags/png250px/ki.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ki.png"
 }

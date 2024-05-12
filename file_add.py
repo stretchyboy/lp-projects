@@ -36,8 +36,9 @@ parser = argparse.ArgumentParser(
                     epilog='Text at the bottom of help')
 
 
-parser.add_argument('name')
+
 parser.add_argument('path')
+parser.add_argument('--name', default="name", type=str)
 parser.add_argument('--category', default="Default", type=str)           # positional argument     
 parser.add_argument('--height', default=100, type=int)  
 parser.add_argument('--direction', default="right", type=str)  

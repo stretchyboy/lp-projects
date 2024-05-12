@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "sn",
-  "source": "../country-flags/png250px/sn.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sn.png"
 }

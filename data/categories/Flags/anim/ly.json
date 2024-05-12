@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "ly",
-  "source": "../country-flags/png250px/ly.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ly.png"
 }

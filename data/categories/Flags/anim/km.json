@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "km",
-  "source": "../country-flags/png250px/km.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/km.png"
 }

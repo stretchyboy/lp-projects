@@ -1,5 +1,7 @@
 [
   "Default",
   "Flags",
-  "Ghosts"
+  "Ghosts",
+  "height=100",
+  "height=40"
 ]

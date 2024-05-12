@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "az",
-  "source": "../country-flags/png250px/az.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/az.png"
 }

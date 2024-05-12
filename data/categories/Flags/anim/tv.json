@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "tv",
-  "source": "../country-flags/png250px/tv.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tv.png"
 }

@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "gu",
-  "source": "../country-flags/png250px/gu.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gu.png"
 }

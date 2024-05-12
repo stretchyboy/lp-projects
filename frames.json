@@ -14,7 +14,9 @@
     },
     "Fox": {
       "category": "Default",
+      "direction": "left",
       "frames": 10,
+      "heightCM": 35,
       "name": "Fox",
       "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
     },
@@ -52,1533 +54,2043 @@
   "Flags": {
     "ad": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ad",
-      "source": "../country-flags/png250px/ad.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ad.png"
     },
     "ae": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ae",
-      "source": "../country-flags/png250px/ae.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ae.png"
     },
     "af": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "af",
-      "source": "../country-flags/png250px/af.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/af.png"
     },
     "ag": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ag",
-      "source": "../country-flags/png250px/ag.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ag.png"
     },
     "ai": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ai",
-      "source": "../country-flags/png250px/ai.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ai.png"
     },
     "al": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "al",
-      "source": "../country-flags/png250px/al.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/al.png"
     },
     "am": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "am",
-      "source": "../country-flags/png250px/am.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/am.png"
     },
     "ao": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ao",
-      "source": "../country-flags/png250px/ao.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ao.png"
     },
     "aq": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "aq",
-      "source": "../country-flags/png250px/aq.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/aq.png"
     },
     "ar": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ar",
-      "source": "../country-flags/png250px/ar.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ar.png"
     },
     "as": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "as",
-      "source": "../country-flags/png250px/as.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/as.png"
     },
     "at": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "at",
-      "source": "../country-flags/png250px/at.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/at.png"
     },
     "au": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "au",
-      "source": "../country-flags/png250px/au.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/au.png"
     },
     "aw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "aw",
-      "source": "../country-flags/png250px/aw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/aw.png"
     },
     "ax": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ax",
-      "source": "../country-flags/png250px/ax.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ax.png"
     },
     "az": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "az",
-      "source": "../country-flags/png250px/az.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/az.png"
     },
     "ba": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ba",
-      "source": "../country-flags/png250px/ba.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ba.png"
     },
     "bb": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bb",
-      "source": "../country-flags/png250px/bb.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bb.png"
     },
     "bd": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bd",
-      "source": "../country-flags/png250px/bd.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bd.png"
     },
     "be": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "be",
-      "source": "../country-flags/png250px/be.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/be.png"
     },
     "bf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bf",
-      "source": "../country-flags/png250px/bf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bf.png"
     },
     "bg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bg",
-      "source": "../country-flags/png250px/bg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bg.png"
     },
     "bh": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bh",
-      "source": "../country-flags/png250px/bh.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bh.png"
     },
     "bi": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bi",
-      "source": "../country-flags/png250px/bi.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bi.png"
     },
     "bj": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bj",
-      "source": "../country-flags/png250px/bj.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bj.png"
     },
     "bl": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bl",
-      "source": "../country-flags/png250px/bl.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bl.png"
     },
     "bm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bm",
-      "source": "../country-flags/png250px/bm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bm.png"
     },
     "bn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bn",
-      "source": "../country-flags/png250px/bn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bn.png"
     },
     "bo": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bo",
-      "source": "../country-flags/png250px/bo.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bo.png"
     },
     "bq": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bq",
-      "source": "../country-flags/png250px/bq.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bq.png"
     },
     "br": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "br",
-      "source": "../country-flags/png250px/br.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/br.png"
     },
     "bs": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bs",
-      "source": "../country-flags/png250px/bs.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bs.png"
     },
     "bt": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bt",
-      "source": "../country-flags/png250px/bt.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bt.png"
     },
     "bv": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bv",
-      "source": "../country-flags/png250px/bv.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bv.png"
     },
     "bw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bw",
-      "source": "../country-flags/png250px/bw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bw.png"
     },
     "by": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "by",
-      "source": "../country-flags/png250px/by.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/by.png"
     },
     "bz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "bz",
-      "source": "../country-flags/png250px/bz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/bz.png"
     },
     "ca": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ca",
-      "source": "../country-flags/png250px/ca.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ca.png"
     },
     "cc": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cc",
-      "source": "../country-flags/png250px/cc.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cc.png"
     },
     "cd": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cd",
-      "source": "../country-flags/png250px/cd.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cd.png"
     },
     "cf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cf",
-      "source": "../country-flags/png250px/cf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cf.png"
     },
     "cg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cg",
-      "source": "../country-flags/png250px/cg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cg.png"
     },
     "ch": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ch",
-      "source": "../country-flags/png250px/ch.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ch.png"
     },
     "ci": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ci",
-      "source": "../country-flags/png250px/ci.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ci.png"
     },
     "ck": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ck",
-      "source": "../country-flags/png250px/ck.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ck.png"
     },
     "cl": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cl",
-      "source": "../country-flags/png250px/cl.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cl.png"
     },
     "cm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cm",
-      "source": "../country-flags/png250px/cm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cm.png"
     },
     "cn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cn",
-      "source": "../country-flags/png250px/cn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cn.png"
     },
     "co": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "co",
-      "source": "../country-flags/png250px/co.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/co.png"
     },
     "cr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cr",
-      "source": "../country-flags/png250px/cr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cr.png"
     },
     "cu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cu",
-      "source": "../country-flags/png250px/cu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cu.png"
     },
     "cv": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cv",
-      "source": "../country-flags/png250px/cv.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cv.png"
     },
     "cw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cw",
-      "source": "../country-flags/png250px/cw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cw.png"
     },
     "cx": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cx",
-      "source": "../country-flags/png250px/cx.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cx.png"
     },
     "cy": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cy",
-      "source": "../country-flags/png250px/cy.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cy.png"
     },
     "cz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "cz",
-      "source": "../country-flags/png250px/cz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/cz.png"
     },
     "de": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "de",
-      "source": "../country-flags/png250px/de.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/de.png"
     },
     "dj": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "dj",
-      "source": "../country-flags/png250px/dj.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/dj.png"
     },
     "dk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "dk",
-      "source": "../country-flags/png250px/dk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/dk.png"
     },
     "dm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "dm",
-      "source": "../country-flags/png250px/dm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/dm.png"
     },
     "do": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "do",
-      "source": "../country-flags/png250px/do.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/do.png"
     },
     "dz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "dz",
-      "source": "../country-flags/png250px/dz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/dz.png"
     },
     "ec": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ec",
-      "source": "../country-flags/png250px/ec.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ec.png"
     },
     "ee": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ee",
-      "source": "../country-flags/png250px/ee.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ee.png"
     },
     "eg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "eg",
-      "source": "../country-flags/png250px/eg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eg.png"
     },
     "eh": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "eh",
-      "source": "../country-flags/png250px/eh.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eh.png"
     },
     "er": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "er",
-      "source": "../country-flags/png250px/er.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/er.png"
     },
     "es": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "es",
-      "source": "../country-flags/png250px/es.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/es.png"
     },
     "et": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "et",
-      "source": "../country-flags/png250px/et.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/et.png"
     },
     "eu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "eu",
-      "source": "../country-flags/png250px/eu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eu.png"
     },
     "fi": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "fi",
-      "source": "../country-flags/png250px/fi.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/fi.png"
     },
     "fj": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "fj",
-      "source": "../country-flags/png250px/fj.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/fj.png"
     },
     "fk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "fk",
-      "source": "../country-flags/png250px/fk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/fk.png"
     },
     "fm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "fm",
-      "source": "../country-flags/png250px/fm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/fm.png"
     },
     "fo": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "fo",
-      "source": "../country-flags/png250px/fo.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/fo.png"
     },
     "fr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "fr",
-      "source": "../country-flags/png250px/fr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/fr.png"
     },
     "ga": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ga",
-      "source": "../country-flags/png250px/ga.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ga.png"
     },
     "gb": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gb",
-      "source": "../country-flags/png250px/gb.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gb.png"
     },
     "gb-eng": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gb-eng",
-      "source": "../country-flags/png250px/gb-eng.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gb-eng.png"
     },
     "gb-nir": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gb-nir",
-      "source": "../country-flags/png250px/gb-nir.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gb-nir.png"
     },
     "gb-sct": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gb-sct",
-      "source": "../country-flags/png250px/gb-sct.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gb-sct.png"
     },
     "gb-wls": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gb-wls",
-      "source": "../country-flags/png250px/gb-wls.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gb-wls.png"
     },
     "gd": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gd",
-      "source": "../country-flags/png250px/gd.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gd.png"
     },
     "ge": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ge",
-      "source": "../country-flags/png250px/ge.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ge.png"
     },
     "gf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gf",
-      "source": "../country-flags/png250px/gf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gf.png"
     },
     "gg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gg",
-      "source": "../country-flags/png250px/gg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gg.png"
     },
     "gh": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gh",
-      "source": "../country-flags/png250px/gh.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gh.png"
     },
     "gi": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gi",
-      "source": "../country-flags/png250px/gi.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gi.png"
     },
     "gl": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gl",
-      "source": "../country-flags/png250px/gl.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gl.png"
     },
     "gm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gm",
-      "source": "../country-flags/png250px/gm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gm.png"
     },
     "gn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gn",
-      "source": "../country-flags/png250px/gn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gn.png"
     },
     "gp": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gp",
-      "source": "../country-flags/png250px/gp.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gp.png"
     },
     "gq": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gq",
-      "source": "../country-flags/png250px/gq.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gq.png"
     },
     "gr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gr",
-      "source": "../country-flags/png250px/gr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gr.png"
     },
     "gs": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gs",
-      "source": "../country-flags/png250px/gs.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gs.png"
     },
     "gt": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gt",
-      "source": "../country-flags/png250px/gt.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gt.png"
     },
     "gu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gu",
-      "source": "../country-flags/png250px/gu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gu.png"
     },
     "gw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gw",
-      "source": "../country-flags/png250px/gw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gw.png"
     },
     "gy": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "gy",
-      "source": "../country-flags/png250px/gy.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/gy.png"
     },
     "hk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "hk",
-      "source": "../country-flags/png250px/hk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/hk.png"
     },
     "hm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "hm",
-      "source": "../country-flags/png250px/hm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/hm.png"
     },
     "hn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "hn",
-      "source": "../country-flags/png250px/hn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/hn.png"
     },
     "hr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "hr",
-      "source": "../country-flags/png250px/hr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/hr.png"
     },
     "ht": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ht",
-      "source": "../country-flags/png250px/ht.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ht.png"
     },
     "hu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "hu",
-      "source": "../country-flags/png250px/hu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/hu.png"
     },
     "id": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "id",
-      "source": "../country-flags/png250px/id.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/id.png"
     },
     "ie": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ie",
-      "source": "../country-flags/png250px/ie.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ie.png"
     },
     "il": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "il",
-      "source": "../country-flags/png250px/il.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/il.png"
     },
     "im": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "im",
-      "source": "../country-flags/png250px/im.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/im.png"
     },
     "in": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "in",
-      "source": "../country-flags/png250px/in.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/in.png"
     },
     "io": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "io",
-      "source": "../country-flags/png250px/io.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/io.png"
     },
     "iq": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "iq",
-      "source": "../country-flags/png250px/iq.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/iq.png"
     },
     "ir": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ir",
-      "source": "../country-flags/png250px/ir.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ir.png"
     },
     "is": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "is",
-      "source": "../country-flags/png250px/is.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/is.png"
     },
     "it": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "it",
-      "source": "../country-flags/png250px/it.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/it.png"
     },
     "je": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "je",
-      "source": "../country-flags/png250px/je.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/je.png"
     },
     "jm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "jm",
-      "source": "../country-flags/png250px/jm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/jm.png"
     },
     "jo": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "jo",
-      "source": "../country-flags/png250px/jo.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/jo.png"
     },
     "jp": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "jp",
-      "source": "../country-flags/png250px/jp.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/jp.png"
     },
     "ke": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ke",
-      "source": "../country-flags/png250px/ke.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ke.png"
     },
     "kg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "kg",
-      "source": "../country-flags/png250px/kg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/kg.png"
     },
     "kh": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "kh",
-      "source": "../country-flags/png250px/kh.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/kh.png"
     },
     "ki": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ki",
-      "source": "../country-flags/png250px/ki.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ki.png"
     },
     "km": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "km",
-      "source": "../country-flags/png250px/km.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/km.png"
     },
     "kn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "kn",
-      "source": "../country-flags/png250px/kn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/kn.png"
     },
     "kp": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "kp",
-      "source": "../country-flags/png250px/kp.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/kp.png"
     },
     "kr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "kr",
-      "source": "../country-flags/png250px/kr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/kr.png"
     },
     "kw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "kw",
-      "source": "../country-flags/png250px/kw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/kw.png"
     },
     "ky": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ky",
-      "source": "../country-flags/png250px/ky.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ky.png"
     },
     "kz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "kz",
-      "source": "../country-flags/png250px/kz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/kz.png"
     },
     "la": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "la",
-      "source": "../country-flags/png250px/la.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/la.png"
     },
     "lb": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "lb",
-      "source": "../country-flags/png250px/lb.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/lb.png"
     },
     "lc": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "lc",
-      "source": "../country-flags/png250px/lc.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/lc.png"
     },
     "li": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "li",
-      "source": "../country-flags/png250px/li.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/li.png"
     },
     "lk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "lk",
-      "source": "../country-flags/png250px/lk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/lk.png"
     },
     "lr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "lr",
-      "source": "../country-flags/png250px/lr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/lr.png"
     },
     "ls": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ls",
-      "source": "../country-flags/png250px/ls.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ls.png"
     },
     "lt": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "lt",
-      "source": "../country-flags/png250px/lt.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/lt.png"
     },
     "lu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "lu",
-      "source": "../country-flags/png250px/lu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/lu.png"
     },
     "lv": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "lv",
-      "source": "../country-flags/png250px/lv.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/lv.png"
     },
     "ly": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ly",
-      "source": "../country-flags/png250px/ly.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ly.png"
     },
     "ma": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ma",
-      "source": "../country-flags/png250px/ma.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ma.png"
     },
     "mc": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mc",
-      "source": "../country-flags/png250px/mc.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mc.png"
     },
     "md": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "md",
-      "source": "../country-flags/png250px/md.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/md.png"
     },
     "me": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "me",
-      "source": "../country-flags/png250px/me.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/me.png"
     },
     "mf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mf",
-      "source": "../country-flags/png250px/mf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mf.png"
     },
     "mg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mg",
-      "source": "../country-flags/png250px/mg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mg.png"
     },
     "mh": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mh",
-      "source": "../country-flags/png250px/mh.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mh.png"
     },
     "mk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mk",
-      "source": "../country-flags/png250px/mk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mk.png"
     },
     "ml": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ml",
-      "source": "../country-flags/png250px/ml.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ml.png"
     },
     "mm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mm",
-      "source": "../country-flags/png250px/mm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mm.png"
     },
     "mn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mn",
-      "source": "../country-flags/png250px/mn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mn.png"
     },
     "mo": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mo",
-      "source": "../country-flags/png250px/mo.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mo.png"
     },
     "mp": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mp",
-      "source": "../country-flags/png250px/mp.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mp.png"
     },
     "mq": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mq",
-      "source": "../country-flags/png250px/mq.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mq.png"
     },
     "mr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mr",
-      "source": "../country-flags/png250px/mr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mr.png"
     },
     "ms": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ms",
-      "source": "../country-flags/png250px/ms.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ms.png"
     },
     "mt": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mt",
-      "source": "../country-flags/png250px/mt.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mt.png"
     },
     "mu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mu",
-      "source": "../country-flags/png250px/mu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mu.png"
     },
     "mv": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mv",
-      "source": "../country-flags/png250px/mv.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mv.png"
     },
     "mw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mw",
-      "source": "../country-flags/png250px/mw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mw.png"
     },
     "mx": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mx",
-      "source": "../country-flags/png250px/mx.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mx.png"
     },
     "my": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "my",
-      "source": "../country-flags/png250px/my.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/my.png"
     },
     "mz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "mz",
-      "source": "../country-flags/png250px/mz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/mz.png"
     },
     "na": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "na",
-      "source": "../country-flags/png250px/na.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/na.png"
     },
     "nc": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "nc",
-      "source": "../country-flags/png250px/nc.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/nc.png"
     },
     "ne": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ne",
-      "source": "../country-flags/png250px/ne.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ne.png"
     },
     "nf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "nf",
-      "source": "../country-flags/png250px/nf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/nf.png"
     },
     "ng": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ng",
-      "source": "../country-flags/png250px/ng.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ng.png"
     },
     "ni": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ni",
-      "source": "../country-flags/png250px/ni.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ni.png"
     },
     "nl": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "nl",
-      "source": "../country-flags/png250px/nl.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/nl.png"
     },
     "no": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "no",
-      "source": "../country-flags/png250px/no.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/no.png"
     },
     "np": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "np",
-      "source": "../country-flags/png250px/np.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/np.png"
     },
     "nr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "nr",
-      "source": "../country-flags/png250px/nr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/nr.png"
     },
     "nu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "nu",
-      "source": "../country-flags/png250px/nu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/nu.png"
     },
     "nz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "nz",
-      "source": "../country-flags/png250px/nz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/nz.png"
     },
     "om": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "om",
-      "source": "../country-flags/png250px/om.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/om.png"
     },
     "pa": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pa",
-      "source": "../country-flags/png250px/pa.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pa.png"
     },
     "pe": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pe",
-      "source": "../country-flags/png250px/pe.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pe.png"
     },
     "pf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pf",
-      "source": "../country-flags/png250px/pf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pf.png"
     },
     "pg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pg",
-      "source": "../country-flags/png250px/pg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pg.png"
     },
     "ph": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ph",
-      "source": "../country-flags/png250px/ph.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ph.png"
     },
     "pk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pk",
-      "source": "../country-flags/png250px/pk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pk.png"
     },
     "pl": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pl",
-      "source": "../country-flags/png250px/pl.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pl.png"
     },
     "pm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pm",
-      "source": "../country-flags/png250px/pm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pm.png"
     },
     "pn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pn",
-      "source": "../country-flags/png250px/pn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pn.png"
     },
     "pr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pr",
-      "source": "../country-flags/png250px/pr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pr.png"
     },
     "ps": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ps",
-      "source": "../country-flags/png250px/ps.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ps.png"
     },
     "pt": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pt",
-      "source": "../country-flags/png250px/pt.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pt.png"
     },
     "pw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "pw",
-      "source": "../country-flags/png250px/pw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/pw.png"
     },
     "py": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "py",
-      "source": "../country-flags/png250px/py.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/py.png"
     },
     "qa": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "qa",
-      "source": "../country-flags/png250px/qa.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/qa.png"
     },
     "re": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "re",
-      "source": "../country-flags/png250px/re.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/re.png"
     },
     "ro": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ro",
-      "source": "../country-flags/png250px/ro.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ro.png"
     },
     "rs": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "rs",
-      "source": "../country-flags/png250px/rs.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/rs.png"
     },
     "ru": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ru",
-      "source": "../country-flags/png250px/ru.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ru.png"
     },
     "rw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "rw",
-      "source": "../country-flags/png250px/rw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/rw.png"
     },
     "sa": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sa",
-      "source": "../country-flags/png250px/sa.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sa.png"
     },
     "sb": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sb",
-      "source": "../country-flags/png250px/sb.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sb.png"
     },
     "sc": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sc",
-      "source": "../country-flags/png250px/sc.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sc.png"
     },
     "sd": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sd",
-      "source": "../country-flags/png250px/sd.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sd.png"
     },
     "se": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "se",
-      "source": "../country-flags/png250px/se.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/se.png"
     },
     "sg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sg",
-      "source": "../country-flags/png250px/sg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sg.png"
     },
     "sh": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sh",
-      "source": "../country-flags/png250px/sh.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sh.png"
     },
     "si": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "si",
-      "source": "../country-flags/png250px/si.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/si.png"
     },
     "sj": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sj",
-      "source": "../country-flags/png250px/sj.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sj.png"
     },
     "sk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sk",
-      "source": "../country-flags/png250px/sk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sk.png"
     },
     "sl": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sl",
-      "source": "../country-flags/png250px/sl.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sl.png"
     },
     "sm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sm",
-      "source": "../country-flags/png250px/sm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sm.png"
     },
     "sn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sn",
-      "source": "../country-flags/png250px/sn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sn.png"
     },
     "so": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "so",
-      "source": "../country-flags/png250px/so.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/so.png"
     },
     "sr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sr",
-      "source": "../country-flags/png250px/sr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sr.png"
     },
     "ss": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ss",
-      "source": "../country-flags/png250px/ss.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ss.png"
     },
     "st": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "st",
-      "source": "../country-flags/png250px/st.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/st.png"
     },
     "sv": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sv",
-      "source": "../country-flags/png250px/sv.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sv.png"
     },
     "sx": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sx",
-      "source": "../country-flags/png250px/sx.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sx.png"
     },
     "sy": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sy",
-      "source": "../country-flags/png250px/sy.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sy.png"
     },
     "sz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "sz",
-      "source": "../country-flags/png250px/sz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sz.png"
     },
     "tc": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tc",
-      "source": "../country-flags/png250px/tc.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tc.png"
     },
     "td": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "td",
-      "source": "../country-flags/png250px/td.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/td.png"
     },
     "tf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tf",
-      "source": "../country-flags/png250px/tf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tf.png"
     },
     "tg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tg",
-      "source": "../country-flags/png250px/tg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tg.png"
     },
     "th": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "th",
-      "source": "../country-flags/png250px/th.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/th.png"
     },
     "tj": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tj",
-      "source": "../country-flags/png250px/tj.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tj.png"
     },
     "tk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tk",
-      "source": "../country-flags/png250px/tk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tk.png"
     },
     "tl": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tl",
-      "source": "../country-flags/png250px/tl.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tl.png"
     },
     "tm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tm",
-      "source": "../country-flags/png250px/tm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tm.png"
     },
     "tn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tn",
-      "source": "../country-flags/png250px/tn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tn.png"
     },
     "to": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "to",
-      "source": "../country-flags/png250px/to.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/to.png"
     },
     "tr": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tr",
-      "source": "../country-flags/png250px/tr.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tr.png"
     },
     "tt": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tt",
-      "source": "../country-flags/png250px/tt.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tt.png"
     },
     "tv": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tv",
-      "source": "../country-flags/png250px/tv.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tv.png"
     },
     "tw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tw",
-      "source": "../country-flags/png250px/tw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tw.png"
     },
     "tz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "tz",
-      "source": "../country-flags/png250px/tz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/tz.png"
     },
     "ua": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ua",
-      "source": "../country-flags/png250px/ua.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ua.png"
     },
     "ug": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ug",
-      "source": "../country-flags/png250px/ug.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ug.png"
     },
     "um": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "um",
-      "source": "../country-flags/png250px/um.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/um.png"
     },
     "us": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "us",
-      "source": "../country-flags/png250px/us.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/us.png"
     },
     "uy": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "uy",
-      "source": "../country-flags/png250px/uy.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/uy.png"
     },
     "uz": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "uz",
-      "source": "../country-flags/png250px/uz.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/uz.png"
     },
     "va": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "va",
-      "source": "../country-flags/png250px/va.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/va.png"
     },
     "vc": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "vc",
-      "source": "../country-flags/png250px/vc.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/vc.png"
     },
     "ve": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ve",
-      "source": "../country-flags/png250px/ve.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ve.png"
     },
     "vg": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "vg",
-      "source": "../country-flags/png250px/vg.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/vg.png"
     },
     "vi": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "vi",
-      "source": "../country-flags/png250px/vi.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/vi.png"
     },
     "vn": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "vn",
-      "source": "../country-flags/png250px/vn.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/vn.png"
     },
     "vu": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "vu",
-      "source": "../country-flags/png250px/vu.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/vu.png"
     },
     "wf": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "wf",
-      "source": "../country-flags/png250px/wf.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/wf.png"
     },
     "ws": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ws",
-      "source": "../country-flags/png250px/ws.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ws.png"
     },
     "xk": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "xk",
-      "source": "../country-flags/png250px/xk.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/xk.png"
     },
     "ye": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "ye",
-      "source": "../country-flags/png250px/ye.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/ye.png"
     },
     "yt": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "yt",
-      "source": "../country-flags/png250px/yt.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/yt.png"
     },
     "za": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "za",
-      "source": "../country-flags/png250px/za.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/za.png"
     },
     "zm": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "zm",
-      "source": "../country-flags/png250px/zm.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/zm.png"
     },
     "zw": {
       "category": "Flags",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "zw",
-      "source": "../country-flags/png250px/zw.png"
+      "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/zw.png"
     }
   },
   "Ghosts": {
@@ -1599,6 +2111,22 @@
       "frames": 164,
       "name": "Spinning Ghost",
       "source": "https://gifdb.com/images/high/scary-cute-animated-ghost-mr5e5e60n59lhn7a.gif"
+    }
+  },
+  "height=100": {
+    "Fox": {
+      "category": "height=100",
+      "frames": 10,
+      "name": "Fox",
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
+    }
+  },
+  "height=40": {
+    "Fox": {
+      "category": "height=40",
+      "frames": 10,
+      "name": "Fox",
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
     }
   }
 }

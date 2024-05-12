@@ -1,6 +1,8 @@
 {
   "category": "Flags",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "sh",
-  "source": "../country-flags/png250px/sh.png"
+  "source": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/sh.png"
 }
