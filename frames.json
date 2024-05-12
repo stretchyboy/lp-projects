@@ -2,15 +2,19 @@
   "Default": {
     "Fish 1": {
       "category": "Default",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "Fish 1",
-      "source": "/home/meggleton/Projects/mote_light_painting/images/fish1.gif"
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fish1.gif"
     },
     "Fish 3": {
       "category": "Default",
+      "direction": "right",
       "frames": 4,
+      "heightCM": 100,
       "name": "Fish 3",
-      "source": "/home/meggleton/Projects/mote_light_painting/images/fish3.gif"
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fish3.gif"
     },
     "Fox": {
       "category": "Default",
@@ -20,35 +24,53 @@
       "name": "Fox",
       "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
     },
-    "Fox animation": {
-      "category": "Default",
-      "frames": 7,
-      "name": "Fox animation",
-      "source": "/home/meggleton/Downloads/fox.gif"
-    },
     "Rabbit": {
       "category": "Default",
+      "direction": "left",
       "frames": 9,
+      "heightCM": 30,
       "name": "Rabbit",
       "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/rabbit.gif"
     },
     "Running": {
       "category": "Default",
+      "direction": "right",
       "frames": 4,
+      "heightCM": 100,
       "name": "Running",
       "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/running.gif"
     },
     "Spectrum Horizontal": {
       "category": "Default",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "Spectrum Horizontal",
-      "source": "/home/meggleton/Projects/mote_light_painting/images/Spectrum Horizontal.png"
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/Spectrum%20Horizontal.png"
     },
     "Spectrum Vertical": {
       "category": "Default",
+      "direction": "right",
       "frames": 1,
+      "heightCM": 100,
       "name": "Spectrum Vertical",
-      "source": "/home/meggleton/Projects/mote_light_painting/images/Spectrum Vertical.png"
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/Spectrum%20Vertical.png"
+    },
+    "Spectrum%20Horizontal": {
+      "category": "Default",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "Spectrum%20Horizontal",
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/Spectrum%20Horizontal.png"
+    },
+    "Spectrum%20Vertical": {
+      "category": "Default",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "Spectrum%20Vertical",
+      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/Spectrum%20Vertical.png"
     }
   },
   "Flags": {
@@ -2096,37 +2118,27 @@
   "Ghosts": {
     "Cute Ghost with stars": {
       "category": "Ghosts",
+      "direction": "right",
       "frames": 45,
+      "heightCM": 100,
       "name": "Cute Ghost with stars",
       "source": "https://i.pinimg.com/originals/59/7b/4e/597b4ed0683df1d67c8182776d15a016.gif"
     },
     "Mad Flying Ghost": {
       "category": "Ghosts",
+      "direction": "right",
       "frames": 169,
+      "heightCM": 100,
       "name": "Mad Flying Ghost",
       "source": "https://media.tenor.com/pNdGUDkcHo4AAAAC/ghost.gif"
     },
     "Spinning Ghost": {
       "category": "Ghosts",
+      "direction": "right",
       "frames": 164,
+      "heightCM": 100,
       "name": "Spinning Ghost",
       "source": "https://gifdb.com/images/high/scary-cute-animated-ghost-mr5e5e60n59lhn7a.gif"
-    }
-  },
-  "height=100": {
-    "Fox": {
-      "category": "height=100",
-      "frames": 10,
-      "name": "Fox",
-      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
-    }
-  },
-  "height=40": {
-    "Fox": {
-      "category": "height=40",
-      "frames": 10,
-      "name": "Fox",
-      "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
     }
   }
 }

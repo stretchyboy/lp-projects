@@ -100,6 +100,7 @@ if(is_string_an_url(args.path)):
             name, ext = os.path.splitext(tail)
 
 else:
+    print("Not a url",args.path)
     filepath = args.path
     head, tail = os.path.split(filepath)
     name, ext = os.path.splitext(tail)

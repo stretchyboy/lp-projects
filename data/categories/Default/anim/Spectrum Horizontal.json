@@ -1,6 +1,8 @@
 {
   "category": "Default",
+  "direction": "right",
   "frames": 1,
+  "heightCM": 100,
   "name": "Spectrum Horizontal",
-  "source": "/home/meggleton/Projects/mote_light_painting/images/Spectrum Horizontal.png"
+  "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/Spectrum%20Horizontal.png"
 }

@@ -1,6 +1,8 @@
 {
   "category": "Ghosts",
+  "direction": "right",
   "frames": 45,
+  "heightCM": 100,
   "name": "Cute Ghost with stars",
   "source": "https://i.pinimg.com/originals/59/7b/4e/597b4ed0683df1d67c8182776d15a016.gif"
 }

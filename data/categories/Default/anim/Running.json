@@ -1,6 +1,8 @@
 {
   "category": "Default",
+  "direction": "right",
   "frames": 4,
+  "heightCM": 100,
   "name": "Running",
   "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/running.gif"
 }

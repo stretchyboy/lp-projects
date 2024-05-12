@@ -1,6 +1,8 @@
 {
   "category": "Ghosts",
+  "direction": "right",
   "frames": 164,
+  "heightCM": 100,
   "name": "Spinning Ghost",
   "source": "https://gifdb.com/images/high/scary-cute-animated-ghost-mr5e5e60n59lhn7a.gif"
 }

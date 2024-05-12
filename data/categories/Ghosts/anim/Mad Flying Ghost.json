@@ -1,6 +1,8 @@
 {
   "category": "Ghosts",
+  "direction": "right",
   "frames": 169,
+  "heightCM": 100,
   "name": "Mad Flying Ghost",
   "source": "https://media.tenor.com/pNdGUDkcHo4AAAAC/ghost.gif"
 }

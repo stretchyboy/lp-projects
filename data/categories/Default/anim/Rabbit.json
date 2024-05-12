@@ -1,6 +1,8 @@
 {
   "category": "Default",
+  "direction": "left",
   "frames": 9,
+  "heightCM": 30,
   "name": "Rabbit",
   "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/rabbit.gif"
 }
