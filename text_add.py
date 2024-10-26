@@ -89,7 +89,7 @@ def text(output_path,txt, heightCM, fontname="Default"):
     draw = ImageDraw.Draw(image)
     draw.text((0,0), txt, font=font, size=(s[2], s[3]), fill="black")
 
-    stick = StickFrame(image, category = "Text", name = txt, frame=1, height=fontsize, heightCM=heightCM)
+    stick = StickFrame(image, category = "Text", name = name, frame=1, height=fontsize, heightCM=heightCM)
     
     # FIXME : If text is just a catergory make sure everythign get saved in the correct place. 
     #path = Path('data/text/'+txt+'/'+fontname+"/"+str(fontsize))
