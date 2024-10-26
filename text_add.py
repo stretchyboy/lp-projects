@@ -40,6 +40,18 @@ parser.add_argument('--height', default=100, type=int)
 args = parser.parse_args()
 print("args", args)
 
+def getFont(fontname, fontsize):
+    #fonts/Knewave-Regular.ttf
+    #fonts/CaveatBrush-Regular.ttf
+    #BungeeSpice-Regular.ttf
+    try:
+        return ImageFont.truetype(f"fonts/{fontname}-Regular.ttf", size=fontsize)
+    except Exception:
+        return ImageFont.load_default(size=fontsize)
+
+
+
+
 def text(output_path,txt, heightCM, fontname="Default"):
     fontsize = int(StickFrame.height * (heightCM/100))
     print("height", fontsize, "heightCM", heightCM)
@@ -53,12 +65,14 @@ def text(output_path,txt, heightCM, fontname="Default"):
     
 
     fontname = args.font
-    font = ImageFont.load_default(size=fontsize)
+    font = getFont(fontname, fontsize)
+   
+
 
     path = Path('data/categories/Text/anim')
     path.mkdir(parents=True, exist_ok=True)
     category = "Text"
-    name = clean_filename(txt+str(fontsize))
+    name = clean_filename(f"{txt}_{fontname}_{fontsize}")
 
 
     if category not in stickdata:
