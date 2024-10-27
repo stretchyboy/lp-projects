@@ -2148,5 +2148,39 @@
       "name": "Spinning Ghost",
       "source": "https://gifdb.com/images/high/scary-cute-animated-ghost-mr5e5e60n59lhn7a.gif"
     }
+  },
+  "Text": {
+    "Matthew_BungeeSpice_144": {
+      "category": "Text",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "Matthew_BungeeSpice_144",
+      "source": "BungeeSpice"
+    },
+    "Matthew_CaveatBrush_144": {
+      "category": "Text",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "Matthew_CaveatBrush_144",
+      "source": "CaveatBrush"
+    },
+    "Matthew_CaveatBrush_72": {
+      "category": "Text",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 50,
+      "name": "Matthew_CaveatBrush_72",
+      "source": "CaveatBrush"
+    },
+    "Matthew_Default_144": {
+      "category": "Text",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "Matthew_Default_144",
+      "source": "Default"
+    }
   }
 }

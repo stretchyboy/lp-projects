@@ -45,12 +45,9 @@ def getFont(fontname, fontsize):
     #fonts/CaveatBrush-Regular.ttf
     #BungeeSpice-Regular.ttf
     try:
-        return ImageFont.truetype(f"fonts/{fontname}-Regular.ttf", size=fontsize)
+        return ImageFont.truetype(f"fonts/{fontname}-Regular.ttf", size=144)
     except Exception:
-        return ImageFont.load_default(size=fontsize)
-
-
-
+        return ImageFont.load_default(size=144)
 
 def text(output_path,txt, heightCM, fontname="Default"):
     fontsize = int(StickFrame.height * (heightCM/100))
@@ -109,6 +106,8 @@ def text(output_path,txt, heightCM, fontname="Default"):
     #path = Path('data/text/'+txt+'/'+fontname+"/"+str(fontsize))
     path.mkdir(parents=True, exist_ok=True)
 
+    framefile = open(framepath, 'w')
+    json.dump(stickdata, framefile, sort_keys=True, indent=2)
     
     framefile2 = open('data/categories.json', 'w')
     json.dump(list(stickdata.keys()), framefile2, sort_keys=True, indent=2)
