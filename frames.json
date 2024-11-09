@@ -32,6 +32,14 @@
       "name": "Fox",
       "source": "https://raw.githubusercontent.com/EduMake/mote_light_painting/master/images/fox.gif"
     },
+    "Peace": {
+      "category": "Default",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "Peace",
+      "source": "https://img.freepik.com/premium-vector/white-icon-international-symbol-peace-logo-peace-sign-black-background-peace-day_955564-236.jpg"
+    },
     "Rabbit": {
       "category": "Default",
       "direction": "left",
