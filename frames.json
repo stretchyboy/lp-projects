@@ -2174,6 +2174,14 @@
       "name": "Peace",
       "source": "https://img.freepik.com/premium-vector/white-icon-international-symbol-peace-logo-peace-sign-black-background-peace-day_955564-236.jpg"
     },
+    "UTC Hand": {
+      "category": "Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "UTC Hand",
+      "source": "images/UTC_Hand_Logo.png"
+    },
     "UTC OLP": {
       "category": "Logos",
       "direction": "right",
