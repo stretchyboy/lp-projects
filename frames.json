@@ -2157,6 +2157,200 @@
       "source": "https://gifdb.com/images/high/scary-cute-animated-ghost-mr5e5e60n59lhn7a.gif"
     }
   },
+  "ISO 7001 Logos": {
+    "AC 001: Full accessibility or toilets - accessible": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 001: Full accessibility or toilets - accessible",
+      "source": "images/ISO 7001/AC 001: Full accessibility or toilets - accessible.png"
+    },
+    "AC 002: Slope or ramped access": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 002: Slope or ramped access",
+      "source": "images/ISO 7001/AC 002: Slope or ramped access.png"
+    },
+    "AC 003: Accessible elevator or lift": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 003: Accessible elevator or lift",
+      "source": "images/ISO 7001/AC 003: Accessible elevator or lift.png"
+    },
+    "AC 004: Accessibility, limited walking capability": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 004: Accessibility, limited walking capability",
+      "source": "images/ISO 7001/AC 004: Accessibility, limited walking capability.png"
+    },
+    "AC 005: Accessibility, assistance dog": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 005: Accessibility, assistance dog",
+      "source": "images/ISO 7001/AC 005: Accessibility, assistance dog.png"
+    },
+    "AC 006: Accessibility, personal assistant available": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 006: Accessibility, personal assistant available",
+      "source": "images/ISO 7001/AC 006: Accessibility, personal assistant available.png"
+    },
+    "AC 007: Accessibility, hard of hearing": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 007: Accessibility, hard of hearing",
+      "source": "images/ISO 7001/AC 007: Accessibility, hard of hearing.png"
+    },
+    "AC 008: Accessibility, vision impaired": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 008: Accessibility, vision impaired",
+      "source": "images/ISO 7001/AC 008: Accessibility, vision impaired.png"
+    },
+    "AC 009: Accessibility, blind or low vision": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 009: Accessibility, blind or low vision",
+      "source": "images/ISO 7001/AC 009: Accessibility, blind or low vision.png"
+    },
+    "AC 010: Priority access for elderly people": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 010: Priority access for elderly people",
+      "source": "images/ISO 7001/AC 010: Priority access for elderly people.png"
+    },
+    "AC 011: Priority access for injured people": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 011: Priority access for injured people",
+      "source": "images/ISO 7001/AC 011: Priority access for injured people.png"
+    },
+    "AC 012: Priority access for people with internal medical conditions": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 012: Priority access for people with internal medical conditions",
+      "source": "images/ISO 7001/AC 012: Priority access for people with internal medical conditions.png"
+    },
+    "AC 013: Priority access for people with small children": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 013: Priority access for people with small children",
+      "source": "images/ISO 7001/AC 013: Priority access for people with small children.png"
+    },
+    "AC 014 Priority access for expecting mothers": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 014 Priority access for expecting mothers",
+      "source": "images/ISO 7001/AC 014 Priority access for expecting mothers.png"
+    },
+    "AC 015: Loop for the hearing impaired": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 015: Loop for the hearing impaired",
+      "source": "images/ISO 7001/AC 015: Loop for the hearing impaired.png"
+    },
+    "AC 016: Priority facilities for obese people": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 016: Priority facilities for obese people",
+      "source": "images/ISO 7001/AC 016: Priority facilities for obese people.png"
+    },
+    "AC 017: Priority seats for elderly people": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 017: Priority seats for elderly people",
+      "source": "images/ISO 7001/AC 017: Priority seats for elderly people.png"
+    },
+    "AC 018: Priority seats for injured people": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 018: Priority seats for injured people",
+      "source": "images/ISO 7001/AC 018: Priority seats for injured people.png"
+    },
+    "AC 019: Priority seats for people with internal medical conditions": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 019: Priority seats for people with internal medical conditions",
+      "source": "images/ISO 7001/AC 019: Priority seats for people with internal medical conditions.png"
+    },
+    "AC 020: Priority seats for people with small children": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 020: Priority seats for people with small children",
+      "source": "images/ISO 7001/AC 020: Priority seats for people with small children.png"
+    },
+    "AC 021: Priority seats for expecting mothers": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 021: Priority seats for expecting mothers",
+      "source": "images/ISO 7001/AC 021: Priority seats for expecting mothers.png"
+    },
+    "AC 022: Priority seats for obese people": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 022: Priority seats for obese people",
+      "source": "images/ISO 7001/AC 022: Priority seats for obese people.png"
+    },
+    "AC 023: Universal changing place": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "AC 023: Universal changing place",
+      "source": "images/ISO 7001/AC 023: Universal changing place.png"
+    },
+    "PF 001: Information": {
+      "category": "ISO 7001 Logos",
+      "direction": "right",
+      "frames": 1,
+      "heightCM": 100,
+      "name": "PF 001: Information",
+      "source": "images/ISO 7001/PF 001: Information.png"
+    }
+  },
   "Logos": {
     "Accesible Icon": {
       "category": "Logos",
